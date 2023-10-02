@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "panel_custom")(type "KiCad")(uri "${KIPRJMOD}/panel_custom.kicad_sym")(options "")(descr ""))
+  (lib (name "Espressif")(type "KiCad")(uri "${KIPRJMOD}/esp32_libs/symbols/Espressif.kicad_sym")(options "")(descr ""))
+)
