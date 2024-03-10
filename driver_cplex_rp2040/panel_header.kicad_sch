@@ -414,7 +414,7 @@
     (pin "4" (uuid 077f0560-46a8-4367-a688-b64ef614b9a3))
     (pin "5" (uuid a7a1633b-57a1-4826-9e3c-86d3dc076ef1))
     (instances
-      (project "panel"
+      (project "driver_cplex_rp2040"
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
           (reference "J2") (unit 1)
         )
@@ -442,7 +442,7 @@
     )
     (pin "1" (uuid e64e64b0-c2bf-491f-870c-1e26827c668c))
     (instances
-      (project "panel"
+      (project "driver_cplex_rp2040"
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
           (reference "#PWR068") (unit 1)
         )
@@ -474,7 +474,7 @@
     (pin "4" (uuid f4b9da8d-c7ec-4a43-80ed-509b608e40b1))
     (pin "5" (uuid 2c1accab-4913-444f-9892-0ce9a2461ede))
     (instances
-      (project "panel"
+      (project "driver_cplex_rp2040"
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
           (reference "J4") (unit 1)
         )
@@ -506,7 +506,7 @@
     (pin "4" (uuid a6c92952-81ba-49fe-8f23-89eda2b72e0c))
     (pin "5" (uuid 283a6797-d97c-4fad-a186-044ddb5b6b46))
     (instances
-      (project "panel"
+      (project "driver_cplex_rp2040"
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
           (reference "J3") (unit 1)
         )
@@ -534,7 +534,7 @@
     )
     (pin "1" (uuid 0eec9a37-5d72-4681-8fe8-f2ec0462abfe))
     (instances
-      (project "panel"
+      (project "driver_cplex_rp2040"
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
           (reference "#PWR067") (unit 1)
         )
@@ -562,7 +562,7 @@
     )
     (pin "1" (uuid c7fbf8a6-7233-4d48-aee8-3003ad6bea21))
     (instances
-      (project "panel"
+      (project "driver_cplex_rp2040"
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
           (reference "#PWR055") (unit 1)
         )
@@ -594,7 +594,7 @@
     (pin "4" (uuid 246d04fc-d232-4965-a1b2-c36f9d48207c))
     (pin "5" (uuid cc402ebc-6d55-4b10-8820-57a7d0e4b337))
     (instances
-      (project "panel"
+      (project "driver_cplex_rp2040"
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
           (reference "J1") (unit 1)
         )

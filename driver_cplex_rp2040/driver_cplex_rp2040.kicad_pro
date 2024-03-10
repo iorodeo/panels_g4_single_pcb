@@ -417,7 +417,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "panel.kicad_pro",
+    "filename": "driver_cplex_rp2040.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -1116,20 +1116,8 @@
       "panel_mcu"
     ],
     [
-      "a51e05e2-1e37-4452-8ed7-1728c2893225",
-      "panel_row_decoder"
-    ],
-    [
       "9e6027a1-8475-463d-b347-a287726616e8",
       "panel_leds"
-    ],
-    [
-      "29cf2831-bd05-404a-a74f-72edade2f436",
-      "panel_col_driver"
-    ],
-    [
-      "d10e3f1b-1780-4747-aac4-2659a6f3c24e",
-      "panel_row_driver"
     ],
     [
       "e614504e-e15b-412a-a899-de4ba0827a39",
