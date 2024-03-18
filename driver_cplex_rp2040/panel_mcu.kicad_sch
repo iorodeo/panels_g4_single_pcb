@@ -1273,7 +1273,7 @@
     (uuid e58e6502-1cb6-4f8f-9461-867fca64577c)
   )
 
-  (hierarchical_label "CPLEX_05" (shape output) (at 154.94 109.22 0) (fields_autoplaced)
+  (hierarchical_label "CP_3V3_05" (shape output) (at 154.94 109.22 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 053a3267-9125-457a-bd40-dd5ae2c2c374)
   )
@@ -1285,15 +1285,15 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 13e020ee-7a59-42dd-a0b0-dde963c615d8)
   )
-  (hierarchical_label "CPLEX_01" (shape output) (at 154.94 99.06 0) (fields_autoplaced)
+  (hierarchical_label "CP_3V3_01" (shape output) (at 154.94 99.06 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 17c2fb5f-cdd8-4caf-9f7f-40852255001e)
   )
-  (hierarchical_label "CPLEX_07" (shape output) (at 154.94 114.3 0) (fields_autoplaced)
+  (hierarchical_label "CP_3V3_07" (shape output) (at 154.94 114.3 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 22f98cfb-6866-4209-bbe9-ed4b49e6e8e5)
   )
-  (hierarchical_label "CPLEX_04" (shape output) (at 154.94 106.68 0) (fields_autoplaced)
+  (hierarchical_label "CP_3V3_04" (shape output) (at 154.94 106.68 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 24070303-3134-47d5-8d60-7fb4d363d050)
   )
@@ -1301,15 +1301,15 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 28c1998f-6e4c-44c6-bab5-8d35897b676c)
   )
-  (hierarchical_label "CPLEX_12" (shape output) (at 154.94 127 0) (fields_autoplaced)
+  (hierarchical_label "CP_3V3_12" (shape output) (at 154.94 127 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 2bd4d4ea-b17f-4f34-8069-23e3569b51fc)
   )
-  (hierarchical_label "CPLEX_11" (shape output) (at 154.94 124.46 0) (fields_autoplaced)
+  (hierarchical_label "CP_3V3_11" (shape output) (at 154.94 124.46 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 5557d724-fadb-4da3-9e9a-822fe86e0798)
   )
-  (hierarchical_label "CPLEX_15" (shape output) (at 154.94 134.62 0) (fields_autoplaced)
+  (hierarchical_label "CP_3V3_15" (shape output) (at 154.94 134.62 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 6b57eb04-9af7-4bfc-a3b2-1ad11b113a6d)
   )
@@ -1317,35 +1317,35 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 73c8c9af-01f3-4da1-8f60-6ec34b7f8501)
   )
-  (hierarchical_label "CPLEX_13" (shape output) (at 154.94 129.54 0) (fields_autoplaced)
+  (hierarchical_label "CP_3V3_13" (shape output) (at 154.94 129.54 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 74eec1c7-f066-401d-834b-39cd3f9fefd3)
   )
-  (hierarchical_label "CPLEX_09" (shape output) (at 154.94 119.38 0) (fields_autoplaced)
+  (hierarchical_label "CP_3V3_09" (shape output) (at 154.94 119.38 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 7cd36b3c-7468-43d7-a1a9-eca90db89705)
   )
-  (hierarchical_label "CPLEX_00" (shape output) (at 154.94 96.52 0) (fields_autoplaced)
+  (hierarchical_label "CP_3V3_00" (shape output) (at 154.94 96.52 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 85af8989-9ac9-4285-8e13-4d158e88895b)
   )
-  (hierarchical_label "CPLEX_10" (shape output) (at 154.94 121.92 0) (fields_autoplaced)
+  (hierarchical_label "CP_3V3_10" (shape output) (at 154.94 121.92 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 9a607717-8d1b-4358-bc3c-22f684e4f2d9)
   )
-  (hierarchical_label "CPLEX_03" (shape output) (at 154.94 104.14 0) (fields_autoplaced)
+  (hierarchical_label "CP_3V3_03" (shape output) (at 154.94 104.14 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid b45a987a-a9ed-4aba-ace5-fdc747aca29d)
   )
-  (hierarchical_label "CPLEX_06" (shape output) (at 154.94 111.76 0) (fields_autoplaced)
+  (hierarchical_label "CP_3V3_06" (shape output) (at 154.94 111.76 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid b5133632-9c73-4457-ac39-75358a770556)
   )
-  (hierarchical_label "CPLEX_16" (shape output) (at 154.94 137.16 0) (fields_autoplaced)
+  (hierarchical_label "CP_3V3_16" (shape output) (at 154.94 137.16 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid b86c4ea9-4a77-41fa-a3e8-1afc6947e2c7)
   )
-  (hierarchical_label "CPLEX_08" (shape output) (at 154.94 116.84 0) (fields_autoplaced)
+  (hierarchical_label "CP_3V3_08" (shape output) (at 154.94 116.84 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid c07fc7cf-1d89-44a4-9841-8dfa95f3e0e6)
   )
@@ -1353,7 +1353,7 @@
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid c62b860a-d442-4cbb-854e-f30a0f4c4716)
   )
-  (hierarchical_label "CPLEX_02" (shape output) (at 154.94 101.6 0) (fields_autoplaced)
+  (hierarchical_label "CP_3V3_02" (shape output) (at 154.94 101.6 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid d7c8128b-3655-4bcd-9975-2dcb345ef645)
   )
@@ -1361,7 +1361,7 @@
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid ece1e725-3b15-4b79-8060-9e8d59cf7e13)
   )
-  (hierarchical_label "CPLEX_14" (shape output) (at 154.94 132.08 0) (fields_autoplaced)
+  (hierarchical_label "CP_3V3_14" (shape output) (at 154.94 132.08 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid f5bb935e-1cbc-4bee-8309-3b00f1173515)
   )
@@ -1369,7 +1369,7 @@
   (symbol (lib_id "power:GND") (at 56.515 135.89 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 08643704-22ee-44b9-9433-1de7478a8406)
-    (property "Reference" "#PWR050" (at 56.515 142.24 0)
+    (property "Reference" "#PWR0108" (at 56.515 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 56.515 140.97 0)
@@ -1384,9 +1384,6 @@
     (pin "1" (uuid 4998879b-e3d6-414c-ab73-41aaae5e264c))
     (instances
       (project "driver_cplex_rp2040"
-        (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
-          (reference "#PWR050") (unit 1)
-        )
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
           (reference "#PWR0108") (unit 1)
         )
@@ -1397,10 +1394,10 @@
   (symbol (lib_id "Device:C") (at 189.23 52.07 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 09e7afa6-6003-4685-a255-28e52ba915c1)
-    (property "Reference" "C37" (at 185.42 51.435 0)
+    (property "Reference" "C13" (at 185.42 50.8 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "0.1uF" (at 185.42 53.975 0)
+    (property "Value" "0.1uF" (at 185.42 53.34 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "panel_custom:C_0201_0603Metric" (at 190.1952 48.26 0)
@@ -1413,11 +1410,8 @@
     (pin "2" (uuid c05774fd-b448-4128-89c4-a680ead26017))
     (instances
       (project "driver_cplex_rp2040"
-        (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
-          (reference "C37") (unit 1)
-        )
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-          (reference "C12") (unit 1)
+          (reference "C13") (unit 1)
         )
       )
     )
@@ -1426,10 +1420,10 @@
   (symbol (lib_id "Device:C") (at 110.49 52.705 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1faedd88-3f7f-4bd4-8805-7cf977e009cf)
-    (property "Reference" "C37" (at 107.315 52.07 0)
+    (property "Reference" "C8" (at 106.68 51.435 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "0.1uF" (at 107.315 54.61 0)
+    (property "Value" "0.1uF" (at 106.68 53.975 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "panel_custom:C_0201_0603Metric" (at 111.4552 48.895 0)
@@ -1442,11 +1436,8 @@
     (pin "2" (uuid 85b11e48-846b-4cb3-90e4-1b4d06273ba5))
     (instances
       (project "driver_cplex_rp2040"
-        (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
-          (reference "C37") (unit 1)
-        )
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-          (reference "C7") (unit 1)
+          (reference "C8") (unit 1)
         )
       )
     )
@@ -1455,10 +1446,10 @@
   (symbol (lib_id "Switch:SW_Push") (at 201.295 95.25 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 262f861a-49b6-4e14-ad95-995ba7da9ee1)
-    (property "Reference" "SW2" (at 201.295 88.265 0)
+    (property "Reference" "SW2" (at 201.295 87.63 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "SW_Push" (at 201.295 90.805 0)
+    (property "Value" "SW_Push" (at 201.295 90.17 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (at 201.295 90.17 0)
@@ -1471,11 +1462,8 @@
     (pin "2" (uuid 6d6adb55-694b-4b65-a39f-6f921a826325))
     (instances
       (project "driver_cplex_rp2040"
-        (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
-          (reference "SW2") (unit 1)
-        )
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-          (reference "SW4") (unit 1)
+          (reference "SW2") (unit 1)
         )
       )
     )
@@ -1484,7 +1472,7 @@
   (symbol (lib_id "power:GND") (at 268.605 88.265 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 27dc1d45-d82c-4359-b3f2-94a2887c72f9)
-    (property "Reference" "#PWR054" (at 268.605 94.615 0)
+    (property "Reference" "#PWR0117" (at 268.605 94.615 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 268.605 93.345 0)
@@ -1499,9 +1487,6 @@
     (pin "1" (uuid 7433dbf2-bc48-45e2-8722-d9f8aae7668b))
     (instances
       (project "driver_cplex_rp2040"
-        (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
-          (reference "#PWR054") (unit 1)
-        )
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
           (reference "#PWR0117") (unit 1)
         )
@@ -1512,7 +1497,7 @@
   (symbol (lib_id "Device:Crystal") (at 73.66 127 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2a18ed73-ce5a-424b-a031-729bab964afe)
-    (property "Reference" "Y1" (at 77.47 126.365 90)
+    (property "Reference" "Y2" (at 77.47 126.365 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "40MHz" (at 77.47 128.905 90)
@@ -1528,9 +1513,6 @@
     (pin "2" (uuid 6a07616b-bba3-4a1a-b358-2e6d5216283a))
     (instances
       (project "driver_cplex_rp2040"
-        (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
-          (reference "Y1") (unit 1)
-        )
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
           (reference "Y2") (unit 1)
         )
@@ -1541,7 +1523,7 @@
   (symbol (lib_id "power:GND") (at 36.83 66.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2c314b33-9008-42db-bec2-9bafb6c22b46)
-    (property "Reference" "#PWR073" (at 36.83 72.39 0)
+    (property "Reference" "#PWR0110" (at 36.83 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 36.83 71.12 0)
@@ -1556,9 +1538,6 @@
     (pin "1" (uuid 35ea0756-857a-4110-ac9f-b6fd705d1df5))
     (instances
       (project "driver_cplex_rp2040"
-        (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
-          (reference "#PWR073") (unit 1)
-        )
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
           (reference "#PWR0110") (unit 1)
         )
@@ -1569,7 +1548,7 @@
   (symbol (lib_id "power:+3.3V") (at 56.515 46.99 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2ca55c1e-8dc2-4ca2-8054-d77ce5639a66)
-    (property "Reference" "#PWR071" (at 56.515 50.8 0)
+    (property "Reference" "#PWR0111" (at 56.515 50.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3.3V" (at 56.515 43.18 0)
@@ -1584,9 +1563,6 @@
     (pin "1" (uuid a2756ea5-631c-4df5-8bda-a6951ea7f421))
     (instances
       (project "driver_cplex_rp2040"
-        (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
-          (reference "#PWR071") (unit 1)
-        )
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
           (reference "#PWR0111") (unit 1)
         )
@@ -1597,7 +1573,7 @@
   (symbol (lib_id "power:GND") (at 255.27 116.84 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3104232f-48ef-43bd-8234-94d4bdd8f6f1)
-    (property "Reference" "#PWR054" (at 255.27 123.19 0)
+    (property "Reference" "#PWR0115" (at 255.27 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 255.27 121.92 0)
@@ -1612,9 +1588,6 @@
     (pin "1" (uuid 625d71c5-3bd5-4e12-a77b-54273df5085f))
     (instances
       (project "driver_cplex_rp2040"
-        (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
-          (reference "#PWR054") (unit 1)
-        )
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
           (reference "#PWR0115") (unit 1)
         )
@@ -1625,7 +1598,7 @@
   (symbol (lib_id "power:GND") (at 110.49 58.42 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 38f085e1-f4a5-4247-bff5-c74f94c78ef2)
-    (property "Reference" "#PWR073" (at 110.49 64.77 0)
+    (property "Reference" "#PWR0121" (at 110.49 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 110.49 63.5 0)
@@ -1640,9 +1613,6 @@
     (pin "1" (uuid 81e113ae-a114-4057-9f51-6ba6f7c5b628))
     (instances
       (project "driver_cplex_rp2040"
-        (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
-          (reference "#PWR073") (unit 1)
-        )
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
           (reference "#PWR0121") (unit 1)
         )
@@ -1653,10 +1623,10 @@
   (symbol (lib_id "Device:C") (at 176.53 52.07 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3ac0b8a1-7eca-4fe7-b699-632efdc1a5db)
-    (property "Reference" "C37" (at 172.72 51.435 0)
+    (property "Reference" "C12" (at 172.72 50.8 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "0.1uF" (at 172.72 53.975 0)
+    (property "Value" "0.1uF" (at 172.72 53.34 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "panel_custom:C_0201_0603Metric" (at 177.4952 48.26 0)
@@ -1669,11 +1639,8 @@
     (pin "2" (uuid 7a430d1e-e87b-4806-af16-bc03f4bf7318))
     (instances
       (project "driver_cplex_rp2040"
-        (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
-          (reference "C37") (unit 1)
-        )
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-          (reference "C11") (unit 1)
+          (reference "C12") (unit 1)
         )
       )
     )
@@ -1682,10 +1649,10 @@
   (symbol (lib_id "Device:C") (at 140.97 52.07 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3df33083-93b6-45c1-8088-1533bdd8e419)
-    (property "Reference" "C37" (at 137.795 51.435 0)
+    (property "Reference" "C9" (at 137.16 50.8 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "1uF" (at 137.795 53.975 0)
+    (property "Value" "1uF" (at 137.16 53.34 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "panel_custom:C_0201_0603Metric" (at 141.9352 48.26 0)
@@ -1698,11 +1665,8 @@
     (pin "2" (uuid a2c20723-8e8d-4f23-b9c1-3db2f3502fad))
     (instances
       (project "driver_cplex_rp2040"
-        (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
-          (reference "C37") (unit 1)
-        )
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-          (reference "C8") (unit 1)
+          (reference "C9") (unit 1)
         )
       )
     )
@@ -1711,7 +1675,7 @@
   (symbol (lib_id "Device:R") (at 66.04 86.36 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3e056250-7073-4100-9926-1f22c3cd8e12)
-    (property "Reference" "R119" (at 66.04 83.82 90)
+    (property "Reference" "R5" (at 66.04 83.82 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "27.4" (at 66.04 86.36 90)
@@ -1728,7 +1692,7 @@
     (instances
       (project "driver_cplex_rp2040"
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-          (reference "R119") (unit 1)
+          (reference "R5") (unit 1)
         )
       )
     )
@@ -1737,7 +1701,7 @@
   (symbol (lib_id "power:GND") (at 85.725 58.42 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3f24f6c3-cf5b-4f6e-a962-383b7085b105)
-    (property "Reference" "#PWR073" (at 85.725 64.77 0)
+    (property "Reference" "#PWR0119" (at 85.725 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 85.725 63.5 0)
@@ -1752,9 +1716,6 @@
     (pin "1" (uuid a0e28fdd-eb12-4ac6-9f75-d1b0658e2533))
     (instances
       (project "driver_cplex_rp2040"
-        (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
-          (reference "#PWR073") (unit 1)
-        )
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
           (reference "#PWR0119") (unit 1)
         )
@@ -1765,10 +1726,10 @@
   (symbol (lib_id "Switch:SW_Push") (at 47.625 54.61 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4340e6f4-32f2-4f1e-9cb2-9e796f949602)
-    (property "Reference" "SW2" (at 47.625 47.625 0)
+    (property "Reference" "SW1" (at 47.625 46.99 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "SW_Push" (at 47.625 50.165 0)
+    (property "Value" "SW_Push" (at 47.625 49.53 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (at 47.625 49.53 0)
@@ -1781,11 +1742,8 @@
     (pin "2" (uuid 04b8b7d9-e4ff-41a6-b23b-b550a15f4f04))
     (instances
       (project "driver_cplex_rp2040"
-        (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
-          (reference "SW2") (unit 1)
-        )
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-          (reference "SW3") (unit 1)
+          (reference "SW1") (unit 1)
         )
       )
     )
@@ -1794,7 +1752,7 @@
   (symbol (lib_id "power:GND") (at 140.97 57.785 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 47a9b0b2-37eb-4a62-a51e-b4348446245f)
-    (property "Reference" "#PWR073" (at 140.97 64.135 0)
+    (property "Reference" "#PWR0122" (at 140.97 64.135 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 140.97 62.865 0)
@@ -1809,9 +1767,6 @@
     (pin "1" (uuid 175b1168-3cb2-498e-8ee6-3de3dde51cd3))
     (instances
       (project "driver_cplex_rp2040"
-        (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
-          (reference "#PWR073") (unit 1)
-        )
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
           (reference "#PWR0122") (unit 1)
         )
@@ -1822,7 +1777,7 @@
   (symbol (lib_id "power:GND") (at 164.465 57.785 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 49f78542-2082-4b74-83f5-f74b0f05a62e)
-    (property "Reference" "#PWR073" (at 164.465 64.135 0)
+    (property "Reference" "#PWR0124" (at 164.465 64.135 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 164.465 62.865 0)
@@ -1837,9 +1792,6 @@
     (pin "1" (uuid a5fca683-c36e-4e24-9fa2-bc8bc4bfc44f))
     (instances
       (project "driver_cplex_rp2040"
-        (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
-          (reference "#PWR073") (unit 1)
-        )
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
           (reference "#PWR0124") (unit 1)
         )
@@ -1850,7 +1802,7 @@
   (symbol (lib_id "power:+3.3V") (at 255.27 76.2 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4f0180a9-b86c-443e-9b9f-fd4d3c6f48aa)
-    (property "Reference" "#PWR071" (at 255.27 80.01 0)
+    (property "Reference" "#PWR0116" (at 255.27 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3.3V" (at 255.27 72.39 0)
@@ -1865,9 +1817,6 @@
     (pin "1" (uuid 88f62bd3-bb4b-4cf7-83d0-989cd9b3e309))
     (instances
       (project "driver_cplex_rp2040"
-        (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
-          (reference "#PWR071") (unit 1)
-        )
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
           (reference "#PWR0116") (unit 1)
         )
@@ -1878,7 +1827,7 @@
   (symbol (lib_id "Device:R") (at 88.9 132.08 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 504f4874-1b38-4b2c-b145-0c95a9aa23a5)
-    (property "Reference" "R69" (at 88.9 129.54 90)
+    (property "Reference" "R6" (at 88.9 129.54 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1k" (at 88.9 132.08 90)
@@ -1894,11 +1843,8 @@
     (pin "2" (uuid 56f1c958-0ed4-4253-bd79-1f87f4154dc8))
     (instances
       (project "driver_cplex_rp2040"
-        (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
-          (reference "R69") (unit 1)
-        )
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-          (reference "R120") (unit 1)
+          (reference "R6") (unit 1)
         )
       )
     )
@@ -1907,10 +1853,10 @@
   (symbol (lib_id "Device:C") (at 85.725 52.705 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 507174dc-cdc8-4b4d-a4f9-1f0931c40f8a)
-    (property "Reference" "C37" (at 82.55 52.07 0)
+    (property "Reference" "C6" (at 82.55 51.435 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "1uF" (at 82.55 54.61 0)
+    (property "Value" "1uF" (at 82.55 53.975 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "panel_custom:C_0201_0603Metric" (at 86.6902 48.895 0)
@@ -1923,11 +1869,8 @@
     (pin "2" (uuid eafdf0db-bb5e-43c2-8caa-2174d8429314))
     (instances
       (project "driver_cplex_rp2040"
-        (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
-          (reference "C37") (unit 1)
-        )
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-          (reference "C5") (unit 1)
+          (reference "C6") (unit 1)
         )
       )
     )
@@ -1936,10 +1879,10 @@
   (symbol (lib_id "Device:R") (at 219.075 95.25 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5f8c0d90-983f-4fab-9e0d-4ae849a41392)
-    (property "Reference" "R65" (at 219.075 90.805 90)
+    (property "Reference" "R7" (at 219.075 88.9 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "1k" (at 219.075 93.345 90)
+    (property "Value" "1k" (at 219.075 91.44 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (at 219.075 93.472 90)
@@ -1952,11 +1895,8 @@
     (pin "2" (uuid b67fb293-ab68-44bd-971d-cffac9dbeeb6))
     (instances
       (project "driver_cplex_rp2040"
-        (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
-          (reference "R65") (unit 1)
-        )
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-          (reference "R122") (unit 1)
+          (reference "R7") (unit 1)
         )
       )
     )
@@ -1965,7 +1905,7 @@
   (symbol (lib_id "power:GND") (at 193.675 97.79 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6143a511-ed6b-42d1-a5fa-1543f3bf1163)
-    (property "Reference" "#PWR054" (at 193.675 104.14 0)
+    (property "Reference" "#PWR0118" (at 193.675 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 193.675 102.87 0)
@@ -1980,9 +1920,6 @@
     (pin "1" (uuid d3af41a1-9786-4821-916f-5489482ad247))
     (instances
       (project "driver_cplex_rp2040"
-        (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
-          (reference "#PWR054") (unit 1)
-        )
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
           (reference "#PWR0118") (unit 1)
         )
@@ -1993,7 +1930,7 @@
   (symbol (lib_id "power:GND") (at 176.53 57.785 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 618c20c6-5ba8-4571-ae22-35722237bc4a)
-    (property "Reference" "#PWR073" (at 176.53 64.135 0)
+    (property "Reference" "#PWR0125" (at 176.53 64.135 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 176.53 62.865 0)
@@ -2008,9 +1945,6 @@
     (pin "1" (uuid 0f0a4639-f95c-4ca1-ab0d-e74761a2ddb4))
     (instances
       (project "driver_cplex_rp2040"
-        (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
-          (reference "#PWR073") (unit 1)
-        )
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
           (reference "#PWR0125") (unit 1)
         )
@@ -2021,7 +1955,7 @@
   (symbol (lib_id "power:+3.3V") (at 132.715 46.355 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 654f237e-f7f5-460d-936d-5b159527674d)
-    (property "Reference" "#PWR071" (at 132.715 50.165 0)
+    (property "Reference" "#PWR0113" (at 132.715 50.165 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3.3V" (at 132.715 42.545 0)
@@ -2036,9 +1970,6 @@
     (pin "1" (uuid 70a1e60f-7196-462c-9866-d946a851713c))
     (instances
       (project "driver_cplex_rp2040"
-        (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
-          (reference "#PWR071") (unit 1)
-        )
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
           (reference "#PWR0113") (unit 1)
         )
@@ -2049,7 +1980,7 @@
   (symbol (lib_id "power:GND") (at 201.93 57.785 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 67a115e3-d3fa-4e45-9c38-aa89688fe330)
-    (property "Reference" "#PWR073" (at 201.93 64.135 0)
+    (property "Reference" "#PWR0127" (at 201.93 64.135 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 201.93 62.865 0)
@@ -2064,9 +1995,6 @@
     (pin "1" (uuid 64aaaa42-2151-4a1f-b0db-975ba6714d94))
     (instances
       (project "driver_cplex_rp2040"
-        (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
-          (reference "#PWR073") (unit 1)
-        )
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
           (reference "#PWR0127") (unit 1)
         )
@@ -2077,7 +2005,7 @@
   (symbol (lib_id "power:GND") (at 56.515 66.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8001b768-b9ed-4d1a-a8ed-38226036615a)
-    (property "Reference" "#PWR073" (at 56.515 72.39 0)
+    (property "Reference" "#PWR0112" (at 56.515 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 56.515 71.12 0)
@@ -2092,9 +2020,6 @@
     (pin "1" (uuid 5ad221c5-7740-4a2b-ab3e-1a6815b756d1))
     (instances
       (project "driver_cplex_rp2040"
-        (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
-          (reference "#PWR073") (unit 1)
-        )
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
           (reference "#PWR0112") (unit 1)
         )
@@ -2105,10 +2030,10 @@
   (symbol (lib_id "Device:C") (at 152.4 52.07 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 89b23048-4353-4074-a8a2-aa9a818bcb86)
-    (property "Reference" "C37" (at 149.225 51.435 0)
+    (property "Reference" "C10" (at 148.59 50.8 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "1uF" (at 149.225 53.975 0)
+    (property "Value" "1uF" (at 148.59 53.34 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "panel_custom:C_0201_0603Metric" (at 153.3652 48.26 0)
@@ -2121,11 +2046,8 @@
     (pin "2" (uuid 4819c648-e38e-4d41-9ebe-acb17fa8fe67))
     (instances
       (project "driver_cplex_rp2040"
-        (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
-          (reference "C37") (unit 1)
-        )
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-          (reference "C9") (unit 1)
+          (reference "C10") (unit 1)
         )
       )
     )
@@ -2134,11 +2056,11 @@
   (symbol (lib_id "Device:R") (at 241.935 85.09 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8ec55ed9-2016-4be6-abd7-6b213ec16985)
-    (property "Reference" "R65" (at 239.395 84.455 0)
-      (effects (font (size 1.27 1.27)) (justify left))
+    (property "Reference" "R8" (at 243.84 83.82 0)
+      (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "10k" (at 239.395 86.995 0)
-      (effects (font (size 1.27 1.27)) (justify left))
+    (property "Value" "10k" (at 243.84 86.36 0)
+      (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "" (at 243.713 85.09 90)
       (effects (font (size 1.27 1.27)) hide)
@@ -2150,11 +2072,8 @@
     (pin "2" (uuid 4bb9af77-aa6c-41d0-9e39-ae10c694fc38))
     (instances
       (project "driver_cplex_rp2040"
-        (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
-          (reference "R65") (unit 1)
-        )
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-          (reference "R121") (unit 1)
+          (reference "R8") (unit 1)
         )
       )
     )
@@ -2163,7 +2082,7 @@
   (symbol (lib_id "power:GND") (at 152.4 57.785 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 909f5719-c310-4f3c-b52d-ab2bea8089ff)
-    (property "Reference" "#PWR073" (at 152.4 64.135 0)
+    (property "Reference" "#PWR0123" (at 152.4 64.135 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 152.4 62.865 0)
@@ -2178,9 +2097,6 @@
     (pin "1" (uuid 89309276-5371-481d-832a-4f80d92cd26c))
     (instances
       (project "driver_cplex_rp2040"
-        (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
-          (reference "#PWR073") (unit 1)
-        )
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
           (reference "#PWR0123") (unit 1)
         )
@@ -2191,7 +2107,7 @@
   (symbol (lib_id "power:GND") (at 92.075 156.21 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9145388b-bf24-4725-8ae6-e7f25d408b44)
-    (property "Reference" "#PWR054" (at 92.075 162.56 0)
+    (property "Reference" "#PWR0109" (at 92.075 162.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 92.075 161.29 0)
@@ -2206,9 +2122,6 @@
     (pin "1" (uuid 10432a94-f45a-47d9-bd6e-a9501ece86d0))
     (instances
       (project "driver_cplex_rp2040"
-        (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
-          (reference "#PWR054") (unit 1)
-        )
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
           (reference "#PWR0109") (unit 1)
         )
@@ -2219,7 +2132,7 @@
   (symbol (lib_id "power:GND") (at 189.23 57.785 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 94c13de3-9c41-4b89-80d7-844b0845556a)
-    (property "Reference" "#PWR073" (at 189.23 64.135 0)
+    (property "Reference" "#PWR0126" (at 189.23 64.135 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 189.23 62.865 0)
@@ -2234,9 +2147,6 @@
     (pin "1" (uuid aba64983-6dd4-49e3-b049-d21ffb16955a))
     (instances
       (project "driver_cplex_rp2040"
-        (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
-          (reference "#PWR073") (unit 1)
-        )
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
           (reference "#PWR0126") (unit 1)
         )
@@ -2247,10 +2157,10 @@
   (symbol (lib_id "Device:C") (at 97.79 52.705 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 959b9177-bee4-46f3-9bb7-ee3c4e371728)
-    (property "Reference" "C37" (at 94.615 52.07 0)
+    (property "Reference" "C7" (at 93.98 51.435 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "0.1uF" (at 94.615 54.61 0)
+    (property "Value" "0.1uF" (at 93.98 53.975 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "panel_custom:C_0201_0603Metric" (at 98.7552 48.895 0)
@@ -2263,11 +2173,8 @@
     (pin "2" (uuid d920a312-c61e-4d03-913a-20a46f5b8793))
     (instances
       (project "driver_cplex_rp2040"
-        (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
-          (reference "C37") (unit 1)
-        )
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-          (reference "C6") (unit 1)
+          (reference "C7") (unit 1)
         )
       )
     )
@@ -2276,7 +2183,7 @@
   (symbol (lib_id "power:GND") (at 122.555 161.29 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a834363a-0963-4738-8130-773f57db15a5)
-    (property "Reference" "#PWR054" (at 122.555 167.64 0)
+    (property "Reference" "#PWR0107" (at 122.555 167.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 122.555 166.37 0)
@@ -2291,9 +2198,6 @@
     (pin "1" (uuid 69f6b1b8-5acb-41e6-9649-b2f9d61a3d12))
     (instances
       (project "driver_cplex_rp2040"
-        (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
-          (reference "#PWR054") (unit 1)
-        )
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
           (reference "#PWR0107") (unit 1)
         )
@@ -2304,10 +2208,10 @@
   (symbol (lib_id "MCU_RaspberryPi:RP2040") (at 122.555 114.3 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a8e6d762-e558-4c33-85fd-6d5cbf2e08cb)
-    (property "Reference" "U5" (at 124.5109 158.75 0)
+    (property "Reference" "U2" (at 124.7491 158.75 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "RP2040" (at 124.5109 161.29 0)
+    (property "Value" "RP2040" (at 124.7491 161.29 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm" (at 122.555 114.3 0)
@@ -2376,7 +2280,7 @@
     (instances
       (project "driver_cplex_rp2040"
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-          (reference "U5") (unit 1)
+          (reference "U2") (unit 1)
         )
       )
     )
@@ -2385,10 +2289,10 @@
   (symbol (lib_id "Device:C") (at 201.93 52.07 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid afa66ad4-8e30-4f04-ab72-519ba4a13227)
-    (property "Reference" "C37" (at 198.12 51.435 0)
+    (property "Reference" "C14" (at 198.12 50.8 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "0.1uF" (at 198.12 53.975 0)
+    (property "Value" "0.1uF" (at 198.12 53.34 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "panel_custom:C_0201_0603Metric" (at 202.8952 48.26 0)
@@ -2401,11 +2305,8 @@
     (pin "2" (uuid 4fa00580-3c94-4ad2-b08d-d96318b38b5a))
     (instances
       (project "driver_cplex_rp2040"
-        (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
-          (reference "C37") (unit 1)
-        )
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-          (reference "C13") (unit 1)
+          (reference "C14") (unit 1)
         )
       )
     )
@@ -2439,10 +2340,10 @@
   (symbol (lib_id "Device:C") (at 164.465 52.07 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b7e8ae2e-d7b6-4d7a-9e02-22f93cb3e83f)
-    (property "Reference" "C37" (at 161.29 51.435 0)
+    (property "Reference" "C11" (at 161.29 50.8 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "0.1uF" (at 161.29 53.975 0)
+    (property "Value" "0.1uF" (at 161.29 53.34 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "panel_custom:C_0201_0603Metric" (at 165.4302 48.26 0)
@@ -2455,11 +2356,8 @@
     (pin "2" (uuid b8b09fc2-946a-4a1a-a68d-e0b77d9e93c5))
     (instances
       (project "driver_cplex_rp2040"
-        (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
-          (reference "C37") (unit 1)
-        )
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-          (reference "C10") (unit 1)
+          (reference "C11") (unit 1)
         )
       )
     )
@@ -2468,10 +2366,10 @@
   (symbol (lib_id "Device:C") (at 64.77 121.92 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ba60b23c-9a55-47e9-87fd-54be55b06455)
-    (property "Reference" "C33" (at 64.77 115.57 90)
+    (property "Reference" "C4" (at 64.77 114.3 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "20pF" (at 64.77 118.11 90)
+    (property "Value" "20pF" (at 64.77 116.84 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "panel_custom:C_0201_0603Metric" (at 60.96 122.8852 0)
@@ -2484,11 +2382,8 @@
     (pin "2" (uuid db9125a4-e916-4626-869b-175b84347257))
     (instances
       (project "driver_cplex_rp2040"
-        (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
-          (reference "C33") (unit 1)
-        )
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-          (reference "C1") (unit 1)
+          (reference "C4") (unit 1)
         )
       )
     )
@@ -2497,7 +2392,7 @@
   (symbol (lib_id "Device:R") (at 66.04 80.645 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid cf4b4cf4-4138-4d4b-8b47-d6ea388365f4)
-    (property "Reference" "R118" (at 66.04 78.105 90)
+    (property "Reference" "R4" (at 66.04 78.105 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "27.4" (at 66.04 80.645 90)
@@ -2514,19 +2409,19 @@
     (instances
       (project "driver_cplex_rp2040"
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-          (reference "R118") (unit 1)
+          (reference "R4") (unit 1)
         )
       )
     )
   )
 
   (symbol (lib_id "Device:C") (at 64.77 132.08 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid d000b669-1be2-451b-8146-e624d45a0144)
-    (property "Reference" "C34" (at 64.77 125.73 90)
+    (property "Reference" "C5" (at 64.77 136.525 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "20pF" (at 64.77 128.27 90)
+    (property "Value" "20pF" (at 64.77 139.065 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "panel_custom:C_0201_0603Metric" (at 60.96 133.0452 0)
@@ -2539,11 +2434,8 @@
     (pin "2" (uuid 52a27ea3-1ff7-497f-b135-5539c9db0c07))
     (instances
       (project "driver_cplex_rp2040"
-        (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
-          (reference "C34") (unit 1)
-        )
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-          (reference "C2") (unit 1)
+          (reference "C5") (unit 1)
         )
       )
     )
@@ -2552,10 +2444,10 @@
   (symbol (lib_id "Device:C") (at 268.605 82.55 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d3017cf4-f0f4-4ce6-a082-558619ec4d5d)
-    (property "Reference" "C37" (at 265.43 81.915 0)
+    (property "Reference" "C15" (at 265.43 81.28 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "0.1uF" (at 265.43 84.455 0)
+    (property "Value" "0.1uF" (at 265.43 83.82 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "panel_custom:C_0201_0603Metric" (at 269.5702 78.74 0)
@@ -2568,11 +2460,8 @@
     (pin "2" (uuid fdf07432-0469-4959-a33d-d0250c7aa8f7))
     (instances
       (project "driver_cplex_rp2040"
-        (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
-          (reference "C37") (unit 1)
-        )
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-          (reference "C4") (unit 1)
+          (reference "C15") (unit 1)
         )
       )
     )
@@ -2581,7 +2470,7 @@
   (symbol (lib_id "Device:C") (at 56.515 60.325 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e1f93b45-f21c-442b-9d74-02d66c6f28c7)
-    (property "Reference" "C37" (at 53.34 59.69 0)
+    (property "Reference" "C3" (at 53.34 59.69 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "0.1uF" (at 53.34 62.23 0)
@@ -2597,9 +2486,6 @@
     (pin "2" (uuid 70c10198-8413-4926-8332-29f138ad57a2))
     (instances
       (project "driver_cplex_rp2040"
-        (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
-          (reference "C37") (unit 1)
-        )
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
           (reference "C3") (unit 1)
         )
@@ -2610,7 +2496,7 @@
   (symbol (lib_id "Memory_Flash:W25Q128JVS") (at 255.27 102.87 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ea41cb58-1f48-4a1f-86a5-2f91cc93067d)
-    (property "Reference" "U6" (at 264.795 102.235 0)
+    (property "Reference" "U3" (at 264.795 102.235 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "W25Q128JVS" (at 264.795 104.775 0)
@@ -2633,7 +2519,7 @@
     (instances
       (project "driver_cplex_rp2040"
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-          (reference "U6") (unit 1)
+          (reference "U3") (unit 1)
         )
       )
     )
@@ -2642,7 +2528,7 @@
   (symbol (lib_id "power:GND") (at 97.79 58.42 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ff8d38af-9a6d-47e0-9138-38369cb6fbc8)
-    (property "Reference" "#PWR073" (at 97.79 64.77 0)
+    (property "Reference" "#PWR0120" (at 97.79 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 97.79 63.5 0)
@@ -2657,9 +2543,6 @@
     (pin "1" (uuid b19303fc-50bf-4c0c-9600-847b9f1506d2))
     (instances
       (project "driver_cplex_rp2040"
-        (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
-          (reference "#PWR073") (unit 1)
-        )
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
           (reference "#PWR0120") (unit 1)
         )

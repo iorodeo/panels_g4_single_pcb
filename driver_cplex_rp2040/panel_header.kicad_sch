@@ -415,9 +415,6 @@
     (pin "5" (uuid a7a1633b-57a1-4826-9e3c-86d3dc076ef1))
     (instances
       (project "driver_cplex_rp2040"
-        (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
-          (reference "J2") (unit 1)
-        )
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/35cc1d84-fe4a-4d4c-89d0-5c31c9afaae5"
           (reference "J2") (unit 1)
         )
@@ -428,7 +425,7 @@
   (symbol (lib_id "power:+5V") (at 163.83 37.465 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4019ff45-6bcc-4635-a287-91fa1dd2f724)
-    (property "Reference" "#PWR068" (at 163.83 41.275 0)
+    (property "Reference" "#PWR067" (at 163.83 41.275 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+5V" (at 163.957 33.909 0)
@@ -443,9 +440,6 @@
     (pin "1" (uuid e64e64b0-c2bf-491f-870c-1e26827c668c))
     (instances
       (project "driver_cplex_rp2040"
-        (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
-          (reference "#PWR068") (unit 1)
-        )
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/35cc1d84-fe4a-4d4c-89d0-5c31c9afaae5"
           (reference "#PWR067") (unit 1)
         )
@@ -475,9 +469,6 @@
     (pin "5" (uuid 2c1accab-4913-444f-9892-0ce9a2461ede))
     (instances
       (project "driver_cplex_rp2040"
-        (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
-          (reference "J4") (unit 1)
-        )
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/35cc1d84-fe4a-4d4c-89d0-5c31c9afaae5"
           (reference "J4") (unit 1)
         )
@@ -507,9 +498,6 @@
     (pin "5" (uuid 283a6797-d97c-4fad-a186-044ddb5b6b46))
     (instances
       (project "driver_cplex_rp2040"
-        (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
-          (reference "J3") (unit 1)
-        )
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/35cc1d84-fe4a-4d4c-89d0-5c31c9afaae5"
           (reference "J3") (unit 1)
         )
@@ -520,7 +508,7 @@
   (symbol (lib_id "power:GND") (at 125.095 35.56 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b8e2216a-f578-4d49-b0eb-0a7fa1ba6639)
-    (property "Reference" "#PWR067" (at 125.095 41.91 0)
+    (property "Reference" "#PWR068" (at 125.095 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 125.095 40.64 0)
@@ -535,9 +523,6 @@
     (pin "1" (uuid 0eec9a37-5d72-4681-8fe8-f2ec0462abfe))
     (instances
       (project "driver_cplex_rp2040"
-        (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
-          (reference "#PWR067") (unit 1)
-        )
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/35cc1d84-fe4a-4d4c-89d0-5c31c9afaae5"
           (reference "#PWR068") (unit 1)
         )
@@ -563,9 +548,6 @@
     (pin "1" (uuid c7fbf8a6-7233-4d48-aee8-3003ad6bea21))
     (instances
       (project "driver_cplex_rp2040"
-        (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
-          (reference "#PWR055") (unit 1)
-        )
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/35cc1d84-fe4a-4d4c-89d0-5c31c9afaae5"
           (reference "#PWR055") (unit 1)
         )
@@ -595,9 +577,6 @@
     (pin "5" (uuid cc402ebc-6d55-4b10-8820-57a7d0e4b337))
     (instances
       (project "driver_cplex_rp2040"
-        (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5"
-          (reference "J1") (unit 1)
-        )
         (path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/35cc1d84-fe4a-4d4c-89d0-5c31c9afaae5"
           (reference "J1") (unit 1)
         )
