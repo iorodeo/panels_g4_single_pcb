@@ -1,4 +1,4 @@
-22479019107273610
+22487588850257275
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -92533,12 +92533,33 @@ capacitor
 4
 2
 panel_custom
+C_0402_1005Metric
+Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+panel_custom
+Crystal_SMD_3225-4Pin_3.2x2.5mm
+SMD Crystal SERIES SMD3225/4 http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, 3.2x2.5mm^2 package
+SMD SMT crystal
+0
+4
+4
+panel_custom
 LED_0402_1005Metric
 LED SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 LED
 0
 2
 2
+panel_custom
+PSON50P300X200X60-9N
+
+
+0
+9
+9
 panel_custom
 PinHeader_1x5_M20-8890545R
 
@@ -92588,3 +92609,17 @@ SOT-563
 0
 6
 6
+panel_custom
+SOT-963
+SOT 963 6 pins package 1x0.8mm pitch 0.35mm
+SOT 963 6 pins package 1x0.8mm pitch 0.35mm
+0
+6
+6
+panel_custom
+TS-1088-AR02016
+
+
+0
+2
+2
