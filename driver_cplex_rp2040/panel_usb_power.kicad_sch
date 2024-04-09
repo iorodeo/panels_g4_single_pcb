@@ -573,7 +573,7 @@
     (property "Value" "Conn_01x04" (at 63.373 63.5 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 66.04 66.04 0)
+    (property "Footprint" "panel_custom:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal" (at 66.04 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 66.04 66.04 0)

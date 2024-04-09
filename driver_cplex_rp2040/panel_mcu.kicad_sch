@@ -1308,9 +1308,9 @@
     (effects (font (size 2.54 2.54) (thickness 0.508) bold) (justify left bottom))
     (uuid 7cdc28dc-f2a3-4dcd-88a4-b4a209320ded)
   )
-  (text "tactile switch\nhttps://www.lcsc.com/product-detail/Tactile-Switches_XUNPU-TS-1088-AR02016_C720477.html\n\ncrystal\nhttps://www.lcsc.com/product-detail/Crystals_Yajingxin-TAXM12M4RLBDDT2T_C133334.html"
-    (at 182.245 151.13 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
+  (text "tactile switch\nhttps://www.lcsc.com/product-detail/Tactile-Switches_XUNPU-TS-1088-AR02016_C720477.html\n\ncrystal\nhttps://www.lcsc.com/product-detail/Crystals_Yajingxin-TAXM12M4RLBDDT2T_C133334.html\n\nflash\nhttps://www.digikey.com/en/products/detail/winbond-electronics/W25Q16JVUXIQ-TR/15182017?s=N4IgTCBcDaIOpgKwEUCMA2AUgNQKoA0BJZEAXQF8g"
+    (at 189.865 134.62 0)
+    (effects (font (size 0.762 0.762)) (justify left bottom))
     (uuid b3239574-4818-4394-9c3c-1203cce2a4e2)
   )
 
@@ -2158,7 +2158,7 @@
     (property "Value" "W25Q16JVUXIQ_TR" (at 247.015 85.09 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "panel_custom:PSON50P300X200X60-9N" (at 247.015 102.235 0)
+    (property "Footprint" "panel_custom:flashmem_PSON50P300X200X60-9N" (at 247.015 102.235 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
     (property "Datasheet" "" (at 247.015 102.235 0)
