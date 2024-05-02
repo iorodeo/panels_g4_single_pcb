@@ -29,16 +29,8 @@
     (stroke (width 0.1) (type solid)) (layer "Dwgs.User") (tstamp 95a77afa-810e-43f9-8c8e-1fe9a53d45f4))
   (fp_line (start 7.05401 4.70499) (end 7.05401 -8.68299)
     (stroke (width 0.1) (type solid)) (layer "Dwgs.User") (tstamp 330324e9-85b3-434d-a5e4-31aaf4b0ae93))
-  (fp_poly
-    (pts
-      (xy 8.05101 -9.67999)
-      (xy -8.05101 -9.67999)
-      (xy -8.05101 5.702)
-      (xy 8.05101 5.702)
-      (xy 8.05101 -9.67999)
-    )
-
-    (stroke (width 0.05) (type solid)) (fill none) (layer "F.CrtYd") (tstamp 6863274b-2fe8-4b38-9dd2-a0b9c7310c0e))
+  (fp_rect (start -7.5 -9) (end 7.5 5)
+    (stroke (width 0.05) (type default)) (fill none) (layer "F.CrtYd") (tstamp f5b77bd7-ce75-4116-8162-cabe5392da49))
   (fp_line (start -6.604 4.25399) (end -6.604 -3.75)
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp e0a24f10-ecfc-438b-b3b0-e7e534c71e89))
   (fp_line (start -6.604 4.25399) (end 6.604 4.25399)

@@ -19,4 +19,9 @@
     (stroke (width 0.1) (type default)) (fill none) (layer "F.SilkS") (tstamp 6d924eb7-7d74-4678-a3af-708d6083986d))
   (pad "1" smd rect (at -2.075 0) (size 1.35 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ca99a06f-7cca-4708-ba53-805fa6a43d92))
   (pad "2" smd rect (at 2.075 0) (size 1.35 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 594d786a-a461-4306-87ab-2c0aeeb4ce72))
+  (model "${KIPRJMOD}/panel_custom.pretty/3dmodels/tact_switch-TS-1088.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 90))
+  )
 )
