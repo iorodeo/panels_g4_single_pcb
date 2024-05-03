@@ -37,4 +37,9 @@
     (thermal_bridge_angle 45) (tstamp 7fcb0993-091b-4721-92ea-e7fbcc8a2bc1))
   (pad "5" smd roundrect (at 5.08 0) (size 1.02 3.17) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1)
     (thermal_bridge_angle 45) (tstamp e8f966f0-1c5d-49ab-b8d8-e6a7b221b519))
+  (model "${KIPRJMOD}/panel_custom.pretty/3dmodels/conn_header_ra_5pos.step"
+    (offset (xyz 0 4.55 1.27))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 90))
+  )
 )
