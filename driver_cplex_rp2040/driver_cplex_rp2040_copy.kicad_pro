@@ -1068,7 +1068,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "specctra_dsn": "driver_cplex_rp2040.dsn",
+      "specctra_dsn": "panel.dsn",
       "step": "",
       "vrml": ""
     },

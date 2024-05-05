@@ -1,0 +1,33 @@
+2024-05-04 18:32:42.180 [main] INFO  Freerouting v1.9.0 (build-date: 2023-10-30)
+2024-05-04 18:32:42.211 [main] INFO  Settings were loaded from freerouting.json
+2024-05-04 18:32:43.240 [main] INFO  Opening 'driver_cplex_rp2040.dsn'...
+2024-05-04 18:32:43.235 [Thread-3] ERROR java/net/http/HttpClient
+java.lang.NoClassDefFoundError: java/net/http/HttpClient
+	at app.freerouting.management.VersionChecker.run(VersionChecker.java:23) ~[freerouting-executable.jar:unspecified]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.ClassNotFoundException: java.net.http.HttpClient
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(Unknown Source) ~[?:?]
+	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(Unknown Source) ~[?:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:?]
+	... 2 more
+2024-05-04 18:32:49.682 [Thread-34] INFO  Starting auto-routing...
+2024-05-04 18:32:51.491 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-04 18:33:09.672 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-04 18:45:03.303 [Thread-34] INFO  Auto-routing was completed in 12 minute(s) 13.62 seconds.
+2024-05-04 18:45:03.404 [Thread-34] INFO  Starting route optimization on 1 thread...
+2024-05-04 18:45:03.417 [Thread-34] INFO  Route optimization was completed in 0.01 seconds.
+2024-05-04 18:58:45.130 [main] INFO  Freerouting v1.9.0 (build-date: 2023-10-30)
+2024-05-04 18:58:45.162 [main] INFO  Settings were loaded from freerouting.json
+2024-05-04 18:58:46.191 [main] INFO  Opening 'driver_cplex_rp2040.dsn'...
+2024-05-04 18:58:46.186 [Thread-3] ERROR java/net/http/HttpClient
+java.lang.NoClassDefFoundError: java/net/http/HttpClient
+	at app.freerouting.management.VersionChecker.run(VersionChecker.java:23) ~[freerouting-executable.jar:unspecified]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.ClassNotFoundException: java.net.http.HttpClient
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(Unknown Source) ~[?:?]
+	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(Unknown Source) ~[?:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:?]
+	... 2 more
+2024-05-04 18:58:52.028 [Thread-34] INFO  Starting auto-routing...
+2024-05-04 18:58:52.539 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-04 18:59:16.899 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
