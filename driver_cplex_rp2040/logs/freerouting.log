@@ -31,3 +31,172 @@ Caused by: java.lang.ClassNotFoundException: java.net.http.HttpClient
 2024-05-04 18:58:52.028 [Thread-34] INFO  Starting auto-routing...
 2024-05-04 18:58:52.539 [Thread-34] WARN  FloatLine: Parameter is null
 2024-05-04 18:59:16.899 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-04 19:09:22.329 [Thread-34] INFO  Auto-routing was completed in 10 minute(s) 30.30 seconds.
+2024-05-04 19:09:22.430 [Thread-34] INFO  Starting route optimization on 1 thread...
+2024-05-04 19:09:22.438 [Thread-34] INFO  Route optimization was completed in 0.01 seconds.
+2024-05-04 19:11:41.908 [main] INFO  Freerouting v1.9.0 (build-date: 2023-10-30)
+2024-05-04 19:11:41.940 [main] INFO  Settings were loaded from freerouting.json
+2024-05-04 19:11:42.957 [main] INFO  Opening 'driver_cplex_rp2040.dsn'...
+2024-05-04 19:11:42.954 [Thread-3] ERROR java/net/http/HttpClient
+java.lang.NoClassDefFoundError: java/net/http/HttpClient
+	at app.freerouting.management.VersionChecker.run(VersionChecker.java:23) ~[freerouting-executable.jar:unspecified]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.ClassNotFoundException: java.net.http.HttpClient
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(Unknown Source) ~[?:?]
+	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(Unknown Source) ~[?:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:?]
+	... 2 more
+2024-05-04 19:11:48.471 [Thread-34] INFO  Starting auto-routing...
+2024-05-04 19:11:49.032 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-04 19:12:39.364 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-04 19:13:09.216 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:13:09.221 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:13:09.229 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:13:09.232 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:13:09.234 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:13:09.237 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:13:09.240 [Thread-34] WARN  OptViaAlgo.opt_via_location: move via failed
+2024-05-04 19:13:09.240 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:13:09.243 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:13:09.244 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:13:09.247 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:13:09.249 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:13:09.250 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:13:09.252 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:13:09.255 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:13:09.256 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:13:09.258 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:13:09.260 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:13:09.262 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:13:09.263 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:13:09.264 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:13:09.265 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:13:09.267 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:13:09.269 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:13:09.273 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:13:09.274 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:13:09.275 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:13:09.278 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:13:09.279 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:13:09.281 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:13:09.283 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:13:09.284 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:14:13.246 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:14:13.250 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:14:13.266 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:14:13.274 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:14:13.275 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:14:13.275 [AWT-EventQueue-0] ERROR Cannot invoke "app.freerouting.geometry.planar.RegularTileShape.intersects(app.freerouting.geometry.planar.Shape)" because "curr_node.bounding_shape" is null
+java.lang.NullPointerException: Cannot invoke "app.freerouting.geometry.planar.RegularTileShape.intersects(app.freerouting.geometry.planar.Shape)" because "curr_node.bounding_shape" is null
+	at app.freerouting.datastructures.MinAreaTree.overlaps(MinAreaTree.java:40) ~[freerouting-executable.jar:unspecified]
+	at app.freerouting.board.ShapeSearchTree.overlapping_tree_entries(ShapeSearchTree.java:368) ~[freerouting-executable.jar:unspecified]
+	at app.freerouting.board.ShapeSearchTree.overlapping_objects(ShapeSearchTree.java:319) ~[freerouting-executable.jar:unspecified]
+	at app.freerouting.board.ShapeSearchTree.overlapping_objects(ShapeSearchTree.java:333) ~[freerouting-executable.jar:unspecified]
+	at app.freerouting.board.BasicBoard.overlapping_objects(BasicBoard.java:965) ~[freerouting-executable.jar:unspecified]
+	at app.freerouting.board.Trace.get_normal_contacts(Trace.java:173) ~[freerouting-executable.jar:unspecified]
+	at app.freerouting.board.Trace.get_end_contacts(Trace.java:107) ~[freerouting-executable.jar:unspecified]
+	at app.freerouting.board.Trace.get_ratsnest_corners(Trace.java:328) ~[freerouting-executable.jar:unspecified]
+	at app.freerouting.interactive.NetIncompletes$NetItem.get_triangulation_corners(NetIncompletes.java:290) ~[freerouting-executable.jar:unspecified]
+	at app.freerouting.datastructures.PlanarDelaunayTriangulation.<init>(PlanarDelaunayTriangulation.java:49) ~[freerouting-executable.jar:unspecified]
+	at app.freerouting.interactive.NetIncompletes.<init>(NetIncompletes.java:48) ~[freerouting-executable.jar:unspecified]
+	at app.freerouting.interactive.RatsNest.<init>(RatsNest.java:55) ~[freerouting-executable.jar:unspecified]
+	at app.freerouting.interactive.BoardHandling.create_ratsnest(BoardHandling.java:388) ~[freerouting-executable.jar:unspecified]
+	at app.freerouting.interactive.BoardHandling.toggle_ratsnest(BoardHandling.java:365) ~[freerouting-executable.jar:unspecified]
+	at app.freerouting.gui.BoardToolbar.lambda$new$12(BoardToolbar.java:159) ~[freerouting-executable.jar:unspecified]
+	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source) ~[?:?]
+	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source) ~[?:?]
+	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source) ~[?:?]
+	at javax.swing.DefaultButtonModel.setPressed(Unknown Source) ~[?:?]
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source) ~[?:?]
+	at java.awt.AWTEventMulticaster.mouseReleased(Unknown Source) ~[?:?]
+	at java.awt.Component.processMouseEvent(Unknown Source) ~[?:?]
+	at javax.swing.JComponent.processMouseEvent(Unknown Source) ~[?:?]
+	at java.awt.Component.processEvent(Unknown Source) ~[?:?]
+	at java.awt.Container.processEvent(Unknown Source) ~[?:?]
+	at java.awt.Component.dispatchEventImpl(Unknown Source) ~[?:?]
+	at java.awt.Container.dispatchEventImpl(Unknown Source) ~[?:?]
+	at java.awt.Component.dispatchEvent(Unknown Source) ~[?:?]
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source) ~[?:?]
+	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source) ~[?:?]
+	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source) ~[?:?]
+	at java.awt.Container.dispatchEventImpl(Unknown Source) ~[?:?]
+	at java.awt.Window.dispatchEventImpl(Unknown Source) ~[?:?]
+	at java.awt.Component.dispatchEvent(Unknown Source) ~[?:?]
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source) ~[?:?]
+	at java.awt.EventQueue$4.run(Unknown Source) ~[?:?]
+	at java.awt.EventQueue$4.run(Unknown Source) ~[?:?]
+	at java.security.AccessController.doPrivileged(Unknown Source) ~[?:?]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source) ~[?:?]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source) ~[?:?]
+	at java.awt.EventQueue$5.run(Unknown Source) ~[?:?]
+	at java.awt.EventQueue$5.run(Unknown Source) ~[?:?]
+	at java.security.AccessController.doPrivileged(Unknown Source) ~[?:?]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source) ~[?:?]
+	at java.awt.EventQueue.dispatchEvent(Unknown Source) ~[?:?]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source) [?:?]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source) [?:?]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source) [?:?]
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source) [?:?]
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source) [?:?]
+	at java.awt.EventDispatchThread.run(Unknown Source) [?:?]
+2024-05-04 19:14:16.351 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:14:16.357 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:14:16.372 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:14:16.378 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:14:16.380 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:14:16.380 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:14:16.381 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:14:16.382 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:14:16.383 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:14:16.385 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:14:16.386 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:14:16.388 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:14:16.388 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:14:16.390 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:14:16.391 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:14:16.393 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:14:16.397 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:14:16.398 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:14:16.399 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:14:16.399 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:14:16.400 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:14:16.400 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:14:16.400 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:14:16.401 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:14:16.402 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:14:16.402 [AWT-EventQueue-0] WARN  NetIncompletes.calculate_net_items: too many items
+2024-05-04 19:19:58.798 [Thread-34] WARN  There were only 19.75 changes in the last 20 passes, so it's very likely that autorouter can't improve the result much further. It is recommended to stop it and finish the board manually.
+2024-05-04 19:22:16.433 [Thread-34] INFO  Auto-routing was completed in 10 minute(s) 27.96 seconds.
+2024-05-04 19:22:16.534 [Thread-34] INFO  Starting route optimization on 1 thread...
+2024-05-04 19:22:16.541 [Thread-34] INFO  Route optimization was completed in 0.01 seconds.
+2024-05-04 19:22:42.311 [main] INFO  Freerouting v1.9.0 (build-date: 2023-10-30)
+2024-05-04 19:22:42.343 [main] INFO  Settings were loaded from freerouting.json
+2024-05-04 19:22:43.371 [main] INFO  Opening 'driver_cplex_rp2040.dsn'...
+2024-05-04 19:22:43.366 [Thread-3] ERROR java/net/http/HttpClient
+java.lang.NoClassDefFoundError: java/net/http/HttpClient
+	at app.freerouting.management.VersionChecker.run(VersionChecker.java:23) ~[freerouting-executable.jar:unspecified]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.ClassNotFoundException: java.net.http.HttpClient
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(Unknown Source) ~[?:?]
+	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(Unknown Source) ~[?:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:?]
+	... 2 more
+2024-05-04 19:22:51.731 [Thread-34] INFO  Starting auto-routing...
+2024-05-04 19:22:52.408 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-04 19:27:55.130 [Thread-34] INFO  Auto-routing was completed in 5 minute(s) 3.40 seconds.
+2024-05-04 19:27:55.231 [Thread-34] INFO  Starting route optimization on 1 thread...
+2024-05-04 19:27:55.239 [Thread-34] INFO  Route optimization was completed in 0.01 seconds.
+2024-05-04 19:28:30.765 [main] INFO  Freerouting v1.9.0 (build-date: 2023-10-30)
+2024-05-04 19:28:30.799 [main] INFO  Settings were loaded from freerouting.json
+2024-05-04 19:28:31.822 [main] INFO  Opening 'driver_cplex_rp2040.dsn'...
+2024-05-04 19:28:31.817 [Thread-3] ERROR java/net/http/HttpClient
+java.lang.NoClassDefFoundError: java/net/http/HttpClient
+	at app.freerouting.management.VersionChecker.run(VersionChecker.java:23) ~[freerouting-executable.jar:unspecified]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.ClassNotFoundException: java.net.http.HttpClient
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(Unknown Source) ~[?:?]
+	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(Unknown Source) ~[?:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:?]
+	... 2 more
+2024-05-04 19:28:40.356 [Thread-34] INFO  Starting auto-routing...
+2024-05-04 19:28:41.068 [Thread-34] WARN  FloatLine: Parameter is null
