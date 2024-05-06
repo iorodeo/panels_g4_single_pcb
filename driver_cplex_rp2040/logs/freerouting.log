@@ -208,3 +208,150 @@ Caused by: java.lang.ClassNotFoundException: java.net.http.HttpClient
 2024-05-04 19:33:34.596 [Thread-34] INFO  Route optimization was completed in 2 minute(s) 36.55 seconds.
 2024-05-04 20:21:28.565 [AWT-EventQueue-0] INFO  Saving 'driver_cplex_rp2040.ses'...
 2024-05-04 20:21:42.650 [AWT-EventQueue-0] INFO  Saving 'driver_cplex_rp2040.ses'...
+2024-05-05 11:40:23.208 [main] INFO  Freerouting v1.9.0 (build-date: 2023-10-30)
+2024-05-05 11:40:23.240 [main] INFO  Settings were loaded from freerouting.json
+2024-05-05 11:40:24.261 [main] INFO  Opening 'driver_cplex_rp2040.dsn'...
+2024-05-05 11:40:24.259 [Thread-3] ERROR java/net/http/HttpClient
+java.lang.NoClassDefFoundError: java/net/http/HttpClient
+	at app.freerouting.management.VersionChecker.run(VersionChecker.java:23) ~[freerouting-executable.jar:unspecified]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.ClassNotFoundException: java.net.http.HttpClient
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(Unknown Source) ~[?:?]
+	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(Unknown Source) ~[?:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:?]
+	... 2 more
+2024-05-05 11:40:29.546 [Thread-34] INFO  Starting auto-routing...
+2024-05-05 11:40:30.002 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-05 11:41:34.206 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 11:42:07.572 [Thread-34] WARN  RoutingBoard.insert_forced_trace_polyline: shove trace failed
+2024-05-05 11:44:12.421 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 11:45:54.671 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 11:49:58.799 [Thread-34] INFO  Auto-routing was completed in 9 minute(s) 29.25 seconds.
+2024-05-05 11:49:58.900 [Thread-34] INFO  Starting route optimization on 1 thread...
+2024-05-05 11:52:45.559 [Thread-34] INFO  Route optimization was completed in 2 minute(s) 46.66 seconds.
+2024-05-05 11:58:12.160 [AWT-EventQueue-0] INFO  Saving 'driver_cplex_rp2040.ses'...
+2024-05-05 12:03:59.855 [main] INFO  Freerouting v1.9.0 (build-date: 2023-10-30)
+2024-05-05 12:03:59.887 [main] INFO  Settings were loaded from freerouting.json
+2024-05-05 12:04:00.915 [main] INFO  Opening 'driver_cplex_rp2040.dsn'...
+2024-05-05 12:04:00.910 [Thread-3] ERROR java/net/http/HttpClient
+java.lang.NoClassDefFoundError: java/net/http/HttpClient
+	at app.freerouting.management.VersionChecker.run(VersionChecker.java:23) ~[freerouting-executable.jar:unspecified]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.ClassNotFoundException: java.net.http.HttpClient
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(Unknown Source) ~[?:?]
+	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(Unknown Source) ~[?:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:?]
+	... 2 more
+2024-05-05 12:04:09.396 [Thread-34] INFO  Starting auto-routing...
+2024-05-05 12:04:09.860 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-05 12:12:31.245 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-05 12:12:31.959 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-05 12:16:46.745 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 12:21:20.388 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 12:23:49.364 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 12:32:38.322 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 12:36:37.904 [Thread-34] WARN  There were only 16.95 changes in the last 20 passes, so it's very likely that autorouter can't improve the result much further. It is recommended to stop it and finish the board manually.
+2024-05-05 12:44:13.360 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-05 12:44:13.362 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-05 12:44:21.021 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-05 12:44:21.101 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-05 12:44:22.194 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-05 12:44:25.014 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-05 12:44:27.006 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-05 12:44:28.515 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-05 12:44:31.200 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-05 12:44:31.674 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-05 12:44:43.203 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-05 12:44:43.208 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-05 12:44:43.211 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-05 12:44:47.059 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-05 12:44:50.019 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-05 12:48:43.699 [Thread-34] INFO  Auto-routing was completed in 44 minute(s) 34.30 seconds.
+2024-05-05 12:48:43.800 [Thread-34] INFO  Starting route optimization on 1 thread...
+2024-05-05 12:49:16.045 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 12:51:21.944 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 12:52:32.921 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-05 12:56:04.140 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 13:01:41.584 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 13:17:53.003 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-05 13:23:03.770 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 13:23:03.783 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 13:23:03.785 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 13:23:03.807 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 13:23:07.987 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 13:23:08.109 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 13:23:08.112 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 13:23:08.128 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 13:23:08.132 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 13:23:08.147 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 13:26:56.650 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 13:31:52.352 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-05 13:41:31.161 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 13:41:32.472 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 13:41:44.856 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 13:41:45.694 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 13:41:48.739 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 13:41:51.657 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 13:41:58.169 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 13:42:10.174 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 13:42:17.944 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 13:42:37.199 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 13:45:49.218 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 13:45:49.221 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 13:45:49.790 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 13:45:49.793 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 13:45:50.079 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 13:47:35.246 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-05 13:49:34.159 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 13:49:34.162 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 13:49:34.194 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 13:49:34.486 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 13:49:34.486 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 13:50:38.887 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 13:50:38.890 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 13:50:38.916 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 13:50:39.116 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 13:50:39.117 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 14:05:07.282 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-05 14:06:33.857 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 14:06:33.861 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 14:06:33.942 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 14:06:34.278 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 14:06:34.279 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 14:11:49.756 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 14:14:42.349 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 14:15:07.341 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 14:18:46.208 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-05 14:20:05.630 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 14:23:40.550 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 14:25:03.490 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 14:25:09.144 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 14:33:38.638 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 14:33:38.820 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 14:35:45.208 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-05 14:45:15.476 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 14:46:28.353 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 14:52:03.503 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-05 15:05:32.569 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-05 15:19:31.799 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-05 15:33:22.088 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-05 15:34:23.719 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-05 15:40:14.793 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 15:45:43.716 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-05 15:54:11.726 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 16:01:11.081 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-05 16:15:26.608 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-05 16:26:05.226 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 16:32:33.755 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-05 16:48:59.889 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-05 17:10:34.126 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-05 17:21:25.303 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 17:21:38.814 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 17:29:46.298 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-05 17:41:36.224 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 17:49:50.076 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 17:49:54.694 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 17:50:17.030 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-05 18:02:55.316 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-05 18:10:04.267 [Thread-34] INFO  Route optimization was completed in 5 hour(s) 21 minute(s) 20.47 seconds and it improved the design by ~60.67%.
+2024-05-05 19:10:16.800 [AWT-EventQueue-0] INFO  Saving 'driver_cplex_rp2040.ses'...
