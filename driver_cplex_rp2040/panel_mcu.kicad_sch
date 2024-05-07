@@ -1388,6 +1388,11 @@
     (effects (font (size 0.762 0.762)) (justify left bottom))
     (uuid b3239574-4818-4394-9c3c-1203cce2a4e2)
   )
+  (text "Should USBBOOT go into pin GPIO21???? Or another GPIO??"
+    (at 163.195 139.954 0)
+    (effects (font (size 2.54 2.54)) (justify left bottom))
+    (uuid c522a4bf-9136-4bb2-b2f5-0558624b7ede)
+  )
 
   (label "QSPI_SD2" (at 88.265 99.568 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
