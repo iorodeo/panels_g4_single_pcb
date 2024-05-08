@@ -440,3 +440,318 @@ Caused by: java.lang.ClassNotFoundException: java.net.http.HttpClient
 2024-05-07 13:29:31.385 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
 2024-05-07 13:30:26.420 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
 2024-05-07 13:30:34.936 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 13:31:03.244 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 13:31:05.449 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 13:31:06.083 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 13:31:09.101 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 13:31:23.586 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 13:31:45.389 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 13:31:53.487 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 13:32:33.160 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 13:32:39.211 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 13:33:11.959 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 13:33:41.083 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 13:34:08.324 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 13:34:10.063 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 13:34:37.597 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 13:34:37.731 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 13:35:41.430 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 13:36:26.136 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-07 13:38:15.588 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 13:38:42.632 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 13:39:45.786 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 13:40:52.230 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 13:42:34.224 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 13:42:41.586 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 13:42:45.844 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 13:56:15.822 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 13:57:06.293 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-07 14:00:10.839 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 14:01:02.128 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 14:01:02.564 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 14:04:15.970 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 14:13:51.242 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 14:13:58.808 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 14:14:01.821 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 14:14:07.464 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 14:14:15.372 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 14:14:15.440 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 14:14:18.335 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 14:14:23.042 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 14:14:26.467 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 14:14:34.459 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 14:14:34.536 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 14:14:37.180 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 14:14:42.253 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 14:14:45.018 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 14:14:53.758 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 14:14:59.092 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 14:14:59.170 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 14:15:06.819 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 14:15:14.240 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 14:15:20.381 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 14:15:22.007 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 14:15:37.805 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 14:15:40.877 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 14:15:44.133 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 14:16:23.890 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 14:16:28.968 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 14:17:58.189 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 14:18:08.289 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-07 14:18:35.347 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 14:18:59.942 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 14:22:39.477 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 14:23:17.533 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 14:23:25.159 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 14:24:04.993 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 14:25:57.780 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 14:26:08.590 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 14:27:11.177 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 14:27:35.069 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 14:29:38.971 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 14:30:00.788 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 14:30:06.327 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 14:30:59.217 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 14:31:33.362 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 14:37:54.914 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-07 14:45:37.996 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 14:58:39.808 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-07 15:07:42.048 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 15:16:16.307 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 15:19:13.646 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-07 15:34:09.339 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 15:35:56.970 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-07 15:38:51.559 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 15:52:47.028 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-07 15:55:24.023 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 15:55:40.727 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 15:55:40.739 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 15:56:57.131 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 16:08:02.524 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 16:08:57.163 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 16:10:52.956 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 16:14:47.801 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-07 16:18:28.360 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 16:22:58.640 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 16:22:59.812 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 16:33:52.516 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-07 16:49:46.814 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 16:49:48.468 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 16:49:52.647 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 16:49:57.001 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 16:53:42.521 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-07 16:55:00.286 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 16:57:05.044 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 16:57:05.919 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 16:57:07.482 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 16:57:08.308 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 16:59:19.720 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 17:00:47.826 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 17:00:49.117 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 17:02:30.687 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 17:10:53.924 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 17:13:24.797 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 17:15:22.733 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-07 17:17:56.912 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 17:17:56.971 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 17:20:19.720 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 17:23:00.943 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 17:24:28.410 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 17:35:27.601 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 17:35:28.774 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 17:35:30.816 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 17:35:33.506 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 17:36:43.147 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 17:36:43.661 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 17:36:45.787 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 17:36:48.831 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 17:40:57.662 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-07 17:44:22.437 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 17:45:16.830 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 17:45:31.839 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 17:57:06.008 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 17:57:55.721 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 17:57:59.713 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 17:58:02.805 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 17:58:03.167 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 17:59:42.819 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 17:59:46.151 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 17:59:46.529 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 18:01:19.827 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-07 18:01:44.428 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 18:01:56.419 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 18:02:58.887 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 18:19:36.434 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-07 18:37:05.854 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 18:38:57.736 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 18:38:59.059 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 18:39:00.154 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 18:39:01.135 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 18:40:12.386 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-07 18:50:27.731 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 18:50:33.563 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 18:55:39.540 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 18:58:49.052 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 19:05:02.848 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-07 19:10:39.532 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 19:10:42.933 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 19:21:13.035 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 19:22:21.593 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-07 19:27:13.288 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 19:27:33.058 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 19:27:49.833 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 19:29:12.662 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 19:31:13.135 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 19:31:17.538 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 19:31:26.505 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 19:31:30.264 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 19:31:39.875 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 19:31:47.726 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 19:31:50.034 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 19:31:56.086 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 19:32:06.521 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 19:32:08.717 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 19:32:14.372 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 19:33:27.751 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 19:33:46.606 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 19:42:26.518 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 19:42:27.323 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 19:43:43.937 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-07 19:48:15.167 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 19:49:36.886 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 19:49:39.653 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 19:49:40.406 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 19:53:15.779 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 19:53:16.139 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 19:59:06.079 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 19:59:11.417 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 19:59:14.198 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 19:59:18.133 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 20:00:30.204 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-07 20:12:42.608 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 20:13:19.840 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 20:20:25.194 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-07 20:25:05.364 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 20:25:12.116 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 20:33:41.941 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 20:33:47.256 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 20:33:50.220 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 20:33:52.695 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 20:36:41.832 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-07 20:37:58.919 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 20:42:07.946 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 20:42:11.241 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 20:42:17.674 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 20:42:59.017 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 20:48:39.788 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 20:49:19.519 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 20:55:16.951 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-07 20:59:09.993 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 20:59:22.692 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 20:59:31.712 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 20:59:39.746 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 20:59:49.612 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 21:00:51.632 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 21:01:10.509 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 21:01:10.706 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 21:02:47.936 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 21:02:48.072 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 21:08:43.423 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 21:08:44.662 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 21:08:45.635 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 21:08:50.429 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 21:08:52.755 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 21:08:55.781 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 21:10:46.540 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 21:10:47.712 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 21:10:48.692 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 21:10:53.627 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 21:10:55.860 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 21:10:59.144 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 21:11:59.680 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-07 21:17:15.719 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 21:17:43.641 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 21:18:11.744 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 21:20:42.638 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 21:23:10.364 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 21:29:47.174 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-07 21:33:12.887 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 21:33:14.714 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 21:33:25.405 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 21:33:35.821 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 21:33:46.322 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 21:33:50.564 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 21:34:36.278 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 21:35:18.477 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 21:37:07.776 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 21:37:07.893 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 21:43:37.034 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 21:43:38.387 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 21:43:39.337 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 21:43:44.144 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 21:43:47.239 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 21:43:51.895 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 21:45:35.739 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 21:45:37.035 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 21:45:37.979 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 21:45:43.988 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 21:45:46.553 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 21:45:50.035 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 21:46:46.060 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-07 21:47:32.128 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 21:48:40.383 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 21:50:11.358 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 21:50:12.207 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 21:51:28.845 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 21:52:12.470 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 21:52:56.923 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 21:54:45.721 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 21:55:24.229 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 21:58:05.863 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 21:58:05.918 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 22:00:43.538 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 22:09:05.035 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-07 22:10:30.270 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 22:11:15.099 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 22:12:00.546 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 22:13:43.131 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 22:14:24.225 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 22:15:43.272 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 22:15:56.948 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 22:16:08.852 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 22:28:24.660 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 22:28:25.953 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 22:28:26.900 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 22:28:33.016 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 22:28:35.966 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 22:28:39.727 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 22:29:31.178 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-07 22:31:21.807 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 22:33:55.906 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 22:35:08.100 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 22:36:23.668 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 22:36:24.010 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 22:39:59.860 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 22:41:11.044 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 22:49:49.611 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-07 22:55:20.729 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 22:55:44.807 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 22:55:53.808 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 22:56:52.750 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 23:07:56.704 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-07 23:10:50.439 [Thread-34] WARN  CalcFromSide: start corner was not found
+2024-05-07 23:14:39.531 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 23:16:23.373 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 23:16:23.725 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 23:16:32.233 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 23:16:50.735 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 23:21:23.422 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 23:29:46.789 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 23:29:51.749 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 23:29:58.403 [Thread-34] WARN  FloatLine: Parameter is null
+2024-05-07 23:35:59.772 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 23:36:24.825 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 23:36:35.101 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 23:37:25.028 [Thread-34] WARN  border_intersections: intersection_count (2) is too big!
+2024-05-07 23:46:53.055 [Thread-34] INFO  Route optimization was completed in 11 hour(s) 53 minute(s) 3.72 seconds and it improved the design by ~58.68%.
+2024-05-08 09:08:44.967 [AWT-EventQueue-0] INFO  Saving 'driver_cplex_rp2040.ses'...
