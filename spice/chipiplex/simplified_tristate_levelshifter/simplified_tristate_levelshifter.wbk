@@ -1,0 +1,8 @@
+version 2
+1
+9
+.tran 2.0n 200u{return}.options method=gear abstol=1e-12 reltol=0.005{return}{return}{return}.kicad adjustpaths{return}.save all{return}.probe alli
+1
+1
+V(/VIN)
+ 
