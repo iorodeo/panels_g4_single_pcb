@@ -1,0 +1,15 @@
+.title KiCad schematic
+.model __Q1 NPN
+.save all
+.probe alli
+.dc VCE1 0 5 0.01 IB1 250m 3000m 250m
+IB1 0 Net-_IB1-Pad2_ DC 250u 
+Q1 Net-_Q1-C_ /Vb 0 __Q1
+R2 Net-_IB1-Pad2_ /Vb 10
+R1 Net-_R1-Pad1_ Net-_Q1-C_ 0.01
+VCE1 0 Net-_R1-Pad1_ DC 1 
+.control
+ run
+ gnuplot -I(R1)
+.endc
+.end

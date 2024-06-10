@@ -6856,6 +6856,11 @@
     (uuid ece9e2d4-d499-47f1-99b5-350f1f12abce)
   )
 
+  (text "LED C5160718" (at 219.71 213.36 0)
+    (effects (font (size 2.54 2.54)) (justify left bottom))
+    (uuid 12cf4ffe-31ed-4740-8089-0372a218a139)
+  )
+
   (hierarchical_label "CP_5V_12" (shape input) (at 35.687 154.178 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 044d7528-f287-48d9-afdc-c3b1b726361a)
