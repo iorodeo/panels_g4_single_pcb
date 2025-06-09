@@ -1,4 +1,4 @@
-25263018724973163
+25264768493306442
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -101352,6 +101352,13 @@ SMD SMT crystal
 0
 4
 4
+panel_custom
+JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical
+JST SH series connector, BM04B-SRSS-TB (http://www.jst-mfg.com/product/pdf/eng/eSH.pdf), generated with kicad-footprint-generator
+connector JST SH vertical
+0
+6
+5
 panel_custom
 JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal
 JST SH series connector, SM04B-SRSS-TB (http://www.jst-mfg.com/product/pdf/eng/eSH.pdf), generated with kicad-footprint-generator
