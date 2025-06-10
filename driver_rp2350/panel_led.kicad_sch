@@ -304,7 +304,7 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "Note on LED naming:  \n\nD_XY  where X = row number, Y = col number\n\nrow and col numbers in {1, 2, 3, ..., A, B, C, D, E, F}"
+	(text "Note on LED naming:  \nD_XY  where X = row number, Y = col number\nrow and col numbers in {1, 2, 3, ..., A, B, C, D, E, F}"
 		(exclude_from_sim no)
 		(at 29.464 221.742 0)
 		(effects
@@ -17069,7 +17069,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "07995110-3120-4a27-8172-cabb9b375126")
-		(property "Reference" "R105"
+		(property "Reference" "R4"
 			(at 86.36 52.0699 0)
 			(effects
 				(font
@@ -17122,7 +17122,7 @@
 		(instances
 			(project "panel"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/9e6027a1-8475-463d-b347-a287726616e8"
-					(reference "R105")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -17690,7 +17690,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0faba2c9-a57b-47d5-b35e-dab01756902c")
-		(property "Reference" "R104"
+		(property "Reference" "R3"
 			(at 68.58 52.0699 0)
 			(effects
 				(font
@@ -17743,7 +17743,7 @@
 		(instances
 			(project "panel"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/9e6027a1-8475-463d-b347-a287726616e8"
-					(reference "R104")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -17897,7 +17897,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1a20a320-22c6-45ce-95eb-10d28286b67a")
-		(property "Reference" "R109"
+		(property "Reference" "R8"
 			(at 157.48 52.0699 0)
 			(effects
 				(font
@@ -17950,7 +17950,7 @@
 		(instances
 			(project "panel"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/9e6027a1-8475-463d-b347-a287726616e8"
-					(reference "R109")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -18242,7 +18242,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "22e2a0ee-17a3-4362-8800-62eb946e6284")
-		(property "Reference" "R116"
+		(property "Reference" "R15"
 			(at 281.305 52.0699 0)
 			(effects
 				(font
@@ -18295,7 +18295,7 @@
 		(instances
 			(project "panel"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/9e6027a1-8475-463d-b347-a287726616e8"
-					(reference "R116")
+					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -18380,7 +18380,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "23e034a9-4c5e-4149-b19a-21f7b159635a")
-		(property "Reference" "R115"
+		(property "Reference" "R14"
 			(at 263.525 52.0699 0)
 			(effects
 				(font
@@ -18433,7 +18433,7 @@
 		(instances
 			(project "panel"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/9e6027a1-8475-463d-b347-a287726616e8"
-					(reference "R115")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -21140,7 +21140,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "50307707-fb7e-49c5-b748-d1579835f25d")
-		(property "Reference" "R112"
+		(property "Reference" "R11"
 			(at 210.185 52.0699 0)
 			(effects
 				(font
@@ -21193,7 +21193,7 @@
 		(instances
 			(project "panel"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/9e6027a1-8475-463d-b347-a287726616e8"
-					(reference "R112")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -21347,7 +21347,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "50bbfa84-2f3f-4008-ab4a-726dc4ee30b6")
-		(property "Reference" "R113"
+		(property "Reference" "R12"
 			(at 227.965 52.0699 0)
 			(effects
 				(font
@@ -21400,7 +21400,7 @@
 		(instances
 			(project "panel"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/9e6027a1-8475-463d-b347-a287726616e8"
-					(reference "R113")
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -22520,7 +22520,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "62797ed2-1c7c-4f8b-bc89-5a0121e1f0c2")
-		(property "Reference" "R107"
+		(property "Reference" "R6"
 			(at 121.92 52.0699 0)
 			(effects
 				(font
@@ -22573,7 +22573,7 @@
 		(instances
 			(project "panel"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/9e6027a1-8475-463d-b347-a287726616e8"
-					(reference "R107")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -26453,7 +26453,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "904ce12c-f05a-4434-b9b2-4366ca4e0d46")
-		(property "Reference" "R110"
+		(property "Reference" "R9"
 			(at 174.625 52.0699 0)
 			(effects
 				(font
@@ -26506,7 +26506,7 @@
 		(instances
 			(project "panel"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/9e6027a1-8475-463d-b347-a287726616e8"
-					(reference "R110")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -26591,7 +26591,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "96a7461a-d1dd-4be7-8b11-074769a66371")
-		(property "Reference" "R102"
+		(property "Reference" "R1"
 			(at 33.02 52.0699 0)
 			(effects
 				(font
@@ -26644,7 +26644,7 @@
 		(instances
 			(project "panel"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/9e6027a1-8475-463d-b347-a287726616e8"
-					(reference "R102")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -26729,7 +26729,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "978af0c8-4eaa-48de-80d7-5dbb4419d031")
-		(property "Reference" "R111"
+		(property "Reference" "R10"
 			(at 192.405 52.0699 0)
 			(effects
 				(font
@@ -26782,7 +26782,7 @@
 		(instances
 			(project "panel"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/9e6027a1-8475-463d-b347-a287726616e8"
-					(reference "R111")
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -27419,7 +27419,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a062e8c3-93f0-4f2a-a5fd-17d1e5226828")
-		(property "Reference" "R106"
+		(property "Reference" "R5"
 			(at 104.14 52.0699 0)
 			(effects
 				(font
@@ -27472,7 +27472,7 @@
 		(instances
 			(project "panel"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/9e6027a1-8475-463d-b347-a287726616e8"
-					(reference "R106")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -29627,7 +29627,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bc731629-da86-4751-91aa-0969f6889295")
-		(property "Reference" "R103"
+		(property "Reference" "R2"
 			(at 50.8 52.0699 0)
 			(effects
 				(font
@@ -29680,7 +29680,7 @@
 		(instances
 			(project "panel"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/9e6027a1-8475-463d-b347-a287726616e8"
-					(reference "R103")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -30800,7 +30800,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cea39cdb-2286-4745-93b9-d940ae0c7673")
-		(property "Reference" "R114"
+		(property "Reference" "R13"
 			(at 245.745 52.0699 0)
 			(effects
 				(font
@@ -30853,7 +30853,7 @@
 		(instances
 			(project "panel"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/9e6027a1-8475-463d-b347-a287726616e8"
-					(reference "R114")
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -33698,7 +33698,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eefcae3a-32da-4728-b4d7-f80dd848b1d6")
-		(property "Reference" "R117"
+		(property "Reference" "R16"
 			(at 299.085 52.0699 0)
 			(effects
 				(font
@@ -33751,7 +33751,7 @@
 		(instances
 			(project "panel"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/9e6027a1-8475-463d-b347-a287726616e8"
-					(reference "R117")
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -34595,7 +34595,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f5385d51-bd6d-4dec-9e20-15399a487434")
-		(property "Reference" "R108"
+		(property "Reference" "R7"
 			(at 139.7 52.0699 0)
 			(effects
 				(font
@@ -34648,7 +34648,7 @@
 		(instances
 			(project "panel"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/9e6027a1-8475-463d-b347-a287726616e8"
-					(reference "R108")
+					(reference "R7")
 					(unit 1)
 				)
 			)

@@ -1265,6 +1265,10 @@
       "panel_leds"
     ],
     [
+      "a7d5befd-9114-4010-9802-fabf9a587f92",
+      "drivers"
+    ],
+    [
       "e614504e-e15b-412a-a899-de4ba0827a39",
       "panel_usb_power"
     ],
