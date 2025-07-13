@@ -2981,17 +2981,6 @@
 		)
 		(uuid "1835c6d3-a46f-4154-bfdc-60f900566fe4")
 	)
-	(text "Maybe use larger capacitance for 10uF \ncapacitors  (say 22uF)  if using smaller package \nsize components, e.g. 0402.  "
-		(exclude_from_sim no)
-		(at 304.292 72.39 0)
-		(effects
-			(font
-				(size 3.81 3.81)
-			)
-			(justify left)
-		)
-		(uuid "b4eb20f7-406f-4c87-ad36-b28d3787493c")
-	)
 	(text "Primary Flash"
 		(exclude_from_sim no)
 		(at 60.198 37.592 0)
@@ -3003,7 +2992,7 @@
 		)
 		(uuid "ce9500db-8291-4b0c-bd51-cd7108027d4d")
 	)
-	(text "Make USB resistors close to RP2350\n"
+	(text "Make sure R7 and R8 are close to RP2350\n"
 		(exclude_from_sim no)
 		(at 259.08 71.12 0)
 		(effects
@@ -3343,12 +3332,28 @@
 		(uuid "8df52c28-7b8e-4c02-9d6a-474056acdedd")
 	)
 	(no_connect
+		(at 241.3 173.99)
+		(uuid "96041f8b-5a21-4502-9947-9a7093391bcd")
+	)
+	(no_connect
 		(at 241.3 186.69)
 		(uuid "9eb37f7b-669a-4273-a795-d0bebc1e1ed2")
 	)
 	(no_connect
 		(at 172.72 149.86)
 		(uuid "a5e1b1cb-8424-4205-9a97-f15514c545cf")
+	)
+	(no_connect
+		(at 241.3 179.07)
+		(uuid "d3d19ff1-71be-406a-9387-8d9d2149fa36")
+	)
+	(no_connect
+		(at 241.3 181.61)
+		(uuid "e7aaa992-ccd1-4e35-91a8-6046fc104362")
+	)
+	(no_connect
+		(at 241.3 176.53)
+		(uuid "eae704d4-2d5a-4039-8d4a-ea51ee0ffa99")
 	)
 	(no_connect
 		(at 241.3 199.39)
@@ -3583,16 +3588,6 @@
 			(type default)
 		)
 		(uuid "18b88dbe-d7bd-42d5-b94e-d009afff62f9")
-	)
-	(wire
-		(pts
-			(xy 241.3 179.07) (xy 256.54 179.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1a6a989d-1ecf-47f7-8d38-924127634c64")
 	)
 	(wire
 		(pts
@@ -4536,16 +4531,6 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 176.53) (xy 256.54 176.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "99174820-e348-4a0e-b941-6f0de9e3fdb6")
-	)
-	(wire
-		(pts
 			(xy 135.89 106.68) (xy 135.89 108.585)
 		)
 		(stroke
@@ -4563,16 +4548,6 @@
 			(type default)
 		)
 		(uuid "9961da56-256b-4f0c-aa2d-e27bce32d1b5")
-	)
-	(wire
-		(pts
-			(xy 241.3 181.61) (xy 256.54 181.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9a3d11b0-2be1-40e9-ab61-f9f27ae495ad")
 	)
 	(wire
 		(pts
@@ -4923,16 +4898,6 @@
 			(type default)
 		)
 		(uuid "c83f3368-42cb-4243-ad55-568845d36ce9")
-	)
-	(wire
-		(pts
-			(xy 241.3 173.99) (xy 256.54 173.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c91ead52-bdbc-42d7-9ede-4a0c3395a878")
 	)
 	(wire
 		(pts
@@ -5567,7 +5532,7 @@
 	)
 	(hierarchical_label "ROW_MCU_6"
 		(shape output)
-		(at 256.54 143.51 0)
+		(at 256.54 138.43 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5586,17 +5551,6 @@
 			(justify left)
 		)
 		(uuid "1bc67ff7-70f9-4452-8056-48edc119d389")
-	)
-	(hierarchical_label "COL_MCU_G"
-		(shape output)
-		(at 256.54 123.19 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "25f9bae9-3d10-4207-9b60-db362871b75d")
 	)
 	(hierarchical_label "SCK"
 		(shape input)
@@ -5622,7 +5576,7 @@
 	)
 	(hierarchical_label "ROW_MCU_5"
 		(shape output)
-		(at 256.54 140.97 0)
+		(at 256.54 135.89 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5631,20 +5585,9 @@
 		)
 		(uuid "2adcbc00-67c5-4dae-a34e-91bd2b77fd7f")
 	)
-	(hierarchical_label "ROW_MCU_H"
-		(shape output)
-		(at 256.54 181.61 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "2bb9bde7-1314-4d7a-b802-bc20f0acae72")
-	)
 	(hierarchical_label "ROW_MCU_7"
 		(shape output)
-		(at 256.54 146.05 0)
+		(at 256.54 140.97 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5677,7 +5620,7 @@
 	)
 	(hierarchical_label "ROW_MCU_8"
 		(shape output)
-		(at 256.54 148.59 0)
+		(at 256.54 143.51 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5697,17 +5640,6 @@
 		)
 		(uuid "54a45b39-a8b5-4d87-990d-87f65fbfeca6")
 	)
-	(hierarchical_label "ROW_MCU_G"
-		(shape output)
-		(at 256.54 179.07 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "607d00d4-49b8-4887-9062-c72b0f957894")
-	)
 	(hierarchical_label "D+"
 		(shape bidirectional)
 		(at 274.32 66.04 0)
@@ -5721,7 +5653,7 @@
 	)
 	(hierarchical_label "ROW_MCU_0"
 		(shape output)
-		(at 256.54 128.27 0)
+		(at 256.54 123.19 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5732,7 +5664,7 @@
 	)
 	(hierarchical_label "ROW_MCU_A"
 		(shape output)
-		(at 256.54 153.67 0)
+		(at 256.54 148.59 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5754,7 +5686,7 @@
 	)
 	(hierarchical_label "ROW_MCU_C"
 		(shape output)
-		(at 256.54 158.75 0)
+		(at 256.54 153.67 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5776,7 +5708,7 @@
 	)
 	(hierarchical_label "ROW_MCU_3"
 		(shape output)
-		(at 256.54 135.89 0)
+		(at 256.54 130.81 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5784,17 +5716,6 @@
 			(justify left)
 		)
 		(uuid "96c3e209-7fe2-40a2-9fbf-e0a247ee3afe")
-	)
-	(hierarchical_label "COL_MCU_H"
-		(shape output)
-		(at 256.54 125.73 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "9d7d98c1-ad01-48e5-81cc-1368076cd6e2")
 	)
 	(hierarchical_label "MISO"
 		(shape output)
@@ -5809,7 +5730,7 @@
 	)
 	(hierarchical_label "ROW_MCU_E"
 		(shape output)
-		(at 256.54 173.99 0)
+		(at 256.54 158.75 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5875,7 +5796,7 @@
 	)
 	(hierarchical_label "ROW_MCU_B"
 		(shape output)
-		(at 256.54 156.21 0)
+		(at 256.54 151.13 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5897,7 +5818,7 @@
 	)
 	(hierarchical_label "ROW_MCU_9"
 		(shape output)
-		(at 256.54 151.13 0)
+		(at 256.54 146.05 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5919,7 +5840,7 @@
 	)
 	(hierarchical_label "ROW_MCU_F"
 		(shape output)
-		(at 256.54 176.53 0)
+		(at 256.54 161.29 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5952,7 +5873,7 @@
 	)
 	(hierarchical_label "ROW_MCU_4"
 		(shape output)
-		(at 256.54 138.43 0)
+		(at 256.54 133.35 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5963,7 +5884,7 @@
 	)
 	(hierarchical_label "ROW_MCU_1"
 		(shape output)
-		(at 256.54 130.81 0)
+		(at 256.54 125.73 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5996,7 +5917,7 @@
 	)
 	(hierarchical_label "ROW_MCU_D"
 		(shape output)
-		(at 256.54 161.29 0)
+		(at 256.54 156.21 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6007,7 +5928,7 @@
 	)
 	(hierarchical_label "ROW_MCU_2"
 		(shape output)
-		(at 256.54 133.35 0)
+		(at 256.54 128.27 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6025,8 +5946,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005ed96b87")
-		(property "Reference" "C1"
-			(at 65.786 119.888 0)
+		(property "Reference" "C3"
+			(at 65.9384 121.031 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6034,8 +5955,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "15pF"
-			(at 63.4746 119.888 0)
+		(property "Value" "15p"
+			(at 63.627 121.031 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6078,7 +5999,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-					(reference "C1")
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -6093,7 +6014,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005ed98685")
-		(property "Reference" "C2"
+		(property "Reference" "C4"
 			(at 65.9384 131.191 0)
 			(effects
 				(font
@@ -6102,7 +6023,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "15pF"
+		(property "Value" "15p"
 			(at 63.627 131.191 0)
 			(effects
 				(font
@@ -6146,7 +6067,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-					(reference "C2")
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -6161,7 +6082,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005ed9b1cb")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR08"
 			(at 58.42 137.16 0)
 			(effects
 				(font
@@ -6210,7 +6131,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-					(reference "#PWR04")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -6225,7 +6146,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005edc82df")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR022"
 			(at 204.47 220.98 0)
 			(effects
 				(font
@@ -6274,7 +6195,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-					(reference "#PWR017")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -6289,7 +6210,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005eed9ba4")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR023"
 			(at 226.06 34.29 0)
 			(effects
 				(font
@@ -6338,7 +6259,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-					(reference "#PWR018")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -6353,7 +6274,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005eeee897")
-		(property "Reference" "C12"
+		(property "Reference" "C14"
 			(at 260.731 35.6616 0)
 			(effects
 				(font
@@ -6362,7 +6283,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 260.731 37.973 0)
 			(effects
 				(font
@@ -6406,7 +6327,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-					(reference "C12")
+					(reference "C14")
 					(unit 1)
 				)
 			)
@@ -6421,7 +6342,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005eef00bb")
-		(property "Reference" "C13"
+		(property "Reference" "C15"
 			(at 272.161 35.6616 0)
 			(effects
 				(font
@@ -6430,7 +6351,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 272.161 37.973 0)
 			(effects
 				(font
@@ -6474,7 +6395,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-					(reference "C13")
+					(reference "C15")
 					(unit 1)
 				)
 			)
@@ -6489,7 +6410,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005eef0473")
-		(property "Reference" "C14"
+		(property "Reference" "C16"
 			(at 283.591 35.6616 0)
 			(effects
 				(font
@@ -6498,7 +6419,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 283.591 37.973 0)
 			(effects
 				(font
@@ -6542,7 +6463,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-					(reference "C14")
+					(reference "C16")
 					(unit 1)
 				)
 			)
@@ -6557,7 +6478,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005eef0994")
-		(property "Reference" "C15"
+		(property "Reference" "C17"
 			(at 295.021 35.6616 0)
 			(effects
 				(font
@@ -6566,7 +6487,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 295.021 37.973 0)
 			(effects
 				(font
@@ -6610,7 +6531,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-					(reference "C15")
+					(reference "C17")
 					(unit 1)
 				)
 			)
@@ -6625,7 +6546,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005eef89b3")
-		(property "Reference" "C16"
+		(property "Reference" "C18"
 			(at 306.451 35.6616 0)
 			(effects
 				(font
@@ -6634,7 +6555,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 306.451 37.973 0)
 			(effects
 				(font
@@ -6678,7 +6599,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-					(reference "C16")
+					(reference "C18")
 					(unit 1)
 				)
 			)
@@ -6693,7 +6614,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005eef89bd")
-		(property "Reference" "C17"
+		(property "Reference" "C19"
 			(at 317.881 35.6616 0)
 			(effects
 				(font
@@ -6702,7 +6623,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 317.881 37.973 0)
 			(effects
 				(font
@@ -6746,7 +6667,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-					(reference "C17")
+					(reference "C19")
 					(unit 1)
 				)
 			)
@@ -6835,7 +6756,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f1af96d")
-		(property "Reference" "C19"
+		(property "Reference" "C21"
 			(at 340.741 35.6616 0)
 			(effects
 				(font
@@ -6844,7 +6765,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "10u"
 			(at 340.741 37.973 0)
 			(effects
 				(font
@@ -6888,7 +6809,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-					(reference "C19")
+					(reference "C21")
 					(unit 1)
 				)
 			)
@@ -6903,7 +6824,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0decaec1-1103-422d-8792-5e5283f35bd4")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR017"
 			(at 135.89 114.935 0)
 			(effects
 				(font
@@ -6952,7 +6873,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-					(reference "#PWR013")
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -6967,7 +6888,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "100d8571-a9e8-4bae-8312-52aa7ac38044")
-		(property "Reference" "C9"
+		(property "Reference" "C11"
 			(at 175.641 35.6616 0)
 			(effects
 				(font
@@ -6976,7 +6897,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 175.641 37.973 0)
 			(effects
 				(font
@@ -7020,7 +6941,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-					(reference "C9")
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -7035,8 +6956,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1c86d843-d8fe-44ee-b53b-938dd7bf1c5a")
-		(property "Reference" "R6"
-			(at 256.54 63.7286 90)
+		(property "Reference" "R22"
+			(at 256.54 60.7822 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7044,7 +6965,7 @@
 			)
 		)
 		(property "Value" "27"
-			(at 256.54 66.04 90)
+			(at 256.54 63.0936 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7086,7 +7007,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-					(reference "R6")
+					(reference "R22")
 					(unit 1)
 				)
 			)
@@ -7101,7 +7022,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1f56dccc-5777-4772-836a-6e5e3a2d1e3a")
-		(property "Reference" "C11"
+		(property "Reference" "C13"
 			(at 249.301 35.6616 0)
 			(effects
 				(font
@@ -7110,7 +7031,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 249.301 37.973 0)
 			(effects
 				(font
@@ -7154,7 +7075,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-					(reference "C11")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -7169,7 +7090,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "258c4816-45ff-4431-9120-72ed127013b5")
-		(property "Reference" "C18"
+		(property "Reference" "C20"
 			(at 329.311 35.6616 0)
 			(effects
 				(font
@@ -7178,7 +7099,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 329.311 37.973 0)
 			(effects
 				(font
@@ -7222,7 +7143,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-					(reference "C18")
+					(reference "C20")
 					(unit 1)
 				)
 			)
@@ -7237,7 +7158,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "28538623-c337-443c-8595-2034206c9cf8")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR014"
 			(at 125.73 76.2 0)
 			(effects
 				(font
@@ -7286,7 +7207,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-					(reference "#PWR012")
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -7368,7 +7289,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "347b9036-fa61-4c95-9468-cacb1c2fe733")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR010"
 			(at 95.25 99.06 0)
 			(effects
 				(font
@@ -7417,7 +7338,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-					(reference "#PWR08")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -7432,7 +7353,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "348691a1-5df6-415b-9ef3-b4ff4946476c")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR09"
 			(at 73.66 129.54 0)
 			(effects
 				(font
@@ -7481,7 +7402,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-					(reference "#PWR05")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -7497,7 +7418,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "41ddb03a-857b-4174-84bc-e8991406be85")
-		(property "Reference" "U2"
+		(property "Reference" "U3"
 			(at 206.6133 212.09 0)
 			(effects
 				(font
@@ -7787,7 +7708,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-					(reference "U2")
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -7803,8 +7724,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "49804f0b-88e0-4255-82cf-7a091749a988")
-		(property "Reference" "C7"
-			(at 163.83 64.7699 0)
+		(property "Reference" "C9"
+			(at 163.83 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7812,8 +7733,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.7uF"
-			(at 163.83 67.3099 0)
+		(property "Value" "4.7u"
+			(at 163.83 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7856,7 +7777,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-					(reference "C7")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -7871,8 +7792,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4ebb6e9f-33e6-4059-ac43-40f0a6af8c41")
-		(property "Reference" "R5"
-			(at 152.4 91.6686 90)
+		(property "Reference" "R21"
+			(at 152.4 88.7222 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7880,7 +7801,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 152.4 93.98 90)
+			(at 152.4 91.0336 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7922,7 +7843,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-					(reference "R5")
+					(reference "R21")
 					(unit 1)
 				)
 			)
@@ -7939,7 +7860,7 @@
 		(fields_autoplaced yes)
 		(uuid "4f70ee66-41ca-4ae7-b93c-70a7d8aa391d")
 		(property "Reference" "L1"
-			(at 142.24 77.4699 0)
+			(at 142.24 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7947,8 +7868,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "3.3uH"
-			(at 142.24 80.0099 0)
+		(property "Value" "3.3u"
+			(at 142.24 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8006,7 +7927,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "67344bac-84ba-413b-b66e-2329a12f87e6")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR07"
 			(at 74.93 50.8 0)
 			(effects
 				(font
@@ -8055,7 +7976,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-					(reference "#PWR06")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -8071,7 +7992,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7ae3837d-a2a5-42d5-abc4-4d25b391c9b6")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR019"
 			(at 114.3 95.25 0)
 			(effects
 				(font
@@ -8120,7 +8041,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-					(reference "#PWR010")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -8135,7 +8056,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "81701cb7-44d0-445b-99a5-4b9d9128e7b3")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR021"
 			(at 181.61 34.29 0)
 			(effects
 				(font
@@ -8184,7 +8105,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-					(reference "#PWR016")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -8198,9 +8119,10 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "838f2f8a-cee7-4869-ad9a-fcfb64bc990a")
-		(property "Reference" "C5"
-			(at 128.016 77.47 0)
+		(property "Reference" "C7"
+			(at 129.54 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8208,8 +8130,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.7uF"
-			(at 128.016 80.01 0)
+		(property "Value" "4.7u"
+			(at 129.54 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8252,7 +8174,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-					(reference "C5")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -8267,8 +8189,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8eda7831-eb59-4961-bb3a-fb8c84de38e6")
-		(property "Reference" "R2"
-			(at 97.79 125.9586 90)
+		(property "Reference" "R18"
+			(at 97.79 123.0122 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8276,7 +8198,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 97.79 128.27 90)
+			(at 97.79 125.3236 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8318,7 +8240,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-					(reference "R2")
+					(reference "R18")
 					(unit 1)
 				)
 			)
@@ -8333,7 +8255,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9c77ddd7-0f01-4a10-8d25-561e0b821e2b")
-		(property "Reference" "C6"
+		(property "Reference" "C8"
 			(at 152.781 35.6616 0)
 			(effects
 				(font
@@ -8342,7 +8264,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 152.781 37.973 0)
 			(effects
 				(font
@@ -8386,7 +8308,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-					(reference "C6")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -8401,7 +8323,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9ea20293-8562-43a1-8851-cf3c5ade0866")
-		(property "Reference" "C3"
+		(property "Reference" "C5"
 			(at 98.171 76.3016 0)
 			(effects
 				(font
@@ -8410,7 +8332,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 98.171 78.613 0)
 			(effects
 				(font
@@ -8454,7 +8376,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-					(reference "C3")
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -8469,7 +8391,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "afc5815d-d894-4cd1-ba9b-a5ec9f40998e")
-		(property "Reference" "C8"
+		(property "Reference" "C10"
 			(at 164.211 35.6616 0)
 			(effects
 				(font
@@ -8478,7 +8400,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.7uF"
+		(property "Value" "4.7u"
 			(at 164.211 37.973 0)
 			(effects
 				(font
@@ -8522,7 +8444,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-					(reference "C8")
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -8537,7 +8459,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b060e775-6caf-44e0-a80c-ff2a742dcae8")
-		(property "Reference" "C10"
+		(property "Reference" "C12"
 			(at 237.236 35.6616 0)
 			(effects
 				(font
@@ -8546,7 +8468,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 237.236 37.973 0)
 			(effects
 				(font
@@ -8590,7 +8512,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-					(reference "C10")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -8606,7 +8528,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b6621779-29a2-481d-9fae-add3a61a6e4e")
-		(property "Reference" "U1"
+		(property "Reference" "U2"
 			(at 74.93 57.15 0)
 			(effects
 				(font
@@ -8697,7 +8619,7 @@
 		(instances
 			(project ""
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-					(reference "U1")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -8712,8 +8634,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b725fe63-dba3-4fe8-aa12-e37d1111760e")
-		(property "Reference" "R3"
-			(at 127.254 133.5786 90)
+		(property "Reference" "R19"
+			(at 127 130.6322 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8721,7 +8643,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 127.254 135.89 90)
+			(at 127 132.9436 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8763,7 +8685,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-					(reference "R3")
+					(reference "R19")
 					(unit 1)
 				)
 			)
@@ -8778,8 +8700,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b85a23e7-7fa6-4655-9f56-1aca19c302cd")
-		(property "Reference" "R4"
-			(at 150.622 58.674 90)
+		(property "Reference" "R20"
+			(at 147.4216 59.182 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8788,7 +8710,7 @@
 			)
 		)
 		(property "Value" "33"
-			(at 149.86 60.96 90)
+			(at 149.733 59.182 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8831,7 +8753,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-					(reference "R4")
+					(reference "R20")
 					(unit 1)
 				)
 			)
@@ -8915,8 +8837,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c176623a-5110-4936-b6bc-c1ef65274914")
-		(property "Reference" "R7"
-			(at 256.54 72.644 90)
+		(property "Reference" "R23"
+			(at 256.54 69.6722 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8924,7 +8846,7 @@
 			)
 		)
 		(property "Value" "27"
-			(at 256.54 74.9554 90)
+			(at 256.54 71.9836 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8966,7 +8888,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-					(reference "R7")
+					(reference "R23")
 					(unit 1)
 				)
 			)
@@ -8980,9 +8902,10 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "cb0f1e5d-e572-4f44-8a4a-6f7f23812888")
-		(property "Reference" "C4"
-			(at 116.586 77.47 0)
+		(property "Reference" "C6"
+			(at 118.11 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8990,8 +8913,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.7uF"
-			(at 116.586 80.01 0)
+		(property "Value" "4.7u"
+			(at 118.11 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9034,7 +8957,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-					(reference "C4")
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -9050,7 +8973,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d0516a11-f468-4102-8541-961bef0ebd4e")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR026"
 			(at 337.82 52.07 0)
 			(effects
 				(font
@@ -9099,7 +9022,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-					(reference "#PWR019")
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -9114,7 +9037,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "dc9ecc86-ce71-4913-a3db-d8bc97f691bf")
-		(property "Reference" "#PWR09"
+		(property "Reference" "#PWR013"
 			(at 114.3 62.23 0)
 			(effects
 				(font
@@ -9163,7 +9086,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-					(reference "#PWR09")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -9178,7 +9101,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e3d184db-d7fe-455a-a822-9bdf4a27c230")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR020"
 			(at 149.86 50.8 0)
 			(effects
 				(font
@@ -9227,7 +9150,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-					(reference "#PWR014")
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -9242,7 +9165,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ea0745aa-18cf-42ae-a5f3-747623813a85")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR016"
 			(at 160.02 77.47 0)
 			(effects
 				(font
@@ -9291,7 +9214,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-					(reference "#PWR015")
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -9306,7 +9229,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f20187ba-bb64-46c4-87d8-045556e9b148")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR015"
 			(at 120.65 146.05 0)
 			(effects
 				(font
@@ -9355,7 +9278,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-					(reference "#PWR011")
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -9371,8 +9294,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f283db43-a509-4bd7-bbc9-5ae4e2fd4e78")
-		(property "Reference" "R1"
-			(at 52.832 58.42 0)
+		(property "Reference" "R17"
+			(at 51.435 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9381,7 +9304,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 54.61 60.198 90)
+			(at 51.435 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9424,7 +9347,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-					(reference "R1")
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -9439,7 +9362,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fc436037-d906-40fc-9bc2-8fb4a180e6ff")
-		(property "Reference" "#PWR07"
+		(property "Reference" "#PWR012"
 			(at 86.36 129.54 0)
 			(effects
 				(font
@@ -9488,7 +9411,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-					(reference "#PWR07")
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)

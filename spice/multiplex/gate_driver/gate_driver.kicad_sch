@@ -1165,18 +1165,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(rectangle
-		(start 99.06 44.704)
-		(end 160.02 119.126)
-		(stroke
-			(width 0.2)
-			(type dash)
-		)
-		(fill
-			(type none)
-		)
-		(uuid f9435406-23cb-40f2-8ed2-6185952b7324)
-	)
 	(text "MCU pin output"
 		(exclude_from_sim no)
 		(at 62.484 85.598 0)
@@ -1190,7 +1178,7 @@
 	)
 	(text ".tran 10.0n 400u\n.options method=gear abstol=1e-8 reltol=0.01"
 		(exclude_from_sim no)
-		(at 108.966 31.75 0)
+		(at 132.08 61.468 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1198,19 +1186,6 @@
 			(justify left bottom)
 		)
 		(uuid "956846da-b269-412a-858a-b8e9a6a9c1cc")
-	)
-	(text "Column Driver"
-		(exclude_from_sim no)
-		(at 136.652 43.688 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
-		(uuid "96449788-09c4-4c32-a189-4df20aeee6b7")
 	)
 	(junction
 		(at 82.55 113.03)
