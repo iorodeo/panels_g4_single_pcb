@@ -933,7 +933,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 45.72) (xy 195.58 49.53)
+			(xy 200.66 45.72) (xy 200.66 49.53)
 		)
 		(stroke
 			(width 0)
@@ -953,7 +953,7 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 45.72) (xy 195.58 45.72)
+			(xy 200.66 45.72) (xy 203.2 45.72)
 		)
 		(stroke
 			(width 0)
@@ -1003,7 +1003,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 59.69) (xy 214.63 59.69)
+			(xy 200.66 59.69) (xy 214.63 59.69)
 		)
 		(stroke
 			(width 0)
@@ -1123,7 +1123,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 57.15) (xy 195.58 59.69)
+			(xy 200.66 57.15) (xy 200.66 59.69)
 		)
 		(stroke
 			(width 0)
@@ -1424,16 +1424,15 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 195.58 53.34 0)
+		(at 200.66 53.34 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "400de455-deba-48f1-99c6-a4438cc1a35e")
 		(property "Reference" "C64"
-			(at 199.39 52.07 0)
+			(at 194.564 51.816 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1442,7 +1441,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 199.39 54.61 0)
+			(at 193.548 54.356 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1451,7 +1450,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 196.5452 57.15 0)
+			(at 201.6252 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1460,7 +1459,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 195.58 53.34 0)
+			(at 200.66 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1469,7 +1468,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 195.58 53.34 0)
+			(at 200.66 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1573,10 +1572,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "b8284593-519c-4fba-8e2a-fcb841d43e4a")
 		(property "Reference" "C65"
-			(at 229.87 52.07 0)
+			(at 229.362 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1585,7 +1583,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 229.87 54.61 0)
+			(at 229.362 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)

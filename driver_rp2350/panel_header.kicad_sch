@@ -524,8 +524,12 @@
 		(uuid "7a36594f-3b76-4347-8652-1e5b26d697dd")
 	)
 	(no_connect
-		(at 173.99 110.49)
-		(uuid "9d369801-f1eb-4790-a2b2-90d3beba7d48")
+		(at 78.74 74.93)
+		(uuid "3da14f4f-743b-49f0-b33b-7d6334c7e290")
+	)
+	(no_connect
+		(at 173.99 107.95)
+		(uuid "4412ddc9-1db7-4b62-9535-f4093769a36f")
 	)
 	(wire
 		(pts
@@ -549,7 +553,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.775 110.49) (xy 150.495 110.49)
+			(xy 104.775 110.49) (xy 173.99 110.49)
 		)
 		(stroke
 			(width 0)
@@ -709,16 +713,6 @@
 	)
 	(wire
 		(pts
-			(xy 150.495 110.49) (xy 150.495 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6cf3f236-172e-4dcf-aed6-18ba13d5ab25")
-	)
-	(wire
-		(pts
 			(xy 116.84 122.555) (xy 125.095 122.555)
 		)
 		(stroke
@@ -839,16 +833,6 @@
 	)
 	(wire
 		(pts
-			(xy 150.495 107.95) (xy 173.99 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "df615ee6-37b4-472a-b23a-f5fa85115298")
-	)
-	(wire
-		(pts
 			(xy 121.285 117.475) (xy 125.095 117.475)
 		)
 		(stroke
@@ -927,7 +911,7 @@
 		)
 		(uuid "6b98405a-d122-4cb8-a544-c498506cfe1f")
 	)
-	(label "CS5"
+	(label "EINT"
 		(at 105.41 110.49 0)
 		(effects
 			(font

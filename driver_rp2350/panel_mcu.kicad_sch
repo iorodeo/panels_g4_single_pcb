@@ -2981,9 +2981,9 @@
 		)
 		(uuid "1835c6d3-a46f-4154-bfdc-60f900566fe4")
 	)
-	(text "Maybe use larger capacitance for 10uF \ncapacitors  (say 22uF)  if using smaller package \nsize components, e.g. 0402.  "
+	(text "Maybe use larger capacitance \nfor 10uF capacitors  (say 22uF)  \nif using smaller package \nsize components, e.g. 0402.  "
 		(exclude_from_sim no)
-		(at 304.292 72.39 0)
+		(at 299.466 72.39 0)
 		(effects
 			(font
 				(size 3.81 3.81)
