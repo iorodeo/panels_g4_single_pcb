@@ -1,4 +1,4 @@
-25238538440882831
+25243795946135653
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -101283,6 +101283,13 @@ capacitor
 4
 2
 panel_custom
+ConnRcpt_1x5_SMH-105-02-X-S
+
+
+0
+5
+5
+panel_custom
 JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical
 JST SH series connector, BM04B-SRSS-TB (http://www.jst-mfg.com/product/pdf/eng/eSH.pdf), generated with kicad-footprint-generator
 connector JST SH vertical
@@ -101296,6 +101303,13 @@ LED
 0
 2
 2
+panel_custom
+PinHeader_1x5_M20-8890545R
+
+
+0
+5
+5
 panel_custom
 PinHeader_2x02_P2.54mm_Vertical_SMD
 surface-mounted straight pin header, 2x02, 2.54mm pitch, double rows
@@ -101338,3 +101352,10 @@ SOT-563
 0
 6
 6
+panel_custom
+TS-1088-AR02016
+
+
+0
+2
+2
