@@ -1417,7 +1417,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 372.11) (xy 187.96 373.38)
+			(xy 179.07 368.3) (xy 179.07 369.57)
 		)
 		(stroke
 			(width 0)
@@ -2487,7 +2487,7 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 363.22) (xy 110.49 364.49)
+			(xy 101.6 359.41) (xy 101.6 360.68)
 		)
 		(stroke
 			(width 0)
@@ -2517,7 +2517,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 363.22) (xy 156.21 364.49)
+			(xy 147.32 359.41) (xy 147.32 360.68)
 		)
 		(stroke
 			(width 0)
@@ -2927,7 +2927,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 363.22) (xy 187.96 364.49)
+			(xy 179.07 359.41) (xy 179.07 360.68)
 		)
 		(stroke
 			(width 0)
@@ -3627,7 +3627,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 372.11) (xy 140.97 373.38)
+			(xy 132.08 368.3) (xy 132.08 369.57)
 		)
 		(stroke
 			(width 0)
@@ -3697,7 +3697,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 363.22) (xy 125.73 364.49)
+			(xy 116.84 359.41) (xy 116.84 360.68)
 		)
 		(stroke
 			(width 0)
@@ -3967,7 +3967,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 363.22) (xy 172.72 364.49)
+			(xy 163.83 359.41) (xy 163.83 360.68)
 		)
 		(stroke
 			(width 0)
@@ -4637,7 +4637,7 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 372.11) (xy 203.2 373.38)
+			(xy 194.31 368.3) (xy 194.31 369.57)
 		)
 		(stroke
 			(width 0)
@@ -4747,7 +4747,7 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 363.22) (xy 203.2 364.49)
+			(xy 194.31 359.41) (xy 194.31 360.68)
 		)
 		(stroke
 			(width 0)
@@ -4867,7 +4867,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 372.11) (xy 156.21 373.38)
+			(xy 147.32 368.3) (xy 147.32 369.57)
 		)
 		(stroke
 			(width 0)
@@ -5057,7 +5057,7 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 372.11) (xy 110.49 373.38)
+			(xy 101.6 368.3) (xy 101.6 369.57)
 		)
 		(stroke
 			(width 0)
@@ -6087,7 +6087,7 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 372.11) (xy 218.44 373.38)
+			(xy 209.55 368.3) (xy 209.55 369.57)
 		)
 		(stroke
 			(width 0)
@@ -6357,7 +6357,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 372.11) (xy 125.73 373.38)
+			(xy 116.84 368.3) (xy 116.84 369.57)
 		)
 		(stroke
 			(width 0)
@@ -6427,7 +6427,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 363.22) (xy 140.97 364.49)
+			(xy 132.08 359.41) (xy 132.08 360.68)
 		)
 		(stroke
 			(width 0)
@@ -6797,7 +6797,7 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 363.22) (xy 218.44 364.49)
+			(xy 209.55 359.41) (xy 209.55 360.68)
 		)
 		(stroke
 			(width 0)
@@ -6837,7 +6837,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 372.11) (xy 172.72 373.38)
+			(xy 163.83 368.3) (xy 163.83 369.57)
 		)
 		(stroke
 			(width 0)
@@ -7726,7 +7726,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "001bf81c-0faf-46eb-a5ff-d73f5cb0bbc5")
-		(property "Reference" "#PWR039"
+		(property "Reference" "#PWR040"
 			(at 132.08 72.39 0)
 			(effects
 				(font
@@ -7776,7 +7776,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR039")
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)
@@ -7869,7 +7869,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "01438dbe-7ce3-4fd9-85e8-35c476e43354")
-		(property "Reference" "#PWR030"
+		(property "Reference" "#PWR031"
 			(at 66.04 220.98 0)
 			(effects
 				(font
@@ -7918,7 +7918,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR030")
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
@@ -8003,7 +8003,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "05010006-0193-4022-8ce8-6cad0a4b6387")
-		(property "Reference" "#PWR089"
+		(property "Reference" "#PWR090"
 			(at 320.04 312.42 0)
 			(effects
 				(font
@@ -8053,7 +8053,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR089")
+					(reference "#PWR090")
 					(unit 1)
 				)
 			)
@@ -8069,7 +8069,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "061b9a28-13ee-4a2b-8e08-f1e8f3f9fa47")
-		(property "Reference" "#PWR070"
+		(property "Reference" "#PWR071"
 			(at 254 289.56 0)
 			(effects
 				(font
@@ -8118,7 +8118,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR070")
+					(reference "#PWR071")
 					(unit 1)
 				)
 			)
@@ -8133,7 +8133,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "07749296-8d0e-4bfa-8de0-1497a59a558a")
-		(property "Reference" "#PWR045"
+		(property "Reference" "#PWR046"
 			(at 132.08 175.26 0)
 			(effects
 				(font
@@ -8183,7 +8183,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR045")
+					(reference "#PWR046")
 					(unit 1)
 				)
 			)
@@ -8198,7 +8198,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0803b160-6049-475d-903b-64d932ad00d7")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR022"
 			(at 66.04 72.39 0)
 			(effects
 				(font
@@ -8248,7 +8248,7 @@
 		(instances
 			(project ""
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR021")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -8256,15 +8256,15 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 172.72 373.38 0)
+		(at 163.83 369.57 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "0952a8bb-5d1e-4a36-adac-622b65937c9e")
-		(property "Reference" "#PWR0101"
-			(at 172.72 379.73 0)
+		(property "Reference" "#PWR0102"
+			(at 163.83 375.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8273,7 +8273,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 172.72 376.936 0)
+			(at 163.83 373.126 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8281,7 +8281,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 172.72 373.38 0)
+			(at 163.83 369.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8290,7 +8290,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 172.72 373.38 0)
+			(at 163.83 369.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8299,7 +8299,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 172.72 373.38 0)
+			(at 163.83 369.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8313,7 +8313,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR0101")
+					(reference "#PWR0102")
 					(unit 1)
 				)
 			)
@@ -8321,7 +8321,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 110.49 363.22 0)
+		(at 101.6 359.41 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8329,8 +8329,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0a31c027-e9d0-4e5b-87d4-c30a1b7ae397")
-		(property "Reference" "#PWR092"
-			(at 110.49 367.03 0)
+		(property "Reference" "#PWR093"
+			(at 101.6 363.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8339,7 +8339,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 110.617 359.41 0)
+			(at 101.727 355.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8347,7 +8347,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 110.49 363.22 0)
+			(at 101.6 359.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8356,7 +8356,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 110.49 363.22 0)
+			(at 101.6 359.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8365,7 +8365,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 110.49 363.22 0)
+			(at 101.6 359.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8378,7 +8378,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR092")
+					(reference "#PWR093")
 					(unit 1)
 				)
 			)
@@ -8470,7 +8470,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0ea6e4f8-acec-42a8-a1c8-7d44a3bd1dd8")
-		(property "Reference" "#PWR049"
+		(property "Reference" "#PWR050"
 			(at 132.08 243.84 0)
 			(effects
 				(font
@@ -8520,7 +8520,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR049")
+					(reference "#PWR050")
 					(unit 1)
 				)
 			)
@@ -8613,7 +8613,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "118ed4d5-3c12-4d10-b675-54e891ff1279")
-		(property "Reference" "#PWR078"
+		(property "Reference" "#PWR079"
 			(at 320.04 118.11 0)
 			(effects
 				(font
@@ -8662,7 +8662,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR078")
+					(reference "#PWR079")
 					(unit 1)
 				)
 			)
@@ -8678,7 +8678,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1224d760-23b9-4bf6-9c16-ed4f0eaf0b49")
-		(property "Reference" "#PWR086"
+		(property "Reference" "#PWR087"
 			(at 320.04 255.27 0)
 			(effects
 				(font
@@ -8727,7 +8727,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR086")
+					(reference "#PWR087")
 					(unit 1)
 				)
 			)
@@ -8742,7 +8742,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "12fccb21-eeb1-43f4-b7c0-3197b92a14e3")
-		(property "Reference" "#PWR069"
+		(property "Reference" "#PWR070"
 			(at 254 278.13 0)
 			(effects
 				(font
@@ -8792,7 +8792,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR069")
+					(reference "#PWR070")
 					(unit 1)
 				)
 			)
@@ -8940,15 +8940,15 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 203.2 373.38 0)
+		(at 194.31 369.57 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "16a40f94-e481-43ec-9516-d36015e97dbb")
-		(property "Reference" "#PWR0105"
-			(at 203.2 379.73 0)
+		(property "Reference" "#PWR0106"
+			(at 194.31 375.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8957,7 +8957,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 203.2 376.936 0)
+			(at 194.31 373.126 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8965,7 +8965,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 203.2 373.38 0)
+			(at 194.31 369.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8974,7 +8974,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 203.2 373.38 0)
+			(at 194.31 369.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8983,7 +8983,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 203.2 373.38 0)
+			(at 194.31 369.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8997,7 +8997,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR0105")
+					(reference "#PWR0106")
 					(unit 1)
 				)
 			)
@@ -9013,7 +9013,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "18130f85-f4e6-4bed-a987-3a39192d8f48")
-		(property "Reference" "#PWR050"
+		(property "Reference" "#PWR051"
 			(at 132.08 255.27 0)
 			(effects
 				(font
@@ -9062,7 +9062,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR050")
+					(reference "#PWR051")
 					(unit 1)
 				)
 			)
@@ -9077,7 +9077,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "19bd441e-c558-4aab-a936-59bc216cee41")
-		(property "Reference" "#PWR033"
+		(property "Reference" "#PWR034"
 			(at 66.04 278.13 0)
 			(effects
 				(font
@@ -9127,7 +9127,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR033")
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -9143,7 +9143,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "19d34034-93af-458b-a684-405ee8a5c887")
-		(property "Reference" "#PWR042"
+		(property "Reference" "#PWR043"
 			(at 132.08 118.11 0)
 			(effects
 				(font
@@ -9192,7 +9192,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR042")
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -9200,7 +9200,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 172.72 368.3 0)
+		(at 163.83 364.49 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9209,7 +9209,7 @@
 		(dnp no)
 		(uuid "1af2de66-7dad-4d10-b6d9-89681a5d5c8c")
 		(property "Reference" "C60"
-			(at 168.91 367.0299 0)
+			(at 160.02 363.2199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9218,7 +9218,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 168.91 369.5699 0)
+			(at 160.02 365.7599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9227,7 +9227,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 171.7548 372.11 0)
+			(at 162.8648 368.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9236,7 +9236,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 172.72 368.3 0)
+			(at 163.83 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9245,7 +9245,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 172.72 368.3 0)
+			(at 163.83 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9347,15 +9347,15 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 110.49 373.38 0)
+		(at 101.6 369.57 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "1cea3006-985c-47e2-8b34-fa34b2ad7604")
-		(property "Reference" "#PWR093"
-			(at 110.49 379.73 0)
+		(property "Reference" "#PWR094"
+			(at 101.6 375.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9364,7 +9364,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 110.49 376.936 0)
+			(at 101.6 373.126 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9372,7 +9372,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 110.49 373.38 0)
+			(at 101.6 369.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9381,7 +9381,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 110.49 373.38 0)
+			(at 101.6 369.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9390,7 +9390,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 110.49 373.38 0)
+			(at 101.6 369.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9404,7 +9404,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR093")
+					(reference "#PWR094")
 					(unit 1)
 				)
 			)
@@ -9420,7 +9420,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2029e6b3-888c-4e88-83e3-fb9fed06ffc3")
-		(property "Reference" "#PWR064"
+		(property "Reference" "#PWR065"
 			(at 254 186.69 0)
 			(effects
 				(font
@@ -9469,7 +9469,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR064")
+					(reference "#PWR065")
 					(unit 1)
 				)
 			)
@@ -9554,15 +9554,15 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 156.21 373.38 0)
+		(at 147.32 369.57 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "25093d07-7bb3-4f75-b78e-ad8df37696fb")
-		(property "Reference" "#PWR099"
-			(at 156.21 379.73 0)
+		(property "Reference" "#PWR0100"
+			(at 147.32 375.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9571,7 +9571,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 156.21 376.936 0)
+			(at 147.32 373.126 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9579,7 +9579,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 156.21 373.38 0)
+			(at 147.32 369.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9588,7 +9588,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 156.21 373.38 0)
+			(at 147.32 369.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9597,7 +9597,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 156.21 373.38 0)
+			(at 147.32 369.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9611,7 +9611,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR099")
+					(reference "#PWR0100")
 					(unit 1)
 				)
 			)
@@ -9627,7 +9627,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2664ffa3-8958-4ea2-b313-0ffa142d5a73")
-		(property "Reference" "#PWR084"
+		(property "Reference" "#PWR085"
 			(at 320.04 220.98 0)
 			(effects
 				(font
@@ -9676,7 +9676,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR084")
+					(reference "#PWR085")
 					(unit 1)
 				)
 			)
@@ -9692,7 +9692,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "268eaac0-739c-4ad7-8a98-37c9d71722e5")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR023"
 			(at 66.04 83.82 0)
 			(effects
 				(font
@@ -9741,7 +9741,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR022")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -9757,7 +9757,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "276c5463-07ff-4006-a81f-daeb263cfa90")
-		(property "Reference" "#PWR090"
+		(property "Reference" "#PWR091"
 			(at 320.04 323.85 0)
 			(effects
 				(font
@@ -9806,7 +9806,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR090")
+					(reference "#PWR091")
 					(unit 1)
 				)
 			)
@@ -9822,7 +9822,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "277bbc7f-d754-40de-bd4a-2d446c74f3b8")
-		(property "Reference" "#PWR034"
+		(property "Reference" "#PWR035"
 			(at 66.04 289.56 0)
 			(effects
 				(font
@@ -9871,7 +9871,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR034")
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -9879,7 +9879,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 187.96 363.22 0)
+		(at 179.07 359.41 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9887,8 +9887,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2989e326-930f-4e73-ae27-c592aceededa")
-		(property "Reference" "#PWR0102"
-			(at 187.96 367.03 0)
+		(property "Reference" "#PWR0103"
+			(at 179.07 363.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9897,7 +9897,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 188.087 359.41 0)
+			(at 179.197 355.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9905,7 +9905,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 187.96 363.22 0)
+			(at 179.07 359.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9914,7 +9914,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 187.96 363.22 0)
+			(at 179.07 359.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9923,7 +9923,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 187.96 363.22 0)
+			(at 179.07 359.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9936,7 +9936,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR0102")
+					(reference "#PWR0103")
 					(unit 1)
 				)
 			)
@@ -10028,7 +10028,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2f8a8d3c-7c64-4dba-be6e-ca6a52a62096")
-		(property "Reference" "#PWR065"
+		(property "Reference" "#PWR066"
 			(at 254 209.55 0)
 			(effects
 				(font
@@ -10078,7 +10078,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR065")
+					(reference "#PWR066")
 					(unit 1)
 				)
 			)
@@ -10093,7 +10093,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "33673310-1596-4b2f-8a22-acbfa45fee26")
-		(property "Reference" "#PWR061"
+		(property "Reference" "#PWR062"
 			(at 254 140.97 0)
 			(effects
 				(font
@@ -10143,7 +10143,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR061")
+					(reference "#PWR062")
 					(unit 1)
 				)
 			)
@@ -10159,7 +10159,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "36cafe25-4a0a-4367-b0d6-d9c48755e699")
-		(property "Reference" "#PWR046"
+		(property "Reference" "#PWR047"
 			(at 132.08 186.69 0)
 			(effects
 				(font
@@ -10208,7 +10208,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR046")
+					(reference "#PWR047")
 					(unit 1)
 				)
 			)
@@ -10286,7 +10286,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 110.49 368.3 0)
+		(at 101.6 364.49 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10295,7 +10295,7 @@
 		(dnp no)
 		(uuid "39ba37c8-5bb4-4691-aef9-964cc80b1bdf")
 		(property "Reference" "C56"
-			(at 106.68 367.0299 0)
+			(at 97.79 363.2199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10304,7 +10304,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 106.68 369.5699 0)
+			(at 97.79 365.7599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10313,7 +10313,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 109.5248 372.11 0)
+			(at 100.6348 368.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10322,7 +10322,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 110.49 368.3 0)
+			(at 101.6 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10331,7 +10331,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 110.49 368.3 0)
+			(at 101.6 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10440,7 +10440,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3a2841e9-b710-4419-be3d-ac057ec681e8")
-		(property "Reference" "#PWR083"
+		(property "Reference" "#PWR084"
 			(at 320.04 209.55 0)
 			(effects
 				(font
@@ -10490,7 +10490,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR083")
+					(reference "#PWR084")
 					(unit 1)
 				)
 			)
@@ -10568,15 +10568,15 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 140.97 373.38 0)
+		(at 132.08 369.57 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "3c90a3b3-cbaa-49f0-bd77-4fd1ab4b8fa4")
-		(property "Reference" "#PWR097"
-			(at 140.97 379.73 0)
+		(property "Reference" "#PWR098"
+			(at 132.08 375.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10585,7 +10585,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 140.97 376.936 0)
+			(at 132.08 373.126 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10593,7 +10593,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 140.97 373.38 0)
+			(at 132.08 369.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10602,7 +10602,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 140.97 373.38 0)
+			(at 132.08 369.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10611,7 +10611,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 140.97 373.38 0)
+			(at 132.08 369.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10625,7 +10625,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR097")
+					(reference "#PWR098")
 					(unit 1)
 				)
 			)
@@ -10941,7 +10941,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "438238be-6fa7-4dec-bd26-6217f9668228")
-		(property "Reference" "#PWR075"
+		(property "Reference" "#PWR076"
 			(at 320.04 72.39 0)
 			(effects
 				(font
@@ -10991,7 +10991,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR075")
+					(reference "#PWR076")
 					(unit 1)
 				)
 			)
@@ -11006,7 +11006,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "44351988-e1c6-46a4-ac70-d8b40873855d")
-		(property "Reference" "#PWR059"
+		(property "Reference" "#PWR060"
 			(at 254 106.68 0)
 			(effects
 				(font
@@ -11056,7 +11056,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR059")
+					(reference "#PWR060")
 					(unit 1)
 				)
 			)
@@ -11148,7 +11148,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "46925a82-f550-42d0-b5d6-6697c398e5f1")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR028"
 			(at 66.04 175.26 0)
 			(effects
 				(font
@@ -11198,7 +11198,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR027")
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -11206,7 +11206,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 140.97 363.22 0)
+		(at 132.08 359.41 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11214,8 +11214,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "46d0308f-d222-4991-8d88-4d0e06658f6b")
-		(property "Reference" "#PWR096"
-			(at 140.97 367.03 0)
+		(property "Reference" "#PWR097"
+			(at 132.08 363.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11224,7 +11224,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 141.097 359.41 0)
+			(at 132.207 355.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11232,7 +11232,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 140.97 363.22 0)
+			(at 132.08 359.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11241,7 +11241,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 140.97 363.22 0)
+			(at 132.08 359.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11250,7 +11250,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 140.97 363.22 0)
+			(at 132.08 359.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11263,7 +11263,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR096")
+					(reference "#PWR097")
 					(unit 1)
 				)
 			)
@@ -11418,7 +11418,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4cd7c269-4e0e-4b42-91d3-9f8bb2df2652")
-		(property "Reference" "#PWR047"
+		(property "Reference" "#PWR048"
 			(at 132.08 209.55 0)
 			(effects
 				(font
@@ -11468,7 +11468,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR047")
+					(reference "#PWR048")
 					(unit 1)
 				)
 			)
@@ -11631,7 +11631,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "526d2b20-9f0e-46d5-af94-d43f5bc05e21")
-		(property "Reference" "#PWR076"
+		(property "Reference" "#PWR077"
 			(at 320.04 83.82 0)
 			(effects
 				(font
@@ -11680,7 +11680,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR076")
+					(reference "#PWR077")
 					(unit 1)
 				)
 			)
@@ -11842,7 +11842,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "57e1d577-5dfd-4595-8be7-c20c0e4bec9a")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR026"
 			(at 66.04 140.97 0)
 			(effects
 				(font
@@ -11892,7 +11892,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR025")
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -11900,7 +11900,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 172.72 363.22 0)
+		(at 163.83 359.41 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11908,8 +11908,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5976fb99-0d5f-45b9-ab2d-df63f2e83422")
-		(property "Reference" "#PWR0100"
-			(at 172.72 367.03 0)
+		(property "Reference" "#PWR0101"
+			(at 163.83 363.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11918,7 +11918,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 172.847 359.41 0)
+			(at 163.957 355.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11926,7 +11926,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 172.72 363.22 0)
+			(at 163.83 359.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11935,7 +11935,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 172.72 363.22 0)
+			(at 163.83 359.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11944,7 +11944,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 172.72 363.22 0)
+			(at 163.83 359.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11957,7 +11957,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR0100")
+					(reference "#PWR0101")
 					(unit 1)
 				)
 			)
@@ -12189,7 +12189,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5ef4565b-cd18-4040-91be-3fc016c2df98")
-		(property "Reference" "#PWR043"
+		(property "Reference" "#PWR044"
 			(at 132.08 140.97 0)
 			(effects
 				(font
@@ -12239,7 +12239,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR043")
+					(reference "#PWR044")
 					(unit 1)
 				)
 			)
@@ -12332,7 +12332,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "62653a1e-8e14-4421-992a-7bf6dc1eec89")
-		(property "Reference" "#PWR038"
+		(property "Reference" "#PWR039"
 			(at 132.08 49.53 0)
 			(effects
 				(font
@@ -12381,7 +12381,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR038")
+					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -12396,7 +12396,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "685729ad-4b31-4280-905a-597de6ee1b23")
-		(property "Reference" "#PWR037"
+		(property "Reference" "#PWR038"
 			(at 66.04 346.71 0)
 			(effects
 				(font
@@ -12446,7 +12446,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR037")
+					(reference "#PWR038")
 					(unit 1)
 				)
 			)
@@ -12454,7 +12454,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 203.2 363.22 0)
+		(at 194.31 359.41 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12462,8 +12462,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "68632252-f535-4dd7-815a-d64289f97f7c")
-		(property "Reference" "#PWR0104"
-			(at 203.2 367.03 0)
+		(property "Reference" "#PWR0105"
+			(at 194.31 363.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12472,7 +12472,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 203.327 359.41 0)
+			(at 194.437 355.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12480,7 +12480,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 203.2 363.22 0)
+			(at 194.31 359.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12489,7 +12489,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 203.2 363.22 0)
+			(at 194.31 359.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12498,7 +12498,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 203.2 363.22 0)
+			(at 194.31 359.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12511,7 +12511,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR0104")
+					(reference "#PWR0105")
 					(unit 1)
 				)
 			)
@@ -12527,7 +12527,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6910025a-d08c-46a6-8c8b-da2606d04163")
-		(property "Reference" "#PWR066"
+		(property "Reference" "#PWR067"
 			(at 254 220.98 0)
 			(effects
 				(font
@@ -12576,7 +12576,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR066")
+					(reference "#PWR067")
 					(unit 1)
 				)
 			)
@@ -12662,7 +12662,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6d62d1a9-4c30-4265-8c26-adf49adeebdf")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR027"
 			(at 66.04 152.4 0)
 			(effects
 				(font
@@ -12711,7 +12711,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR026")
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -12874,7 +12874,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "73fd628c-4f5d-4c13-a31d-e1b484373891")
-		(property "Reference" "#PWR088"
+		(property "Reference" "#PWR089"
 			(at 320.04 289.56 0)
 			(effects
 				(font
@@ -12923,7 +12923,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR088")
+					(reference "#PWR089")
 					(unit 1)
 				)
 			)
@@ -13009,7 +13009,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "75a50096-660e-4965-9917-aae9af265942")
-		(property "Reference" "#PWR048"
+		(property "Reference" "#PWR049"
 			(at 132.08 220.98 0)
 			(effects
 				(font
@@ -13058,7 +13058,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR048")
+					(reference "#PWR049")
 					(unit 1)
 				)
 			)
@@ -13144,7 +13144,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "77ec6263-8521-4923-ba0f-9a3c918b304e")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR025"
 			(at 66.04 118.11 0)
 			(effects
 				(font
@@ -13193,7 +13193,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR024")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -13285,7 +13285,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "79030e05-165c-4d52-933f-b017bac3db49")
-		(property "Reference" "#PWR063"
+		(property "Reference" "#PWR064"
 			(at 254 175.26 0)
 			(effects
 				(font
@@ -13335,7 +13335,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR063")
+					(reference "#PWR064")
 					(unit 1)
 				)
 			)
@@ -13350,7 +13350,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7d3876ce-dc6c-48b7-8d49-c88ebad4cd19")
-		(property "Reference" "#PWR087"
+		(property "Reference" "#PWR088"
 			(at 320.04 278.13 0)
 			(effects
 				(font
@@ -13400,7 +13400,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR087")
+					(reference "#PWR088")
 					(unit 1)
 				)
 			)
@@ -13647,7 +13647,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "81e4f108-3ff9-4516-a792-04ad57b0c7e1")
-		(property "Reference" "#PWR060"
+		(property "Reference" "#PWR061"
 			(at 254 118.11 0)
 			(effects
 				(font
@@ -13696,7 +13696,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR060")
+					(reference "#PWR061")
 					(unit 1)
 				)
 			)
@@ -13858,7 +13858,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "87a2333e-13d6-4955-8b07-2d417905be42")
-		(property "Reference" "#PWR041"
+		(property "Reference" "#PWR042"
 			(at 132.08 106.68 0)
 			(effects
 				(font
@@ -13908,7 +13908,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR041")
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
@@ -13916,15 +13916,15 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 125.73 373.38 0)
+		(at 116.84 369.57 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "87d75b15-ec13-4791-939c-e1a3dc767f29")
-		(property "Reference" "#PWR095"
-			(at 125.73 379.73 0)
+		(property "Reference" "#PWR096"
+			(at 116.84 375.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13933,7 +13933,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 125.73 376.936 0)
+			(at 116.84 373.126 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13941,7 +13941,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 125.73 373.38 0)
+			(at 116.84 369.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13950,7 +13950,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 125.73 373.38 0)
+			(at 116.84 369.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13959,7 +13959,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 125.73 373.38 0)
+			(at 116.84 369.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13973,7 +13973,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR095")
+					(reference "#PWR096")
 					(unit 1)
 				)
 			)
@@ -13981,7 +13981,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 156.21 368.3 0)
+		(at 147.32 364.49 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13990,7 +13990,7 @@
 		(dnp no)
 		(uuid "88fe20ce-1dba-45f0-b565-a29e418cb91d")
 		(property "Reference" "C59"
-			(at 152.4 367.0299 0)
+			(at 143.51 363.2199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13999,7 +13999,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 152.4 369.5699 0)
+			(at 143.51 365.7599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14008,7 +14008,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 155.2448 372.11 0)
+			(at 146.3548 368.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14017,7 +14017,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 156.21 368.3 0)
+			(at 147.32 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14026,7 +14026,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 156.21 368.3 0)
+			(at 147.32 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14430,7 +14430,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8e54cf75-34ea-4243-8bfa-78ce62cafdab")
-		(property "Reference" "#PWR052"
+		(property "Reference" "#PWR053"
 			(at 132.08 289.56 0)
 			(effects
 				(font
@@ -14479,7 +14479,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR052")
+					(reference "#PWR053")
 					(unit 1)
 				)
 			)
@@ -14494,7 +14494,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8f8a9b26-d6c8-4b24-a9c1-e0da634d4eaf")
-		(property "Reference" "#PWR091"
+		(property "Reference" "#PWR092"
 			(at 320.04 346.71 0)
 			(effects
 				(font
@@ -14544,7 +14544,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR091")
+					(reference "#PWR092")
 					(unit 1)
 				)
 			)
@@ -14706,7 +14706,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "955f9870-6bf8-44f0-8257-2e4c6c5b1454")
-		(property "Reference" "#PWR079"
+		(property "Reference" "#PWR080"
 			(at 320.04 140.97 0)
 			(effects
 				(font
@@ -14756,7 +14756,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR079")
+					(reference "#PWR080")
 					(unit 1)
 				)
 			)
@@ -14771,7 +14771,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "95825aa4-eaa7-45f2-9beb-718a2d17b095")
-		(property "Reference" "#PWR073"
+		(property "Reference" "#PWR074"
 			(at 254 346.71 0)
 			(effects
 				(font
@@ -14821,7 +14821,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR073")
+					(reference "#PWR074")
 					(unit 1)
 				)
 			)
@@ -14906,7 +14906,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 140.97 368.3 0)
+		(at 132.08 364.49 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14915,7 +14915,7 @@
 		(dnp no)
 		(uuid "97c9632f-3519-46a5-9452-88de57c268cb")
 		(property "Reference" "C58"
-			(at 137.16 367.0299 0)
+			(at 128.27 363.2199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14924,7 +14924,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 137.16 369.5699 0)
+			(at 128.27 365.7599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14933,7 +14933,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 140.0048 372.11 0)
+			(at 131.1148 368.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14942,7 +14942,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 140.97 368.3 0)
+			(at 132.08 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14951,7 +14951,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 140.97 368.3 0)
+			(at 132.08 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14983,7 +14983,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "982ea846-1435-4493-b161-c01892fa04d6")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR032"
 			(at 66.04 243.84 0)
 			(effects
 				(font
@@ -15033,7 +15033,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR031")
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -15048,7 +15048,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "98540385-394c-4c3b-a06d-515e1513a260")
-		(property "Reference" "#PWR081"
+		(property "Reference" "#PWR082"
 			(at 320.04 175.26 0)
 			(effects
 				(font
@@ -15098,7 +15098,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR081")
+					(reference "#PWR082")
 					(unit 1)
 				)
 			)
@@ -15106,15 +15106,15 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 187.96 373.38 0)
+		(at 179.07 369.57 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "9a370a5c-a6f1-428c-93ed-63007f90555c")
-		(property "Reference" "#PWR0103"
-			(at 187.96 379.73 0)
+		(property "Reference" "#PWR0104"
+			(at 179.07 375.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15123,7 +15123,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 187.96 376.936 0)
+			(at 179.07 373.126 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15131,7 +15131,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 187.96 373.38 0)
+			(at 179.07 369.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15140,7 +15140,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 187.96 373.38 0)
+			(at 179.07 369.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15149,7 +15149,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 187.96 373.38 0)
+			(at 179.07 369.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15163,7 +15163,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR0103")
+					(reference "#PWR0104")
 					(unit 1)
 				)
 			)
@@ -15179,7 +15179,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9bffabef-dd5f-4937-b859-ca3a6d2d94b5")
-		(property "Reference" "#PWR082"
+		(property "Reference" "#PWR083"
 			(at 320.04 186.69 0)
 			(effects
 				(font
@@ -15228,7 +15228,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR082")
+					(reference "#PWR083")
 					(unit 1)
 				)
 			)
@@ -15391,7 +15391,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9efe1618-f0c5-4e24-b065-e6dcbaf784a1")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR037"
 			(at 66.04 323.85 0)
 			(effects
 				(font
@@ -15440,7 +15440,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR036")
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -15749,7 +15749,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b06ea3a0-5a75-4e01-b758-2ed11ca259f0")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR036"
 			(at 66.04 312.42 0)
 			(effects
 				(font
@@ -15799,7 +15799,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR035")
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -15814,7 +15814,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b1d92b22-d589-4efb-a40e-15b9d12fb230")
-		(property "Reference" "#PWR067"
+		(property "Reference" "#PWR068"
 			(at 254 243.84 0)
 			(effects
 				(font
@@ -15864,7 +15864,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR067")
+					(reference "#PWR068")
 					(unit 1)
 				)
 			)
@@ -15949,7 +15949,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b4629bde-f471-490d-ab7c-d1f0ea7509fb")
-		(property "Reference" "#PWR071"
+		(property "Reference" "#PWR072"
 			(at 254 312.42 0)
 			(effects
 				(font
@@ -15999,7 +15999,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR071")
+					(reference "#PWR072")
 					(unit 1)
 				)
 			)
@@ -16077,7 +16077,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 125.73 363.22 0)
+		(at 116.84 359.41 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16085,8 +16085,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b5f3f992-9660-44a1-9249-f453e25b5420")
-		(property "Reference" "#PWR094"
-			(at 125.73 367.03 0)
+		(property "Reference" "#PWR095"
+			(at 116.84 363.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16095,7 +16095,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 125.857 359.41 0)
+			(at 116.967 355.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16103,7 +16103,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 125.73 363.22 0)
+			(at 116.84 359.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16112,7 +16112,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 125.73 363.22 0)
+			(at 116.84 359.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16121,7 +16121,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 125.73 363.22 0)
+			(at 116.84 359.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16134,7 +16134,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR094")
+					(reference "#PWR095")
 					(unit 1)
 				)
 			)
@@ -16150,7 +16150,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b7b59d38-67a5-4797-b607-49e522cf8ac0")
-		(property "Reference" "#PWR054"
+		(property "Reference" "#PWR055"
 			(at 132.08 323.85 0)
 			(effects
 				(font
@@ -16199,7 +16199,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR054")
+					(reference "#PWR055")
 					(unit 1)
 				)
 			)
@@ -16291,7 +16291,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bb157370-a675-4ecf-a4b1-68de306073b7")
-		(property "Reference" "#PWR057"
+		(property "Reference" "#PWR058"
 			(at 254 72.39 0)
 			(effects
 				(font
@@ -16341,7 +16341,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR057")
+					(reference "#PWR058")
 					(unit 1)
 				)
 			)
@@ -16357,7 +16357,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bcb0941e-ef68-4138-a657-fbb26cfc3a94")
-		(property "Reference" "#PWR056"
+		(property "Reference" "#PWR057"
 			(at 254 49.53 0)
 			(effects
 				(font
@@ -16406,7 +16406,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR056")
+					(reference "#PWR057")
 					(unit 1)
 				)
 			)
@@ -16414,7 +16414,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 156.21 363.22 0)
+		(at 147.32 359.41 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16422,8 +16422,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bdcec113-3d14-4636-a460-1aba366c96eb")
-		(property "Reference" "#PWR098"
-			(at 156.21 367.03 0)
+		(property "Reference" "#PWR099"
+			(at 147.32 363.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16432,7 +16432,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 156.337 359.41 0)
+			(at 147.447 355.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16440,7 +16440,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 156.21 363.22 0)
+			(at 147.32 359.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16449,7 +16449,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 156.21 363.22 0)
+			(at 147.32 359.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16458,7 +16458,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 156.21 363.22 0)
+			(at 147.32 359.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16471,7 +16471,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR098")
+					(reference "#PWR099")
 					(unit 1)
 				)
 			)
@@ -16487,7 +16487,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c10fd19d-b339-4975-b4dd-bc07fe306ced")
-		(property "Reference" "#PWR044"
+		(property "Reference" "#PWR045"
 			(at 132.08 152.4 0)
 			(effects
 				(font
@@ -16536,7 +16536,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR044")
+					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -16551,7 +16551,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c1b81477-9b2d-4797-9526-d91dc5b15354")
-		(property "Reference" "#PWR085"
+		(property "Reference" "#PWR086"
 			(at 320.04 243.84 0)
 			(effects
 				(font
@@ -16601,7 +16601,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR085")
+					(reference "#PWR086")
 					(unit 1)
 				)
 			)
@@ -16687,7 +16687,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c4bb8d74-d337-485f-9bd0-37314c88057f")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR021"
 			(at 66.04 49.53 0)
 			(effects
 				(font
@@ -16736,7 +16736,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR020")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -16751,7 +16751,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c55fd9d7-7789-4b9a-8522-4895420e5fb9")
-		(property "Reference" "#PWR077"
+		(property "Reference" "#PWR078"
 			(at 320.04 106.68 0)
 			(effects
 				(font
@@ -16801,7 +16801,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR077")
+					(reference "#PWR078")
 					(unit 1)
 				)
 			)
@@ -16817,7 +16817,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c8b4a6fe-e25e-4225-9c53-ae4f562c46d4")
-		(property "Reference" "#PWR068"
+		(property "Reference" "#PWR069"
 			(at 254 255.27 0)
 			(effects
 				(font
@@ -16866,7 +16866,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR068")
+					(reference "#PWR069")
 					(unit 1)
 				)
 			)
@@ -16944,7 +16944,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 125.73 368.3 0)
+		(at 116.84 364.49 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16953,7 +16953,7 @@
 		(dnp no)
 		(uuid "cb9258e1-f872-4e98-872e-d5cb71be3afb")
 		(property "Reference" "C57"
-			(at 121.92 367.0299 0)
+			(at 113.03 363.2199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16962,7 +16962,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 121.92 369.5699 0)
+			(at 113.03 365.7599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16971,7 +16971,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 124.7648 372.11 0)
+			(at 115.8748 368.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16980,7 +16980,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 125.73 368.3 0)
+			(at 116.84 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16989,7 +16989,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 125.73 368.3 0)
+			(at 116.84 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17084,7 +17084,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 218.44 368.3 0)
+		(at 209.55 364.49 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -17093,7 +17093,7 @@
 		(dnp no)
 		(uuid "d1c4b2fe-49ed-4181-b57b-f6aadc0b0f26")
 		(property "Reference" "C63"
-			(at 214.63 367.0299 0)
+			(at 205.74 363.2199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17102,7 +17102,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 214.63 369.5699 0)
+			(at 205.74 365.7599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17111,7 +17111,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 217.4748 372.11 0)
+			(at 208.5848 368.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17120,7 +17120,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 218.44 368.3 0)
+			(at 209.55 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17129,7 +17129,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 218.44 368.3 0)
+			(at 209.55 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17154,7 +17154,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 187.96 368.3 0)
+		(at 179.07 364.49 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -17163,7 +17163,7 @@
 		(dnp no)
 		(uuid "d3576376-b5b3-4230-8ef1-58374ce8c244")
 		(property "Reference" "C61"
-			(at 184.15 367.0299 0)
+			(at 175.26 363.2199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17172,7 +17172,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 184.15 369.5699 0)
+			(at 175.26 365.7599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17181,7 +17181,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 186.9948 372.11 0)
+			(at 178.1048 368.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17190,7 +17190,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 187.96 368.3 0)
+			(at 179.07 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17199,7 +17199,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 187.96 368.3 0)
+			(at 179.07 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17224,7 +17224,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 218.44 363.22 0)
+		(at 209.55 359.41 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -17232,8 +17232,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d55b0cbb-092b-4f58-ba3e-32153fe2f037")
-		(property "Reference" "#PWR0106"
-			(at 218.44 367.03 0)
+		(property "Reference" "#PWR0107"
+			(at 209.55 363.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17242,7 +17242,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 218.567 359.41 0)
+			(at 209.677 355.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17250,7 +17250,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 218.44 363.22 0)
+			(at 209.55 359.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17259,7 +17259,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 218.44 363.22 0)
+			(at 209.55 359.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17268,7 +17268,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 218.44 363.22 0)
+			(at 209.55 359.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17281,7 +17281,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR0106")
+					(reference "#PWR0107")
 					(unit 1)
 				)
 			)
@@ -17296,7 +17296,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d560359a-689c-4908-afcb-dcfc8c353ef8")
-		(property "Reference" "#PWR053"
+		(property "Reference" "#PWR054"
 			(at 132.08 312.42 0)
 			(effects
 				(font
@@ -17346,7 +17346,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR053")
+					(reference "#PWR054")
 					(unit 1)
 				)
 			)
@@ -17362,7 +17362,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d6c8e1b7-fe8d-4338-9075-54a17af0fafc")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR033"
 			(at 66.04 255.27 0)
 			(effects
 				(font
@@ -17411,7 +17411,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR032")
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -17426,7 +17426,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d706f6d4-1904-4d69-82a7-cef029990ead")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR024"
 			(at 66.04 106.68 0)
 			(effects
 				(font
@@ -17476,7 +17476,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR023")
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -17491,7 +17491,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d90db088-fcd0-4ecb-8db6-0633f0e52cd8")
-		(property "Reference" "#PWR051"
+		(property "Reference" "#PWR052"
 			(at 132.08 278.13 0)
 			(effects
 				(font
@@ -17541,7 +17541,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR051")
+					(reference "#PWR052")
 					(unit 1)
 				)
 			)
@@ -17557,7 +17557,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "da9a1272-2c76-4448-9a06-696362bcf73f")
-		(property "Reference" "#PWR072"
+		(property "Reference" "#PWR073"
 			(at 254 323.85 0)
 			(effects
 				(font
@@ -17606,7 +17606,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR072")
+					(reference "#PWR073")
 					(unit 1)
 				)
 			)
@@ -17621,7 +17621,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "db12861b-e5e0-4f3b-9500-ce4de3a6f083")
-		(property "Reference" "#PWR055"
+		(property "Reference" "#PWR056"
 			(at 132.08 346.71 0)
 			(effects
 				(font
@@ -17671,7 +17671,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR055")
+					(reference "#PWR056")
 					(unit 1)
 				)
 			)
@@ -18127,7 +18127,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e7847f3b-7cef-405d-8239-66f0c233ae9d")
-		(property "Reference" "#PWR029"
+		(property "Reference" "#PWR030"
 			(at 66.04 209.55 0)
 			(effects
 				(font
@@ -18177,7 +18177,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR029")
+					(reference "#PWR030")
 					(unit 1)
 				)
 			)
@@ -18193,7 +18193,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e83e1428-ac12-4675-aaf6-094670fcc5c8")
-		(property "Reference" "#PWR074"
+		(property "Reference" "#PWR075"
 			(at 320.04 49.53 0)
 			(effects
 				(font
@@ -18242,7 +18242,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR074")
+					(reference "#PWR075")
 					(unit 1)
 				)
 			)
@@ -18327,7 +18327,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 203.2 368.3 0)
+		(at 194.31 364.49 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -18336,7 +18336,7 @@
 		(dnp no)
 		(uuid "ea20125e-1dff-4ca9-9a3d-d494a50e09e8")
 		(property "Reference" "C62"
-			(at 199.39 367.0299 0)
+			(at 190.5 363.2199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18345,7 +18345,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 199.39 369.5699 0)
+			(at 190.5 365.7599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18354,7 +18354,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 202.2348 372.11 0)
+			(at 193.3448 368.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18363,7 +18363,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 203.2 368.3 0)
+			(at 194.31 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18372,7 +18372,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 203.2 368.3 0)
+			(at 194.31 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18552,7 +18552,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f0833f5e-007b-46d8-82de-017c95370a50")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR029"
 			(at 66.04 186.69 0)
 			(effects
 				(font
@@ -18601,7 +18601,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR028")
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -18617,7 +18617,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f0cc6715-39e9-49fc-aaea-402aa7b589c1")
-		(property "Reference" "#PWR080"
+		(property "Reference" "#PWR081"
 			(at 320.04 152.4 0)
 			(effects
 				(font
@@ -18666,7 +18666,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR080")
+					(reference "#PWR081")
 					(unit 1)
 				)
 			)
@@ -18682,7 +18682,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f229ecab-c27d-4c66-9740-11ce757b297b")
-		(property "Reference" "#PWR062"
+		(property "Reference" "#PWR063"
 			(at 254 152.4 0)
 			(effects
 				(font
@@ -18731,7 +18731,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR062")
+					(reference "#PWR063")
 					(unit 1)
 				)
 			)
@@ -18747,7 +18747,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f2af467b-5885-4261-9c15-dca424b7162e")
-		(property "Reference" "#PWR058"
+		(property "Reference" "#PWR059"
 			(at 254 83.82 0)
 			(effects
 				(font
@@ -18796,7 +18796,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR058")
+					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -18952,7 +18952,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fa8abc35-e5a6-4423-8746-828f3f68a2bb")
-		(property "Reference" "#PWR040"
+		(property "Reference" "#PWR041"
 			(at 132.08 83.82 0)
 			(effects
 				(font
@@ -19001,7 +19001,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR040")
+					(reference "#PWR041")
 					(unit 1)
 				)
 			)
@@ -19009,15 +19009,15 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 218.44 373.38 0)
+		(at 209.55 369.57 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "fb6179de-bf18-4c02-bdd6-9e54ca5c0b02")
-		(property "Reference" "#PWR0107"
-			(at 218.44 379.73 0)
+		(property "Reference" "#PWR0108"
+			(at 209.55 375.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19026,7 +19026,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 218.44 376.936 0)
+			(at 209.55 373.126 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19034,7 +19034,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 218.44 373.38 0)
+			(at 209.55 369.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19043,7 +19043,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 218.44 373.38 0)
+			(at 209.55 369.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19052,7 +19052,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 218.44 373.38 0)
+			(at 209.55 369.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19066,7 +19066,7 @@
 		(instances
 			(project "driver_rp2350"
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/a7d5befd-9114-4010-9802-fabf9a587f92"
-					(reference "#PWR0107")
+					(reference "#PWR0108")
 					(unit 1)
 				)
 			)
