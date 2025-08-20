@@ -59,7 +59,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "driver_rp2350.kicad_prl",
+    "filename": "panel_rp2350_20x20.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
