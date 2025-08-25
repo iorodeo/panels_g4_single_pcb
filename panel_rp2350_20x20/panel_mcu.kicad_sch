@@ -7302,7 +7302,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1c57e4ce-6932-4259-bfc3-937e662efba8")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR018"
 			(at 204.47 220.98 0)
 			(effects
 				(font
@@ -7352,7 +7352,7 @@
 		(instances
 			(project ""
 				(path "/1e634561-32a0-4ffa-9d4f-e93f355464d5/b30b56c6-21ca-46ed-bb1a-e5062fd43ea8"
-					(reference "#PWR03")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
