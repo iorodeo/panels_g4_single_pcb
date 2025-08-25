@@ -509,26 +509,8 @@
         "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.15,
-        "via_diameter": 0.6,
-        "via_drill": 0.3,
-        "wire_width": 6
-      },
-      {
-        "bus_width": 12,
-        "clearance": 0.125,
-        "diff_pair_gap": 0.25,
-        "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.2,
-        "line_style": 0,
-        "microvia_diameter": 0.6,
-        "microvia_drill": 0.3,
-        "name": "Power",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 0,
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.15,
-        "via_diameter": 0.6,
-        "via_drill": 0.3,
+        "via_diameter": 0.35,
+        "via_drill": 0.2,
         "wire_width": 6
       }
     ],
@@ -543,7 +525,7 @@
         "pattern": ""
       },
       {
-        "netclass": "Power",
+        "netclass": "Default",
         "pattern": "+5V"
       },
       {
@@ -1003,7 +985,7 @@
         "pattern": "/XTAL1_DRV3"
       },
       {
-        "netclass": "Power",
+        "netclass": "Default",
         "pattern": "GND"
       },
       {

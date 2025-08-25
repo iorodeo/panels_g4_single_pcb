@@ -1,4 +1,4 @@
-25259661794682159
+25252637217201375
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -101384,34 +101384,6 @@ panel_custom
 TS-1088-AR02016
 
 
-0
-2
-2
-panel_custom
-TYPE_0_LED_0402_1005Metric
-LED SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-LED
-0
-2
-2
-panel_custom
-TYPE_1_LED_0402_1005Metric
-LED SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-LED
-0
-2
-2
-panel_custom
-TYPE_2_LED_0402_1005Metric
-LED SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-LED
-0
-2
-2
-panel_custom
-TYPE_3_LED_0402_1005Metric
-LED SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-LED
 0
 2
 2
