@@ -236,8 +236,12 @@
 		)
 		(symbol "power:+5V"
 			(power)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
 				(offset 0)
+				(hide yes)
 			)
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -337,8 +341,7 @@
 				(pin power_in line
 					(at 0 0 90)
 					(length 0)
-					(hide yes)
-					(name "+5V"
+					(name "~"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -358,8 +361,12 @@
 		)
 		(symbol "power:GND"
 			(power)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
 				(offset 0)
+				(hide yes)
 			)
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -435,8 +442,7 @@
 				(pin power_in line
 					(at 0 0 270)
 					(length 0)
-					(hide yes)
-					(name "GND"
+					(name "~"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -522,10 +528,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7a36594f-3b76-4347-8652-1e5b26d697dd")
-	)
-	(no_connect
-		(at 78.74 74.93)
-		(uuid "3da14f4f-743b-49f0-b33b-7d6334c7e290")
 	)
 	(no_connect
 		(at 173.99 107.95)
@@ -1134,7 +1136,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 130.81 84.455 0)
+			(at 130.81 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
