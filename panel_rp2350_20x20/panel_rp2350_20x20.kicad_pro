@@ -228,10 +228,6 @@
           "drill": 0.0
         },
         {
-          "diameter": 0.3,
-          "drill": 0.2
-        },
-        {
           "diameter": 0.35,
           "drill": 0.2
         },
@@ -503,14 +499,14 @@
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
         "line_style": 0,
-        "microvia_diameter": 0.6,
-        "microvia_drill": 0.3,
+        "microvia_diameter": 0.35,
+        "microvia_drill": 0.2,
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.127,
-        "via_diameter": 0.3,
+        "via_diameter": 0.35,
         "via_drill": 0.2,
         "wire_width": 6
       }
@@ -1126,7 +1122,7 @@
       "netlist": "",
       "plot": "",
       "pos_files": "",
-      "specctra_dsn": "panel_rp2350_20x20.dsn",
+      "specctra_dsn": "manual_route/rev2/panel_rp2350_20x20_rev2.dsn",
       "step": "",
       "svg": "",
       "vrml": ""
