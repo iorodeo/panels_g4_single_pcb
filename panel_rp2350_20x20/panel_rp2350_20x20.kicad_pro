@@ -1122,7 +1122,7 @@
       "netlist": "",
       "plot": "",
       "pos_files": "",
-      "specctra_dsn": "manual_route/rev2/panel_rp2350_20x20_rev2.dsn",
+      "specctra_dsn": "manual_route/2nd_layout/rev1/panel_rp2350_20x20.dsn",
       "step": "",
       "svg": "",
       "vrml": ""
@@ -1159,6 +1159,12 @@
           "show": true
         },
         {
+          "group_by": false,
+          "label": "LCSC Part #",
+          "name": "LCSC Part #",
+          "show": true
+        },
+        {
           "group_by": true,
           "label": "Footprint",
           "name": "Footprint",
@@ -1169,12 +1175,6 @@
           "label": "Description",
           "name": "Description",
           "show": false
-        },
-        {
-          "group_by": false,
-          "label": "LCSC Part #",
-          "name": "LCSC Part #",
-          "show": true
         },
         {
           "group_by": false,
