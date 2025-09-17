@@ -1901,6 +1901,14 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C160390"
+			(at 73.66 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5e39258a-7d2f-43ac-8c03-1d4f7f0a9320")
 		)

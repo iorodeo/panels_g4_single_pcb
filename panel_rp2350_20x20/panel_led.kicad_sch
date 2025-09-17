@@ -26114,6 +26114,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 179.07 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b3df8497-9dfc-47df-b634-164ada87d144")
 		)
@@ -26173,6 +26182,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 36.83 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 36.83 92.71 0)
 			(effects
 				(font
@@ -26248,6 +26266,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 143.51 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ea65b58a-0f81-4f6c-88d7-651dfaa57522")
 		)
@@ -26307,6 +26334,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 214.63 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 214.63 226.06 0)
 			(effects
 				(font
@@ -26382,6 +26418,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 179.07 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ae623c2a-77a6-44fe-b2e4-cd1c4474085e")
 		)
@@ -26441,6 +26486,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 36.83 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 36.83 163.83 0)
 			(effects
 				(font
@@ -26519,6 +26573,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C320799"
+			(at 83.82 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a4e03330-77bd-456c-af4e-255f2bdff992")
 		)
@@ -26578,6 +26641,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 358.14 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 358.14 163.83 0)
 			(effects
 				(font
@@ -26653,6 +26725,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 303.53 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "63b29834-a7d3-4aba-bf15-4cbb85447427")
 		)
@@ -26712,6 +26793,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 375.92 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 375.92 83.82 0)
 			(effects
 				(font
@@ -26787,6 +26877,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 321.31 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e197a650-42a9-43b4-9ea2-bc908c6c9a26")
 		)
@@ -26846,6 +26945,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 358.14 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 358.14 101.6 0)
 			(effects
 				(font
@@ -26921,6 +27029,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 214.63 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3c652a37-2436-4ffc-9315-1d5ae0991c48")
 		)
@@ -26980,6 +27097,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 179.07 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 179.07 199.39 0)
 			(effects
 				(font
@@ -27055,6 +27181,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 250.19 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "59c254d6-91fc-4f29-bfd2-9cfe0a1b9a5e")
 		)
@@ -27114,6 +27249,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 250.19 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 250.19 119.38 0)
 			(effects
 				(font
@@ -27189,6 +27333,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 107.95 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c45255bd-46cc-4858-a44b-ce570feea07a")
 		)
@@ -27248,6 +27401,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 90.17 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 90.17 163.83 0)
 			(effects
 				(font
@@ -27323,6 +27485,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 232.41 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2f26685b-022e-4689-ad10-126858c4683f")
 		)
@@ -27382,6 +27553,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 339.09 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 339.09 163.83 0)
 			(effects
 				(font
@@ -27457,6 +27637,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 125.73 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b7067c49-27f5-4cd7-abd7-72460476bbb6")
 		)
@@ -27516,6 +27705,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 54.61 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 54.61 101.6 0)
 			(effects
 				(font
@@ -27591,6 +27789,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 36.83 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b8594af0-dc8b-4edb-bb73-868ce1c934c5")
 		)
@@ -27650,6 +27857,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 285.75 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 285.75 172.72 0)
 			(effects
 				(font
@@ -27725,6 +27941,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 90.17 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "958d12cb-d919-4f8a-86ba-a156eb02ec57")
 		)
@@ -27792,6 +28017,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 250.19 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "79f50636-bdb4-4138-be06-8d52957df19f")
 		)
@@ -27826,7 +28060,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "270"
+		(property "Value" "165"
 			(at 68.58 54.6099 0)
 			(effects
 				(font
@@ -27854,6 +28088,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 66.04 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C320715"
 			(at 66.04 53.34 0)
 			(effects
 				(font
@@ -27929,6 +28172,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 54.61 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "49412b1f-e23f-4e98-84bb-f2b4e60704c5")
 		)
@@ -27988,6 +28240,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 179.07 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 179.07 137.16 0)
 			(effects
 				(font
@@ -28063,6 +28324,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 72.39 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b9de641b-196f-4ff4-974e-6ffcedc906b8")
 		)
@@ -28122,6 +28392,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 90.17 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 90.17 234.95 0)
 			(effects
 				(font
@@ -28197,6 +28476,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 125.73 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0604cdef-2230-495b-aad2-0735de6ea274")
 		)
@@ -28256,6 +28544,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 72.39 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 72.39 172.72 0)
 			(effects
 				(font
@@ -28331,6 +28628,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 179.07 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "39230daa-52d3-44b5-8a0a-8e5f74f409ec")
 		)
@@ -28390,6 +28696,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 285.75 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 285.75 137.16 0)
 			(effects
 				(font
@@ -28465,6 +28780,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 107.95 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "08b7d18f-bb85-42c0-9ba0-228ead372640")
 		)
@@ -28524,6 +28848,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 339.09 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 339.09 226.06 0)
 			(effects
 				(font
@@ -28599,6 +28932,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 54.61 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f02d8238-e982-476e-8f8d-71bff3ea13e2")
 		)
@@ -28658,6 +29000,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 54.61 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 54.61 217.17 0)
 			(effects
 				(font
@@ -28733,6 +29084,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 161.29 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f68606b5-fb68-49e4-b3ff-e00eeeca0760")
 		)
@@ -28792,6 +29152,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 107.95 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 107.95 66.04 0)
 			(effects
 				(font
@@ -28867,6 +29236,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 125.73 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "90b95809-6373-4e64-a692-b562489605d0")
 		)
@@ -28934,6 +29312,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 161.29 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e45499af-ffb6-4469-87d3-57a4933fd73d")
 		)
@@ -28993,6 +29380,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 125.73 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 125.73 128.27 0)
 			(effects
 				(font
@@ -29071,6 +29467,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C320799"
+			(at 154.94 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "75fae36d-f54e-42a4-8763-fac03a6007f8")
 		)
@@ -29130,6 +29535,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 214.63 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 214.63 181.61 0)
 			(effects
 				(font
@@ -29205,6 +29619,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 303.53 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3a9e6321-18e2-423e-a37a-f6e258c6a2a0")
 		)
@@ -29264,6 +29687,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 321.31 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 321.31 74.93 0)
 			(effects
 				(font
@@ -29339,6 +29771,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 72.39 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b76fbb5b-1a4e-48b8-bb21-086e5d163946")
 		)
@@ -29398,6 +29839,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 143.51 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 143.51 83.82 0)
 			(effects
 				(font
@@ -29473,6 +29923,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 232.41 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a3512ef7-c9e2-4016-9a0b-54af1b9329f9")
 		)
@@ -29532,6 +29991,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 321.31 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 321.31 83.82 0)
 			(effects
 				(font
@@ -29607,6 +30075,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 196.85 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6ffbeb4e-8a4a-4dce-baa7-fc8a16483fa1")
 		)
@@ -29666,6 +30143,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 72.39 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 72.39 217.17 0)
 			(effects
 				(font
@@ -29741,6 +30227,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 214.63 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9fde482a-8015-499e-aed7-077e05ba12be")
 		)
@@ -29800,6 +30295,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 321.31 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 321.31 110.49 0)
 			(effects
 				(font
@@ -29875,6 +30379,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 196.85 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2dba7c7e-9137-4aad-9f77-4b19bca55806")
 		)
@@ -29934,6 +30447,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 36.83 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 36.83 74.93 0)
 			(effects
 				(font
@@ -30009,6 +30531,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 54.61 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d91020e6-80f5-4480-b7df-867277cb2314")
 		)
@@ -30076,6 +30607,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 358.14 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0982dade-9879-4460-b5d3-51bcf7a9e763")
 		)
@@ -30135,6 +30675,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 267.97 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 267.97 83.82 0)
 			(effects
 				(font
@@ -30213,6 +30762,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C320799"
+			(at 369.57 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d801bf16-dabb-434e-b7c2-8d9bd6b5328d")
 		)
@@ -30272,6 +30830,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 107.95 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 107.95 101.6 0)
 			(effects
 				(font
@@ -30347,6 +30914,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 125.73 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f3da9c8e-7845-40c8-9b6a-c0d81e0feb83")
 		)
@@ -30373,7 +30949,7 @@
 		(fields_autoplaced yes)
 		(uuid "22e2a0ee-17a3-4362-8800-62eb946e6284")
 		(property "Reference" "R23"
-			(at 281.305 52.0699 0)
+			(at 281.94 52.0699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30381,8 +30957,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "270"
-			(at 281.305 54.6099 0)
+		(property "Value" "165"
+			(at 281.94 54.6099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30417,6 +30993,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C320715"
+			(at 279.4 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9063c263-e79f-4c76-b4d6-554f1a90afba")
 		)
@@ -30443,7 +31028,7 @@
 		(fields_autoplaced yes)
 		(uuid "23e034a9-4c5e-4149-b19a-21f7b159635a")
 		(property "Reference" "R22"
-			(at 263.525 52.0699 0)
+			(at 264.16 52.0699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30451,8 +31036,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "270"
-			(at 263.525 54.6099 0)
+		(property "Value" "165"
+			(at 264.16 54.6099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30479,6 +31064,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 261.62 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C320715"
 			(at 261.62 53.34 0)
 			(effects
 				(font
@@ -30554,6 +31148,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 90.17 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "41c6cd9b-0216-4934-9f70-22d240692f36")
 		)
@@ -30613,6 +31216,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 125.73 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 125.73 146.05 0)
 			(effects
 				(font
@@ -30688,6 +31300,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 321.31 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b17087b6-0920-4d9a-a5f0-27e76ea10250")
 		)
@@ -30747,6 +31368,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 285.75 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 285.75 74.93 0)
 			(effects
 				(font
@@ -30822,6 +31452,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 107.95 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "da3166e5-7dbb-4f32-aeea-54f266b725ef")
 		)
@@ -30881,6 +31520,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 161.29 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 161.29 172.72 0)
 			(effects
 				(font
@@ -30956,6 +31604,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 90.17 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "adf2ed3e-da6b-4917-a705-4ae9498348a7")
 		)
@@ -31015,6 +31672,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 214.63 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 214.63 172.72 0)
 			(effects
 				(font
@@ -31090,6 +31756,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 54.61 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6625bb6f-53c3-4c94-b169-d2f2870b0b33")
 		)
@@ -31149,6 +31824,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 375.92 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 375.92 119.38 0)
 			(effects
 				(font
@@ -31224,6 +31908,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 339.09 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7f516464-5b96-40cb-9c3c-9d76fbfe682a")
 		)
@@ -31283,6 +31976,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 232.41 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 232.41 66.04 0)
 			(effects
 				(font
@@ -31358,6 +32060,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 72.39 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bd8a9b64-7c6f-42e3-b390-5903490dcb7e")
 		)
@@ -31417,6 +32128,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 339.09 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 339.09 172.72 0)
 			(effects
 				(font
@@ -31492,6 +32212,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 375.92 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f14bf23f-8333-4481-8b14-bd74f51d2e1d")
 		)
@@ -31551,6 +32280,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 143.51 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 143.51 181.61 0)
 			(effects
 				(font
@@ -31626,6 +32364,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 339.09 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a8ff61d3-728d-42de-8d83-5d827cb6be84")
 		)
@@ -31685,6 +32432,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 358.14 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 358.14 199.39 0)
 			(effects
 				(font
@@ -31760,6 +32516,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 90.17 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "778d42d1-5010-48f8-bca5-7ed3f747ed11")
 		)
@@ -31819,6 +32584,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 179.07 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 179.07 181.61 0)
 			(effects
 				(font
@@ -31894,6 +32668,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 321.31 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e0bd0a5a-d783-4ae5-909d-c9f60839727a")
 		)
@@ -31953,6 +32736,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 107.95 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 107.95 208.28 0)
 			(effects
 				(font
@@ -32028,6 +32820,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 321.31 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ee96396d-5791-42dc-8813-5ed0745015ff")
 		)
@@ -32087,6 +32888,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 232.41 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 232.41 128.27 0)
 			(effects
 				(font
@@ -32162,6 +32972,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 232.41 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "42ff2a4e-9067-43ae-8e37-172d79eab875")
 		)
@@ -32221,6 +33040,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 90.17 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 90.17 137.16 0)
 			(effects
 				(font
@@ -32296,6 +33124,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 285.75 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2b192080-29cb-44dd-96c7-a690ef0f760e")
 		)
@@ -32355,6 +33192,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 125.73 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 125.73 163.83 0)
 			(effects
 				(font
@@ -32430,6 +33276,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 285.75 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d27680c0-d023-4e04-b2b3-93810ce8626b")
 		)
@@ -32489,6 +33344,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 303.53 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 303.53 154.94 0)
 			(effects
 				(font
@@ -32564,6 +33428,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 36.83 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5758247e-aa9f-461e-b5a2-aae40fb96956")
 		)
@@ -32623,6 +33496,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 321.31 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 321.31 163.83 0)
 			(effects
 				(font
@@ -32698,6 +33580,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 285.75 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "591dfe57-18a8-475d-963f-baf8d506b834")
 		)
@@ -32757,6 +33648,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 179.07 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 179.07 74.93 0)
 			(effects
 				(font
@@ -32832,6 +33732,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 143.51 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9605b5fd-4898-4fe7-adfe-27094a8bc2af")
 		)
@@ -32891,6 +33800,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 375.92 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 375.92 154.94 0)
 			(effects
 				(font
@@ -32966,6 +33884,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 161.29 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b7918cce-8b75-4106-a6c9-52747b781f34")
 		)
@@ -33025,6 +33952,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 303.53 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 303.53 172.72 0)
 			(effects
 				(font
@@ -33100,6 +34036,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 303.53 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9021ebbc-6c82-46c5-9d45-32eb7c00a70e")
 		)
@@ -33159,6 +34104,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 285.75 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 285.75 66.04 0)
 			(effects
 				(font
@@ -33234,6 +34188,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 250.19 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "26ebb888-fe2e-40e6-b2ce-62bcc9263aca")
 		)
@@ -33293,6 +34256,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 303.53 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 303.53 66.04 0)
 			(effects
 				(font
@@ -33368,6 +34340,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 179.07 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c8ca3b77-0959-4cc2-8207-fb55899bf01f")
 		)
@@ -33427,6 +34408,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 143.51 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 143.51 119.38 0)
 			(effects
 				(font
@@ -33502,6 +34492,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 54.61 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "401df429-fd1d-49c5-a299-dea64862cd6c")
 		)
@@ -33561,6 +34560,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 321.31 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 321.31 92.71 0)
 			(effects
 				(font
@@ -33636,6 +34644,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 250.19 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b06699f4-c897-4956-ad07-8270152eb3ba")
 		)
@@ -33695,6 +34712,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 375.92 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 375.92 199.39 0)
 			(effects
 				(font
@@ -33770,6 +34796,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 303.53 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f0af8c09-513b-4175-9f30-5e2dfad8fdf3")
 		)
@@ -33829,6 +34864,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 107.95 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 107.95 74.93 0)
 			(effects
 				(font
@@ -33904,6 +34948,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 375.92 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8a1f4249-b556-4c27-85c3-49bb60e35a95")
 		)
@@ -33963,6 +35016,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 107.95 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 107.95 119.38 0)
 			(effects
 				(font
@@ -34038,6 +35100,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 375.92 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f1bbc77f-6c36-4e9a-9179-40cf6247b5b6")
 		)
@@ -34097,6 +35168,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 107.95 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 107.95 128.27 0)
 			(effects
 				(font
@@ -34172,6 +35252,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 250.19 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cc705c2b-539b-4b85-928d-5879c15df582")
 		)
@@ -34231,6 +35320,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 321.31 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 321.31 119.38 0)
 			(effects
 				(font
@@ -34306,6 +35404,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 196.85 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ae31d681-19ea-4491-a5d8-db4ff85ddf80")
 		)
@@ -34365,6 +35472,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 107.95 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 107.95 226.06 0)
 			(effects
 				(font
@@ -34440,6 +35556,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 90.17 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "25c39534-4b5f-4405-aa1b-865890c7de4f")
 		)
@@ -34499,6 +35624,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 250.19 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 250.19 217.17 0)
 			(effects
 				(font
@@ -34574,6 +35708,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 90.17 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "34d2d8cf-3375-4253-81e1-a7878a5743c3")
 		)
@@ -34633,6 +35776,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 250.19 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 250.19 172.72 0)
 			(effects
 				(font
@@ -34708,6 +35860,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 232.41 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "aed9aaba-fc86-423c-8ee9-8903e895f76a")
 		)
@@ -34767,6 +35928,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 267.97 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 267.97 172.72 0)
 			(effects
 				(font
@@ -34842,6 +36012,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 90.17 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "aa0a8c42-68eb-4f31-8ba4-259da40db4f2")
 		)
@@ -34901,6 +36080,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 214.63 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 214.63 146.05 0)
 			(effects
 				(font
@@ -34976,6 +36164,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 161.29 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "405006de-61a8-441f-bb5c-88c693c5f147")
 		)
@@ -35035,6 +36232,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 358.14 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 358.14 92.71 0)
 			(effects
 				(font
@@ -35110,6 +36316,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 303.53 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "531089b0-305c-4c70-ac20-adf86ee74dd9")
 		)
@@ -35169,6 +36384,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 125.73 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 125.73 199.39 0)
 			(effects
 				(font
@@ -35244,6 +36468,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 36.83 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "06d40919-6389-4ee7-93ed-85a17f6bbf68")
 		)
@@ -35311,6 +36544,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 303.53 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "40581328-a454-4a37-a1c6-94002ac79892")
 		)
@@ -35337,7 +36579,7 @@
 		(fields_autoplaced yes)
 		(uuid "50307707-fb7e-49c5-b748-d1579835f25d")
 		(property "Reference" "R19"
-			(at 210.185 52.0699 0)
+			(at 210.82 52.0699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35345,8 +36587,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "270"
-			(at 210.185 54.6099 0)
+		(property "Value" "165"
+			(at 210.82 54.6099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35373,6 +36615,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 208.28 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C320715"
 			(at 208.28 53.34 0)
 			(effects
 				(font
@@ -35440,6 +36691,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 339.09 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 339.09 119.38 0)
 			(effects
 				(font
@@ -35518,6 +36778,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C320799"
+			(at 226.06 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6e7217bf-7d51-4e3d-bfe5-5d0b24612c56")
 		)
@@ -35577,6 +36846,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 285.75 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 285.75 226.06 0)
 			(effects
 				(font
@@ -35652,6 +36930,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 250.19 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0231c831-37ce-4e15-97a0-931c24123c28")
 		)
@@ -35711,6 +36998,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 72.39 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 72.39 154.94 0)
 			(effects
 				(font
@@ -35786,6 +37082,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 285.75 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7aec6629-f1c2-4a97-9b9a-fa5f3b9acb54")
 		)
@@ -35845,6 +37150,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 196.85 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 196.85 154.94 0)
 			(effects
 				(font
@@ -35920,6 +37234,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 267.97 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c7d628a0-87cc-4033-93e2-b2f1fc4fd527")
 		)
@@ -35979,6 +37302,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 303.53 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 303.53 137.16 0)
 			(effects
 				(font
@@ -36054,6 +37386,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 143.51 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b41106aa-36fa-45b5-b94c-39bf656f4b6d")
 		)
@@ -36113,6 +37454,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 303.53 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 303.53 110.49 0)
 			(effects
 				(font
@@ -36188,6 +37538,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 285.75 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f611ebb7-a6f3-4300-9007-e3b12f10c343")
 		)
@@ -36247,6 +37606,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 90.17 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 90.17 119.38 0)
 			(effects
 				(font
@@ -36322,6 +37690,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 90.17 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "48be6d07-63e5-40b0-9087-ec8bf263743a")
 		)
@@ -36381,6 +37758,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 107.95 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 107.95 190.5 0)
 			(effects
 				(font
@@ -36456,6 +37842,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 232.41 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0dc8aed3-2e1f-444a-8120-0729b8a9fcfb")
 		)
@@ -36515,6 +37910,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 196.85 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 196.85 137.16 0)
 			(effects
 				(font
@@ -36590,6 +37994,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 125.73 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f4326a70-35ef-475e-847d-c71d4f7fd496")
 		)
@@ -36649,6 +38062,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 321.31 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 321.31 181.61 0)
 			(effects
 				(font
@@ -36724,6 +38146,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 161.29 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b192e63c-471b-439e-a0a8-ba27b770d56e")
 		)
@@ -36783,6 +38214,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 161.29 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 161.29 226.06 0)
 			(effects
 				(font
@@ -36858,6 +38298,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 161.29 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "becc9d40-f8a1-4061-ac1c-d82adc0b6ae1")
 		)
@@ -36917,6 +38366,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 125.73 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 125.73 217.17 0)
 			(effects
 				(font
@@ -36992,6 +38450,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 358.14 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ca9c69b2-40a5-4712-81f4-ead9ad47e339")
 		)
@@ -37051,6 +38518,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 375.92 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 375.92 66.04 0)
 			(effects
 				(font
@@ -37126,6 +38602,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 72.39 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a8c1aa7a-3811-41ae-adc6-abbe5ffef594")
 		)
@@ -37185,6 +38670,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 196.85 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 196.85 234.95 0)
 			(effects
 				(font
@@ -37260,6 +38754,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 72.39 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3d17a699-159b-41a9-9bf0-a3cf663b338f")
 		)
@@ -37319,6 +38822,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 54.61 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 54.61 110.49 0)
 			(effects
 				(font
@@ -37394,6 +38906,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 321.31 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "207548b2-36fd-4724-838f-94712e9b2426")
 		)
@@ -37453,6 +38974,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 161.29 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 161.29 154.94 0)
 			(effects
 				(font
@@ -37528,6 +39058,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 358.14 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "49ed7e27-1dac-45e9-8e63-b458ed8b4b7a")
 		)
@@ -37587,6 +39126,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 321.31 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 321.31 217.17 0)
 			(effects
 				(font
@@ -37662,6 +39210,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 125.73 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8944b886-ce58-48f1-8a47-8612b0476392")
 		)
@@ -37721,6 +39278,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 339.09 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 339.09 83.82 0)
 			(effects
 				(font
@@ -37796,6 +39362,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 90.17 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d64301b9-7886-4fe6-a906-c3761876cd66")
 		)
@@ -37863,6 +39438,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 54.61 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "88d3b970-230f-4734-8659-b4d59bde1492")
 		)
@@ -37897,7 +39481,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "270"
+		(property "Value" "165"
 			(at 121.92 54.6099 0)
 			(effects
 				(font
@@ -37925,6 +39509,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 119.38 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C320715"
 			(at 119.38 53.34 0)
 			(effects
 				(font
@@ -38000,6 +39593,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 267.97 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f0ff3d8f-5275-4d78-b9d6-e24e3c0433a7")
 		)
@@ -38059,6 +39661,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 285.75 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 285.75 92.71 0)
 			(effects
 				(font
@@ -38134,6 +39745,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 54.61 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "12c00afd-def2-4069-ad38-a00be4b424d2")
 		)
@@ -38193,6 +39813,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 358.14 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 358.14 66.04 0)
 			(effects
 				(font
@@ -38268,6 +39897,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 214.63 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f53977b2-c6e0-466e-9b2b-8915e7715213")
 		)
@@ -38327,6 +39965,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 250.19 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 250.19 181.61 0)
 			(effects
 				(font
@@ -38402,6 +40049,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 72.39 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a9c0d3d6-bb1b-4e20-a9df-8b0a4751bf14")
 		)
@@ -38461,6 +40117,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 72.39 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 72.39 101.6 0)
 			(effects
 				(font
@@ -38536,6 +40201,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 375.92 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2c77fcc4-ab2f-4df6-b8f1-27f23cc061c2")
 		)
@@ -38595,6 +40269,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 54.61 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 54.61 163.83 0)
 			(effects
 				(font
@@ -38670,6 +40353,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 143.51 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7b8f45e3-a7b0-4074-9fa1-efe2d53afeb2")
 		)
@@ -38729,6 +40421,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 161.29 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 161.29 66.04 0)
 			(effects
 				(font
@@ -38804,6 +40505,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 375.92 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "810b2969-acce-4094-a201-0fd684868bf3")
 		)
@@ -38863,6 +40573,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 358.14 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 358.14 83.82 0)
 			(effects
 				(font
@@ -38938,6 +40657,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 303.53 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "af49a928-87c6-44c8-859b-0d71b1aef23d")
 		)
@@ -38997,6 +40725,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 179.07 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 179.07 110.49 0)
 			(effects
 				(font
@@ -39072,6 +40809,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 72.39 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "318566ab-1db2-49a6-979c-2797761303d4")
 		)
@@ -39131,6 +40877,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 285.75 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 285.75 146.05 0)
 			(effects
 				(font
@@ -39206,6 +40961,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 179.07 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "75b9febf-6815-44cf-9180-faafeb43b16f")
 		)
@@ -39265,6 +41029,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 232.41 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 232.41 92.71 0)
 			(effects
 				(font
@@ -39340,6 +41113,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 339.09 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fcde87a6-a44a-404c-bc5d-d88eb5948ea8")
 		)
@@ -39399,6 +41181,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 196.85 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 196.85 101.6 0)
 			(effects
 				(font
@@ -39474,6 +41265,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 161.29 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a910b2a8-e343-4edb-9006-72ca7e968101")
 		)
@@ -39533,6 +41333,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 232.41 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 232.41 234.95 0)
 			(effects
 				(font
@@ -39608,6 +41417,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 214.63 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "62ee634b-43c6-4e5e-9022-d3b015b7d933")
 		)
@@ -39675,6 +41493,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 143.51 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4114a93c-6a29-4c2a-8040-a8f8943c8606")
 		)
@@ -39709,7 +41536,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "270"
+		(property "Value" "165"
 			(at 354.33 54.6099 0)
 			(effects
 				(font
@@ -39737,6 +41564,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 351.79 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C320715"
 			(at 351.79 53.34 0)
 			(effects
 				(font
@@ -39812,6 +41648,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 321.31 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "88affc89-b1a1-46a7-b89f-ef6d5cc34d09")
 		)
@@ -39871,6 +41716,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 107.95 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 107.95 163.83 0)
 			(effects
 				(font
@@ -39946,6 +41800,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 72.39 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "38f67d48-16e0-406d-81fc-30a628d1b0e7")
 		)
@@ -40005,6 +41868,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 125.73 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 125.73 234.95 0)
 			(effects
 				(font
@@ -40080,6 +41952,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 214.63 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ca8514c3-ec6b-495d-9b80-f899d975b128")
 		)
@@ -40139,6 +42020,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 339.09 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 339.09 92.71 0)
 			(effects
 				(font
@@ -40214,6 +42104,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 267.97 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b92fc37e-b75b-4456-847d-ecb29d357577")
 		)
@@ -40273,6 +42172,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 161.29 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 161.29 74.93 0)
 			(effects
 				(font
@@ -40348,6 +42256,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 196.85 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3b807a74-2dd6-4b2c-b8d1-db6b6c87572e")
 		)
@@ -40407,6 +42324,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 339.09 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 339.09 234.95 0)
 			(effects
 				(font
@@ -40482,6 +42408,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 267.97 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "51a3fc00-b1b3-480c-b06e-35426510b71c")
 		)
@@ -40541,6 +42476,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 358.14 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 358.14 146.05 0)
 			(effects
 				(font
@@ -40616,6 +42560,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 250.19 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "044f6820-a659-4d91-b6dc-dd8b7b014bde")
 		)
@@ -40675,6 +42628,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 214.63 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 214.63 101.6 0)
 			(effects
 				(font
@@ -40750,6 +42712,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 267.97 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "94eb1226-4ca7-4137-9062-d9949474e388")
 		)
@@ -40809,6 +42780,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 161.29 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 161.29 137.16 0)
 			(effects
 				(font
@@ -40884,6 +42864,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 54.61 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bc0ed1be-bf18-4706-a9b9-ae4b904fb8d1")
 		)
@@ -40943,6 +42932,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 90.17 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 90.17 199.39 0)
 			(effects
 				(font
@@ -41018,6 +43016,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 358.14 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "494913e5-a4fe-4fc2-9d2e-da0d7d2e98ef")
 		)
@@ -41077,6 +43084,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 196.85 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 196.85 92.71 0)
 			(effects
 				(font
@@ -41152,6 +43168,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 267.97 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a676f164-a548-452b-a526-3dd651d9485d")
 		)
@@ -41211,6 +43236,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 143.51 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 143.51 163.83 0)
 			(effects
 				(font
@@ -41286,6 +43320,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 143.51 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e7733c4d-1360-4760-ba37-11e54211dbd5")
 		)
@@ -41345,6 +43388,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 232.41 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 232.41 190.5 0)
 			(effects
 				(font
@@ -41420,6 +43472,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 375.92 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a9685f85-372f-4648-a324-e6f0154795f0")
 		)
@@ -41479,6 +43540,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 214.63 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 214.63 137.16 0)
 			(effects
 				(font
@@ -41554,6 +43624,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 107.95 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5947a8c7-5f05-47ab-8ed8-deaef1049434")
 		)
@@ -41613,6 +43692,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 232.41 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 232.41 101.6 0)
 			(effects
 				(font
@@ -41688,6 +43776,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 143.51 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a647e66a-0bc0-44c4-babc-8e579284f98c")
 		)
@@ -41747,6 +43844,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 179.07 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 179.07 190.5 0)
 			(effects
 				(font
@@ -41822,6 +43928,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 179.07 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "002bdd18-df24-4cad-9ba4-08ed7bb77274")
 		)
@@ -41881,6 +43996,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 321.31 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 321.31 172.72 0)
 			(effects
 				(font
@@ -41956,6 +44080,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 143.51 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5afe00bf-27af-4f22-9f07-6e9d14d3fb87")
 		)
@@ -42015,6 +44148,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 54.61 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 54.61 154.94 0)
 			(effects
 				(font
@@ -42090,6 +44232,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 267.97 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5aa43be2-5d29-4fc3-a342-9b8cb134d4df")
 		)
@@ -42149,6 +44300,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 179.07 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 179.07 83.82 0)
 			(effects
 				(font
@@ -42224,6 +44384,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 339.09 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a5fd9eb0-2486-452b-8694-eba4ba83f32b")
 		)
@@ -42283,6 +44452,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 54.61 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 54.61 208.28 0)
 			(effects
 				(font
@@ -42358,6 +44536,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 267.97 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2a2fa42b-480e-4a77-b684-67d5adb67cd3")
 		)
@@ -42417,6 +44604,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 250.19 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 250.19 110.49 0)
 			(effects
 				(font
@@ -42492,6 +44688,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 36.83 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f7f54cec-bc9a-49f9-824d-91567a01f02e")
 		)
@@ -42551,6 +44756,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 285.75 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 285.75 119.38 0)
 			(effects
 				(font
@@ -42626,6 +44840,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 250.19 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6195940f-a897-404e-be67-b10d307fe646")
 		)
@@ -42685,6 +44908,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 72.39 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 72.39 66.04 0)
 			(effects
 				(font
@@ -42760,6 +44992,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 54.61 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8f92a85b-dfd6-40a0-8db6-c458fea7bbd5")
 		)
@@ -42819,6 +45060,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 161.29 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 161.29 181.61 0)
 			(effects
 				(font
@@ -42894,6 +45144,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 143.51 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "75e88088-1208-41c5-9614-1da7c0685d61")
 		)
@@ -42953,6 +45212,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 36.83 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 36.83 181.61 0)
 			(effects
 				(font
@@ -43028,6 +45296,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 72.39 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d9f49b1a-12da-4f7a-9d6a-c4eff95dd9b0")
 		)
@@ -43087,6 +45364,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 358.14 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 358.14 234.95 0)
 			(effects
 				(font
@@ -43162,6 +45448,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 250.19 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "325be95d-1389-40b7-b87e-475b59e17756")
 		)
@@ -43221,6 +45516,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 267.97 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 267.97 74.93 0)
 			(effects
 				(font
@@ -43299,6 +45603,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C320799"
+			(at 172.72 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "af52a5c0-9f7e-4f3a-b49e-f48d928d80e6")
 		)
@@ -43333,7 +45646,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "270"
+		(property "Value" "165"
 			(at 335.28 54.6099 0)
 			(effects
 				(font
@@ -43361,6 +45674,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 332.74 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C320715"
 			(at 332.74 53.34 0)
 			(effects
 				(font
@@ -43436,6 +45758,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 358.14 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7326dfd9-b7a6-4664-b2ae-a528170a7895")
 		)
@@ -43495,6 +45826,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 358.14 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 358.14 226.06 0)
 			(effects
 				(font
@@ -43570,6 +45910,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 36.83 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cb4b3430-d48e-4585-b941-f11358db6b12")
 		)
@@ -43629,6 +45978,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 36.83 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 36.83 234.95 0)
 			(effects
 				(font
@@ -43704,6 +46062,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 250.19 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2e9d2810-343a-43e6-8fc8-c9bb3c953854")
 		)
@@ -43763,6 +46130,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 196.85 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 196.85 163.83 0)
 			(effects
 				(font
@@ -43838,6 +46214,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 232.41 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5454351b-afc5-400c-9619-7cdc623e463f")
 		)
@@ -43897,6 +46282,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 303.53 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 303.53 101.6 0)
 			(effects
 				(font
@@ -43972,6 +46366,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 250.19 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "694333f6-b00e-4902-a5ff-aca1427750f3")
 		)
@@ -44031,6 +46434,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 232.41 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 232.41 154.94 0)
 			(effects
 				(font
@@ -44109,6 +46521,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C320799"
+			(at 30.48 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f911eab3-428e-43b0-b391-649ba13e6383")
 		)
@@ -44135,7 +46556,7 @@
 		(fields_autoplaced yes)
 		(uuid "978af0c8-4eaa-48de-80d7-5dbb4419d031")
 		(property "Reference" "R18"
-			(at 192.405 52.0699 0)
+			(at 193.04 52.0699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44143,8 +46564,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "270"
-			(at 192.405 54.6099 0)
+		(property "Value" "165"
+			(at 193.04 54.6099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44171,6 +46592,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 190.5 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C320715"
 			(at 190.5 53.34 0)
 			(effects
 				(font
@@ -44246,6 +46676,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 125.73 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a5f55ffb-dee9-4777-9740-19b2b65ae38f")
 		)
@@ -44305,6 +46744,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 54.61 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 54.61 119.38 0)
 			(effects
 				(font
@@ -44380,6 +46828,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 321.31 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "25b6136f-1c23-440d-80b1-94b8b6f96fa2")
 		)
@@ -44439,6 +46896,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 179.07 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 179.07 146.05 0)
 			(effects
 				(font
@@ -44514,6 +46980,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 72.39 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d9b947df-71d2-43d1-ad90-5db82ecd511b")
 		)
@@ -44573,6 +47048,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 339.09 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 339.09 74.93 0)
 			(effects
 				(font
@@ -44648,6 +47132,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 36.83 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "13b5bd4b-08bc-47dd-af87-a6b02da7393a")
 		)
@@ -44707,6 +47200,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 339.09 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 339.09 66.04 0)
 			(effects
 				(font
@@ -44782,6 +47284,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 232.41 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3642d7d2-6dc4-46fd-99b8-4f3a1fc59cf5")
 		)
@@ -44841,6 +47352,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 161.29 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 161.29 128.27 0)
 			(effects
 				(font
@@ -44916,6 +47436,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 214.63 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6d7983d2-80dc-46b3-aad5-53d98aa454d6")
 		)
@@ -44975,6 +47504,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 232.41 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 232.41 137.16 0)
 			(effects
 				(font
@@ -45050,6 +47588,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 125.73 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6622aace-8d40-4420-b7b1-6a6088c871a5")
 		)
@@ -45117,6 +47664,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 303.53 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "baecf2e3-6ea9-45c3-b0cb-f1a548f80efb")
 		)
@@ -45176,6 +47732,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 36.83 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 36.83 137.16 0)
 			(effects
 				(font
@@ -45254,6 +47819,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C320799"
+			(at 101.6 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "28ecd5cd-1e18-465f-a6df-7ef69788420b")
 		)
@@ -45313,6 +47887,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 107.95 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 107.95 92.71 0)
 			(effects
 				(font
@@ -45388,6 +47971,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 196.85 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2734cea8-07ba-4dc4-925f-5816ba74a0f1")
 		)
@@ -45447,6 +48039,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 303.53 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 303.53 128.27 0)
 			(effects
 				(font
@@ -45522,6 +48123,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 375.92 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "29497cae-76cc-4aad-bffa-f80f648bc754")
 		)
@@ -45581,6 +48191,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 107.95 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 107.95 137.16 0)
 			(effects
 				(font
@@ -45656,6 +48275,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 358.14 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8216d776-b4d2-48a9-a674-c08c1b900759")
 		)
@@ -45715,6 +48343,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 179.07 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 179.07 217.17 0)
 			(effects
 				(font
@@ -45790,6 +48427,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 107.95 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1ffb7965-9b62-47d3-acc4-7c12ec7204d2")
 		)
@@ -45849,6 +48495,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 125.73 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 125.73 92.71 0)
 			(effects
 				(font
@@ -45924,6 +48579,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 232.41 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "96f54f0f-5680-4e51-9843-aa7add0f2814")
 		)
@@ -45983,6 +48647,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 161.29 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 161.29 119.38 0)
 			(effects
 				(font
@@ -46058,6 +48731,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 232.41 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2ddd7a24-fd6e-49bb-8ab3-20f0d0e73990")
 		)
@@ -46117,6 +48799,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 250.19 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 250.19 234.95 0)
 			(effects
 				(font
@@ -46192,6 +48883,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 250.19 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ff38711e-3d07-4328-9e0a-f4bea2b3553c")
 		)
@@ -46251,6 +48951,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 72.39 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 72.39 119.38 0)
 			(effects
 				(font
@@ -46326,6 +49035,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 196.85 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "34bf93fb-845c-4fd1-9d69-e2868c2f8166")
 		)
@@ -46385,6 +49103,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 196.85 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 196.85 110.49 0)
 			(effects
 				(font
@@ -46460,6 +49187,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 36.83 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "49bb568b-29ba-493d-8b46-59e172586ae3")
 		)
@@ -46519,6 +49255,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 214.63 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 214.63 190.5 0)
 			(effects
 				(font
@@ -46594,6 +49339,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 72.39 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "da0ac076-3086-4868-8e78-fcc662d05433")
 		)
@@ -46653,6 +49407,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 303.53 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 303.53 74.93 0)
 			(effects
 				(font
@@ -46728,6 +49491,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 107.95 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cb3c5d34-7cf1-4275-9cbd-20db9f21dddb")
 		)
@@ -46787,6 +49559,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 339.09 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 339.09 199.39 0)
 			(effects
 				(font
@@ -46862,6 +49643,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 375.92 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "62d38f17-703e-4cdd-8fc1-1b234c98a59b")
 		)
@@ -46921,6 +49711,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 214.63 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 214.63 163.83 0)
 			(effects
 				(font
@@ -46996,6 +49795,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 285.75 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2b913cd9-c6d2-4d5d-9ad3-5e10335dbad5")
 		)
@@ -47055,6 +49863,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 339.09 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 339.09 154.94 0)
 			(effects
 				(font
@@ -47130,6 +49947,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 143.51 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f4a2f6cb-c1cf-4423-9731-914d24fc981e")
 		)
@@ -47189,6 +50015,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 36.83 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 36.83 172.72 0)
 			(effects
 				(font
@@ -47264,6 +50099,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 267.97 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "771f900e-7221-46f9-a59f-ddd28951414a")
 		)
@@ -47323,6 +50167,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 90.17 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 90.17 110.49 0)
 			(effects
 				(font
@@ -47398,6 +50251,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 303.53 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "302c4dee-210a-41ea-97b4-79ec3001dc86")
 		)
@@ -47465,6 +50327,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 72.39 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "acd5e1fe-1c52-4ca1-9a3e-9f71de3d5bca")
 		)
@@ -47499,7 +50370,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "270"
+		(property "Value" "165"
 			(at 50.8 54.6099 0)
 			(effects
 				(font
@@ -47527,6 +50398,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 48.26 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C320715"
 			(at 48.26 53.34 0)
 			(effects
 				(font
@@ -47602,6 +50482,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 196.85 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fd60832a-242d-4a47-821a-d2e7a9d353db")
 		)
@@ -47661,6 +50550,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 285.75 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 285.75 163.83 0)
 			(effects
 				(font
@@ -47736,6 +50634,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 36.83 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2515a02b-6545-40ec-8e4f-48052eaca5f4")
 		)
@@ -47795,6 +50702,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 90.17 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 90.17 101.6 0)
 			(effects
 				(font
@@ -47870,6 +50786,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 285.75 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5c923ca5-47c6-4eef-b8c0-bd49e6ce6dc6")
 		)
@@ -47929,6 +50854,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 161.29 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 161.29 146.05 0)
 			(effects
 				(font
@@ -48004,6 +50938,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 267.97 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0c2744b2-7501-4af0-88da-b350bcea23d8")
 		)
@@ -48063,6 +51006,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 375.92 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 375.92 190.5 0)
 			(effects
 				(font
@@ -48138,6 +51090,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 143.51 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8c39ba4f-a92a-4621-8977-ce8e1c3d7b4d")
 		)
@@ -48197,6 +51158,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 196.85 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 196.85 66.04 0)
 			(effects
 				(font
@@ -48272,6 +51242,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 339.09 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e4c14b58-ecf3-4083-9d75-320aa32ac05d")
 		)
@@ -48331,6 +51310,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 303.53 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 303.53 208.28 0)
 			(effects
 				(font
@@ -48406,6 +51394,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 339.09 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c5ef40c6-7edd-4cae-b729-c6baf4c71a17")
 		)
@@ -48465,6 +51462,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 267.97 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 267.97 154.94 0)
 			(effects
 				(font
@@ -48540,6 +51546,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 143.51 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "eee080a1-be67-4f69-a6c6-84427dc73429")
 		)
@@ -48599,6 +51614,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 214.63 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 214.63 83.82 0)
 			(effects
 				(font
@@ -48674,6 +51698,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 196.85 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "15555faf-0e45-45bc-a40b-8eba5ffd6f39")
 		)
@@ -48733,6 +51766,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 179.07 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 179.07 92.71 0)
 			(effects
 				(font
@@ -48808,6 +51850,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 375.92 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "10233780-54ea-47d8-80f9-9ba39b62e805")
 		)
@@ -48867,6 +51918,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 339.09 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 339.09 101.6 0)
 			(effects
 				(font
@@ -48942,6 +52002,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 285.75 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8f6ba2cd-d0f8-496f-a19b-74da62034e12")
 		)
@@ -49001,6 +52070,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 143.51 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 143.51 208.28 0)
 			(effects
 				(font
@@ -49076,6 +52154,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 358.14 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "683acf3e-4187-499c-bd82-1ce117a2ce29")
 		)
@@ -49135,6 +52222,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 321.31 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 321.31 190.5 0)
 			(effects
 				(font
@@ -49210,6 +52306,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 36.83 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9cc4caf3-e003-4cdb-ab5e-006fbb9eca4f")
 		)
@@ -49277,6 +52382,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 196.85 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "917ab083-87ef-4e17-8a6e-b62d6a0eb8bd")
 		)
@@ -49336,6 +52450,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 267.97 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 267.97 146.05 0)
 			(effects
 				(font
@@ -49414,6 +52537,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C320799"
+			(at 243.84 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3edbc530-75d9-4a85-93a7-5de84648a4c3")
 		)
@@ -49473,6 +52605,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 285.75 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 285.75 101.6 0)
 			(effects
 				(font
@@ -49548,6 +52689,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 358.14 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c967a40c-6316-484b-9bd4-3adee27d96d9")
 		)
@@ -49607,6 +52757,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 303.53 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 303.53 234.95 0)
 			(effects
 				(font
@@ -49682,6 +52841,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 143.51 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f6018d7c-4ece-461a-87b0-2b5bd59032ec")
 		)
@@ -49741,6 +52909,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 161.29 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 161.29 101.6 0)
 			(effects
 				(font
@@ -49816,6 +52993,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 36.83 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8ee4ef95-b021-455a-9623-957edbe44ffc")
 		)
@@ -49875,6 +53061,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 72.39 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 72.39 208.28 0)
 			(effects
 				(font
@@ -49950,6 +53145,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 143.51 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ffd19cac-9035-4c93-b78a-4df9a5c785c6")
 		)
@@ -50009,6 +53213,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 250.19 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 250.19 163.83 0)
 			(effects
 				(font
@@ -50084,6 +53297,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 214.63 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b5f3efa3-f9bc-4a3f-83f7-e2e23c9daba8")
 		)
@@ -50143,6 +53365,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 232.41 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 232.41 226.06 0)
 			(effects
 				(font
@@ -50218,6 +53449,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 250.19 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "afe7cdf9-ec88-4124-a5f8-e2f8dee1c377")
 		)
@@ -50277,6 +53517,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 72.39 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 72.39 83.82 0)
 			(effects
 				(font
@@ -50352,6 +53601,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 358.14 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "785807da-51f6-44b6-a122-00dca60c97a2")
 		)
@@ -50411,6 +53669,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 90.17 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 90.17 128.27 0)
 			(effects
 				(font
@@ -50486,6 +53753,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 285.75 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "406b9e5c-9ee8-4682-893b-7a9bb6ac65c5")
 		)
@@ -50545,6 +53821,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 267.97 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 267.97 163.83 0)
 			(effects
 				(font
@@ -50620,6 +53905,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 179.07 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ff674ef3-7c56-4469-9225-0db5a63984ad")
 		)
@@ -50679,6 +53973,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 214.63 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 214.63 119.38 0)
 			(effects
 				(font
@@ -50754,6 +54057,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 179.07 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ff1673d1-df73-41dc-83e6-fcafd2618d92")
 		)
@@ -50813,6 +54125,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 196.85 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 196.85 208.28 0)
 			(effects
 				(font
@@ -50888,6 +54209,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 232.41 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "835c1dc5-032b-412b-bcdf-f00b5bbd8798")
 		)
@@ -50947,6 +54277,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 125.73 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 125.73 74.93 0)
 			(effects
 				(font
@@ -51022,6 +54361,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 179.07 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "434c7061-7748-4101-a411-ed23fd9ffa3e")
 		)
@@ -51081,6 +54429,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 161.29 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 161.29 163.83 0)
 			(effects
 				(font
@@ -51156,6 +54513,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 339.09 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ac8665f8-92de-47a1-9eb2-91405aca8fcf")
 		)
@@ -51215,6 +54581,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 214.63 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 214.63 110.49 0)
 			(effects
 				(font
@@ -51290,6 +54665,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 375.92 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "26095c94-15b6-4810-8db2-41958c73eff3")
 		)
@@ -51349,6 +54733,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 196.85 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 196.85 226.06 0)
 			(effects
 				(font
@@ -51424,6 +54817,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 36.83 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "58da6a5d-0210-4bf4-92ed-3ee63fbd914e")
 		)
@@ -51483,6 +54885,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 232.41 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 232.41 119.38 0)
 			(effects
 				(font
@@ -51558,6 +54969,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 143.51 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2ca846cb-b668-46f3-8357-257790e6d223")
 		)
@@ -51617,6 +55037,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 54.61 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 54.61 199.39 0)
 			(effects
 				(font
@@ -51692,6 +55121,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 321.31 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "869616a1-fa2b-4837-bc58-67d139d7377b")
 		)
@@ -51751,6 +55189,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 36.83 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 36.83 217.17 0)
 			(effects
 				(font
@@ -51826,6 +55273,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 267.97 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "836cbaed-af30-466d-a5f4-1b3aed248042")
 		)
@@ -51885,6 +55341,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 125.73 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 125.73 119.38 0)
 			(effects
 				(font
@@ -51960,6 +55425,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 214.63 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "703274aa-cbf0-4bda-9577-e889d66c8a2e")
 		)
@@ -52019,6 +55493,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 321.31 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 321.31 234.95 0)
 			(effects
 				(font
@@ -52094,6 +55577,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 339.09 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3d76065e-664b-4ee7-a835-28757839e7d8")
 		)
@@ -52153,6 +55645,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 54.61 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 54.61 181.61 0)
 			(effects
 				(font
@@ -52228,6 +55729,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 90.17 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3c2df848-2d0d-4b04-844a-29de0cf724ee")
 		)
@@ -52287,6 +55797,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 125.73 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 125.73 208.28 0)
 			(effects
 				(font
@@ -52362,6 +55881,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 267.97 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f241495a-a8e7-452a-a59f-27c55cc1cfdb")
 		)
@@ -52421,6 +55949,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 125.73 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 125.73 172.72 0)
 			(effects
 				(font
@@ -52499,6 +56036,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C320799"
+			(at 297.18 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "df6b172e-d0d1-478c-9070-06f3d23ed714")
 		)
@@ -52558,6 +56104,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 36.83 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 36.83 146.05 0)
 			(effects
 				(font
@@ -52633,6 +56188,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 196.85 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1a7540b5-3de2-4b3b-8223-6f0f26a0872a")
 		)
@@ -52692,6 +56256,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 161.29 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 161.29 208.28 0)
 			(effects
 				(font
@@ -52767,6 +56340,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 303.53 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f8e6f2e9-d2f2-4b19-9af7-eb20112833b7")
 		)
@@ -52826,6 +56408,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 125.73 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 125.73 190.5 0)
 			(effects
 				(font
@@ -52901,6 +56492,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 107.95 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fa35504e-cfe5-46fb-9f13-a83118172d0b")
 		)
@@ -52968,6 +56568,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 214.63 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a87fd20b-b370-4eca-a7d6-bbbf4d4dff95")
 		)
@@ -53027,6 +56636,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 375.92 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 375.92 128.27 0)
 			(effects
 				(font
@@ -53105,6 +56723,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C320799"
+			(at 314.96 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "73768f23-1f6d-4dad-9f83-89786438d780")
 		)
@@ -53164,6 +56791,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 54.61 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 54.61 83.82 0)
 			(effects
 				(font
@@ -53239,6 +56875,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 375.92 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8a323ed2-aec1-450f-b837-9bb2b47376a7")
 		)
@@ -53306,6 +56951,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 267.97 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d89098e1-2f4f-4b48-bec0-4656d80cb14c")
 		)
@@ -53340,7 +56994,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "270"
+		(property "Value" "165"
 			(at 139.7 54.6099 0)
 			(effects
 				(font
@@ -53368,6 +57022,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 137.16 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C320715"
 			(at 137.16 53.34 0)
 			(effects
 				(font
@@ -53443,6 +57106,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 358.14 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "495737a1-2888-45c8-af80-0d436ca08a9c")
 		)
@@ -53502,6 +57174,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 179.07 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 179.07 154.94 0)
 			(effects
 				(font
@@ -53577,6 +57258,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 107.95 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "066134c9-b46c-474e-b39d-a7eb5c70749a")
 		)
@@ -53636,6 +57326,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 358.14 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 358.14 208.28 0)
 			(effects
 				(font
@@ -53711,6 +57410,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 54.61 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "df69368b-161e-4128-ab79-cf96cbd83b27")
 		)
@@ -53770,6 +57478,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 375.92 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 375.92 217.17 0)
 			(effects
 				(font
@@ -53845,6 +57562,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 107.95 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "950c4958-2a20-4aed-8783-04c3b92daaed")
 		)
@@ -53904,6 +57630,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 321.31 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 321.31 199.39 0)
 			(effects
 				(font
@@ -53979,6 +57714,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C131223"
+			(at 285.75 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "19d830d3-8ead-4463-98b5-b064917f46bc")
 		)
@@ -54038,6 +57782,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 375.92 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C273601"
 			(at 375.92 163.83 0)
 			(effects
 				(font
@@ -54113,6 +57866,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 90.17 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4fa235c8-faaa-4217-bfda-0017b7528022")
 		)
@@ -54180,6 +57942,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C273601"
+			(at 90.17 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "98b8c5c3-ab2c-42c6-a761-fecd90bbac99")
 		)
@@ -54239,6 +58010,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 267.97 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C131223"
 			(at 267.97 199.39 0)
 			(effects
 				(font
