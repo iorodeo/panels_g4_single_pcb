@@ -1235,6 +1235,15 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C21116902 "
+			(at 179.07 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8fed7e92-5f08-4018-b530-0cd60f1f6d19")
 		)
@@ -1388,6 +1397,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC Part #" "C21116902 "
+			(at 179.07 90.805 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
