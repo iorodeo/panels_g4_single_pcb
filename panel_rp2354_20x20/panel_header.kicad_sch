@@ -1321,7 +1321,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C6585819"
+		(property "LCSC Part #" ""
 			(at 99.695 90.805 0)
 			(effects
 				(font
@@ -1494,7 +1494,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C6585819"
+		(property "LCSC Part #" ""
 			(at 99.695 105.41 0)
 			(effects
 				(font
