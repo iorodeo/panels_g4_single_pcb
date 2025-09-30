@@ -933,7 +933,7 @@
 		)
 		(uuid "8aebcf1e-1ea5-45ce-a8e0-8cc55b255f11")
 	)
-	(label "CS4"
+	(label "CS3"
 		(at 105.41 107.95 0)
 		(effects
 			(font
